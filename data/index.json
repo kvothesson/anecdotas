@@ -98,5 +98,36 @@
       "credibility": "alta",
       "intensity": 4
     }
+  },
+  {
+    "id": "vBu4bVNT1DE",
+    "episode_number": 5,
+    "title": "Accidente HEAVY en La RUTA- Anécdotas #5",
+    "url": "https://youtube.com/watch?v=vBu4bVNT1DE",
+    "published_date": "2020-09-21",
+    "duration_seconds": 910,
+    "views": 122202,
+    "likes": 6234,
+    "thumbnail": "https://i.ytimg.com/vi/vBu4bVNT1DE/hqdefault.jpg",
+    "analysis": {
+      "summary": "Un guardavidas vuelve de una despedida de soltero cuando se topa con un grave accidente en la Ruta 74: un auto en llamas con una mujer atrapada y otro volcado con personas inconscientes, incluyendo una embarazada.",
+      "categories": ["viaje", "muerte", "salud", "urbano"],
+      "geography": ["Ayacucho", "Ruta 74", "Buenos Aires"],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "dramático",
+      "institutions_involved": ["salud"],
+      "historical_events": [],
+      "archetypes": ["guardavidas", "conductor", "mujer embarazada", "bombero"],
+      "has_twist": true,
+      "credibility": "muy alta",
+      "intensity": 9,
+      "bonus_track": {
+        "summary": "Rose Barrel, comediante de standup, cuenta cómo a los 23 años su auto cayó por un precipicio en Calamuchita y se salvó milagrosamente enganchado en el único árbol del barranco.",
+        "archetypes": ["comediante", "novio conductor"],
+        "emotional_arc": "absurdo",
+        "intensity": 7
+      }
+    }
   }
 ]
