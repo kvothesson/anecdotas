@@ -23,5 +23,30 @@
       "credibility": "alta",
       "intensity": 7
     }
+  },
+  {
+    "id": "BCvUXZOuEns",
+    "episode_number": 2,
+    "title": "La CHICA que NO  ME Dejaba CAGAR- Anecdotas #2",
+    "url": "https://youtube.com/watch?v=BCvUXZOuEns",
+    "published_date": "2020-08-28",
+    "duration_seconds": 631,
+    "views": 118238,
+    "likes": 6188,
+    "thumbnail": "https://i.ytimg.com/vi/BCvUXZOuEns/hqdefault.jpg",
+    "analysis": {
+      "summary": "Rodrigo va a un asado familiar con su novia-socia después de una fuerte pelea por plata, y cuando necesita urgentemente ir al baño ella se niega a abrirle la casa convencida de que lo está fingiendo para arruinarle la noche.",
+      "categories": ["romance", "laboral"],
+      "geography": ["Mar del Plata"],
+      "era": "contemporánea",
+      "protagonist_role": "narrador",
+      "emotional_arc": "cómico",
+      "institutions_involved": [],
+      "historical_events": [],
+      "archetypes": ["novia", "padre", "cuñado"],
+      "has_twist": false,
+      "credibility": "alta",
+      "intensity": 3
+    }
   }
 ]
