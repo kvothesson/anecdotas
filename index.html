@@ -376,20 +376,6 @@
     margin-bottom: 24px;
   }
 
-  .ep-transcript {
-    background: var(--bg2);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 16px;
-    max-height: 200px;
-    overflow-y: auto;
-    font-size: 13px;
-    line-height: 1.7;
-    color: var(--text-dim);
-    scrollbar-width: thin;
-    scrollbar-color: var(--bg4) transparent;
-  }
-
   .ep-sidebar {
     display: flex; flex-direction: column; gap: 20px;
   }
@@ -774,114 +760,6 @@ function init() {
 
 loadEpisodes();
 
-// ── DATOS REALES cargados desde data/episodes/ via loadEpisodes() ──
-const _REMOVED = [
-  {
-    id:"ePQbK2mT9xo", episode_number:1,
-    title:"EL CASAMIENTO QUE SALIÓ MAL",
-    published_date:"2020-08-21", duration_seconds:1240, views:482000, likes:18200,
-    transcript:"Todo empezó cuando la novia estaba esperando en el altar. El novio llegó tarde, cosa que ya era una señal. Pero nadie esperaba que al intercambiar votos, una mujer del fondo de la iglesia se levantara y dijera que ella era la esposa legítima. Hubo un silencio de diez segundos que pareció un año. La suegra se desmayó...",
-    analysis:{ summary:"Una novia descubre en plena ceremonia que su futuro marido tiene otra familia en Córdoba. La suegra se desmaya, el cura no sabe qué hacer y el banquete se convierte en escena del crimen.", categories:["infidelidad","familia","judicial"], geography:["Buenos Aires"], era:"contemporánea", protagonist_role:"víctima", emotional_arc:"dramático", institutions_involved:["civil","justicia"], archetypes:["novia","bigamo","cura"], has_twist:true, credibility:"alta", intensity:9 }
-  },
-  {
-    id:"vXTR4m8nKpL", episode_number:7,
-    title:"MI JEFE SE QUEDÓ ENCERRADO EN EL BAÑO",
-    published_date:"2020-10-05", duration_seconds:890, views:237000, likes:9800,
-    transcript:"El jefe más estricto de la oficina se quedó encerrado en el baño del piso 14 durante tres horas. Nadie sabía si llamar a los bomberos o aprovechar para tomarse el día. Al final mandaron al pasante a hablarle por debajo de la puerta...",
-    analysis:{ summary:"El jefe más temido de una empresa queda atrapado en el baño corporativo por tres horas. Sus empleados debaten si rescatarlo o disfrutar la paz.", categories:["laboral","cómico"], geography:["Buenos Aires"], era:"contemporánea", protagonist_role:"observador", emotional_arc:"cómico", institutions_involved:["empresa"], archetypes:["jefe tóxico","pasante","secretaria"], has_twist:false, credibility:"alta", intensity:4 }
-  },
-  {
-    id:"nKwR7mYpQdA", episode_number:12,
-    title:"EL MÉDICO QUE SE CONFUNDIÓ DE PACIENTE",
-    published_date:"2020-11-18", duration_seconds:1560, views:614000, likes:23400,
-    transcript:"Mi papá fue a hacerse una operación menor de rodilla. Al despertar de la anestesia se dio cuenta que tenía la pierna izquierda vendada. Su rodilla mala era la derecha. Lo que siguió fue una saga de llamadas entre cirujanos, abogados y la obra social...",
-    analysis:{ summary:"Un paciente entra a operar la rodilla derecha y despierta con la izquierda vendada. Lo que sigue es una odisea judicial y burocrática que duró cuatro años.", categories:["salud","judicial","burocracia"], geography:["Rosario"], era:"contemporánea", protagonist_role:"víctima", emotional_arc:"dramático", institutions_involved:["salud","justicia","obra social"], archetypes:["médico","paciente","abogado"], has_twist:false, credibility:"alta", intensity:8 }
-  },
-  {
-    id:"tBmQ9sWcPxK", episode_number:19,
-    title:"LA VECINA QUE ESCUCHABA TODO",
-    published_date:"2021-01-14", duration_seconds:720, views:189000, likes:7600,
-    transcript:"Vivíamos en un edificio de paredes muy delgadas. La vecina del 4B sabía todo lo que pasaba en cada departamento. No por chusma sino porque literalmente escuchaba todo. Un día nos trajo masas y nos dijo que esperaba que todo se arreglara con mi suegra...",
-    analysis:{ summary:"Una vecina con oído ultrasensible sabe todo lo que pasa en el edificio. Un día aparece con masas y consejos no pedidos que cambian la dinámica del consorcio.", categories:["vecinos","familia","cómico"], geography:["Buenos Aires"], era:"contemporánea", protagonist_role:"narrador", emotional_arc:"cómico", institutions_involved:["consorcio"], archetypes:["vecina chismosa","suegra","portero"], has_twist:true, credibility:"alta", intensity:3 }
-  },
-  {
-    id:"hLpW4vNqRmJ", episode_number:23,
-    title:"EL ACCIDENTE EN LA RUTA 9",
-    published_date:"2021-02-28", duration_seconds:2100, views:891000, likes:41200,
-    transcript:"Íbamos a Mar del Plata en enero, cinco personas en un auto. A la altura de Dolores se pincha una rueda. El papá baja a cambiarla. El gato hidráulico no funciona. Pasan dos horas. Empieza a llover. Y ahí aparece el camionero...",
-    analysis:{ summary:"Una familia camino a la costa pierde dos horas en el banquín de la Ruta 9 hasta que un camionero de Tucumán los salva de una manera que nadie esperaba.", categories:["viaje","familia","solidaridad"], geography:["Buenos Aires","Dolores"], era:"contemporánea", protagonist_role:"narrador", emotional_arc:"emotivo", institutions_involved:[], archetypes:["padre","camionero","familia entera"], has_twist:true, credibility:"muy alta", intensity:6 }
-  },
-  {
-    id:"qSaT2rCzMwB", episode_number:31,
-    title:"MI EX EN EL ASADO DE MI NUEVA NOVIA",
-    published_date:"2021-04-10", duration_seconds:980, views:456000, likes:19800,
-    transcript:"Fui al primer asado en lo de los padres de mi novia nueva. Me presenté nervioso, todo bien. Cuando la madre salió al jardín a buscar algo, me cayó la cara al suelo. Era la ex de mi ex. Es decir: la ex de la mujer con la que terminé para estar con esta chica...",
-    analysis:{ summary:"Un hombre va al primer asado familiar de su nueva novia y descubre que la madre es la ex de su ex anterior. La situación escala rápidamente.", categories:["romance","familia","cómico"], geography:["Buenos Aires"], era:"contemporánea", protagonist_role:"protagonista", emotional_arc:"cómico", institutions_involved:[], archetypes:["novio","ex","suegra involuntaria"], has_twist:true, credibility:"alta", intensity:7 }
-  },
-  {
-    id:"pHnZ5kWoXuE", episode_number:38,
-    title:"EL ROBO CON AMABILIDAD",
-    published_date:"2021-06-07", duration_seconds:1380, views:723000, likes:31600,
-    transcript:"Me estaban robando el celular en el subte cuando el ladrón me preguntó si era el modelo 12 o el 13. Le dije que el 13. Me dijo 'ah, qué pena, yo buscaba el 12 por el chip'. Me lo devolvió y bajó en Pueyrredón...",
-    analysis:{ summary:"Un ladrón de subte devuelve el celular porque no era el modelo que buscaba. La víctima queda tan perpleja que no sabe si denunciar o agradecer.", categories:["delito","cómico","urbano"], geography:["Buenos Aires"], era:"contemporánea", protagonist_role:"víctima", emotional_arc:"absurdo", institutions_involved:["policía"], archetypes:["ladrón educado","víctima","pasajeros"], has_twist:true, credibility:"alta", intensity:5 }
-  },
-  {
-    id:"dFxV8mHjYrC", episode_number:44,
-    title:"MI ABUELA SE PELEÓ CON ALEXA",
-    published_date:"2021-08-19", duration_seconds:640, views:1240000, likes:58700,
-    transcript:"Le regalamos un Echo Dot a mi abuela de 82 años. Los primeros días fue fenomenal. El problema fue cuando Alexa le dio el pronóstico del tiempo equivocado y ella le exigió que se disculpara. Alexa no supo qué decir. Mi abuela tampoco. Pero ella sí podía insultar...",
-    analysis:{ summary:"Una abuela de 82 años entra en conflicto existencial con su altavoz inteligente después de un pronóstico errado. La disputa dura tres semanas.", categories:["generacional","tecnología","familia","cómico"], geography:["Mar del Plata"], era:"contemporánea", protagonist_role:"observador", emotional_arc:"cómico", institutions_involved:[], archetypes:["abuela","nieta","dispositivo"], has_twist:false, credibility:"muy alta", intensity:2 }
-  },
-  {
-    id:"wNjQ6pKsBfT", episode_number:57,
-    title:"EL JUICIO POR LAS MEDIALUNAS",
-    published_date:"2021-11-03", duration_seconds:1820, views:395000, likes:17200,
-    transcript:"Mi vecino demandó a la panadería del barrio porque sus medialunas no eran de grasa sino de manteca, algo que él consideraba una estafa contractual implícita. El juicio duró ocho meses. La panadería tuvo que cerrar durante la apelación...",
-    analysis:{ summary:"Un vecino lleva a juicio a la panadería del barrio por un malentendido sobre el tipo de grasa de las medialunas. Ocho meses de proceso judicial destruyen un negocio familiar.", categories:["judicial","burocracia","vecinos"], geography:["Córdoba"], era:"contemporánea", protagonist_role:"observador", emotional_arc:"absurdo", institutions_involved:["justicia"], archetypes:["vecino litigante","panadero","juez"], has_twist:false, credibility:"alta", intensity:6 }
-  },
-  {
-    id:"cPrL3tGmZkW", episode_number:63,
-    title:"NOCHE DE BODAS EN BARILOCHE",
-    published_date:"2022-01-24", duration_seconds:1100, views:529000, likes:24300,
-    transcript:"Llegamos al hotel en Bariloche, luna de miel, todo romántico. La habitación olía raro. Pedimos cambio. La segunda habitación tenía una gotera. La tercera estaba ocupada. A las 2am el gerente nos ofreció quedarnos en la suite presidencial gratis. Era la misma habitación que la original pero le pusieron flores...",
-    analysis:{ summary:"Una pareja de recién casados pasa su noche de bodas recorriendo seis habitaciones de hotel hasta terminar donde empezaron, pero con flores nuevas.", categories:["romance","viaje","cómico"], geography:["Bariloche","Buenos Aires"], era:"contemporánea", protagonist_role:"protagonista", emotional_arc:"cómico", institutions_involved:["turismo"], archetypes:["novios","gerente de hotel","recepcionista"], has_twist:true, credibility:"alta", intensity:3 }
-  },
-  {
-    id:"gXsM7qBpRnA", episode_number:79,
-    title:"EL POLICÍA PERDIDO",
-    published_date:"2022-04-11", duration_seconds:1440, views:688000, likes:29800,
-    transcript:"Un patrullero nos para en la autopista a las 11 de la noche. Nos pide los documentos. Todo bien. Pero resulta que el policía estaba él mismo perdido y nos preguntó si sabíamos cómo llegar a la seccional Quilmes. Terminamos guiándolos...",
-    analysis:{ summary:"Un patrullero detiene un auto en la autopista no para un control sino porque los policías estaban perdidos y necesitaban indicaciones para llegar a su propia seccional.", categories:["cómico","policial","urbano"], geography:["Buenos Aires","Quilmes"], era:"contemporánea", protagonist_role:"narrador", emotional_arc:"absurdo", institutions_involved:["policía"], archetypes:["policía perdido","conductor","copiloto"], has_twist:true, credibility:"alta", intensity:4 }
-  },
-  {
-    id:"yKwD9vHrCmP", episode_number:88,
-    title:"EL TELEGRAMA DE MI BISABUELO",
-    published_date:"2022-07-18", duration_seconds:2580, views:143000, likes:8900,
-    transcript:"Mi bisabuelo mandó un telegrama a su hermano en Italia en 1952 para avisarle que había llegado bien a Argentina. El telegrama llegó a destino en 2019. Nadie sabe cómo. La empresa de correo tampoco pudo explicarlo...",
-    analysis:{ summary:"Un telegrama enviado en 1952 llega a destino en 2019, 67 años después. Los descendientes de ambas familias se conocen gracias al mensaje que nadie pudo explicar.", categories:["histórico","familia","migración"], geography:["Buenos Aires","Italia"], era:"mitad de siglo XX", protagonist_role:"observador", emotional_arc:"emotivo", institutions_involved:["correo"], archetypes:["inmigrante","familia","cartero"], has_twist:true, credibility:"alta", intensity:7 }
-  },
-  {
-    id:"fZtB2sLpWmQ", episode_number:101,
-    title:"OPERATIVO GATO EN EL METRO",
-    published_date:"2022-10-05", duration_seconds:810, views:2100000, likes:98700,
-    transcript:"Alguien soltó un gato dentro del vagón de subte en hora pico. El gato corrió durante tres estaciones. Una señora se subió al asiento. Un hombre intentó atraparlo con su bolso. El guarda frenó el tren en el túnel...",
-    analysis:{ summary:"Un gato suelto genera caos en el subte de Buenos Aires durante tres estaciones en hora pico, incluyendo frenada de emergencia y evacuación parcial.", categories:["urbano","cómico","animales"], geography:["Buenos Aires"], era:"contemporánea", protagonist_role:"testigo", emotional_arc:"absurdo", institutions_involved:["transporte público"], archetypes:["gato","señora asustada","guarda","cazador improvisado"], has_twist:false, credibility:"muy alta", intensity:5 }
-  },
-  {
-    id:"mNbC4xQkFoH", episode_number:115,
-    title:"EL VELORIO QUE NADIE QUERÍA IRSE",
-    published_date:"2023-01-31", duration_seconds:1680, views:374000, likes:16800,
-    transcript:"El velorio del tío Carlos duró tres días porque nadie quería irse. No por tristeza sino porque el catering era muy bueno y la sala tenía aire acondicionado. Fue en enero. El propio tío Carlos hubiera querido quedarse...",
-    analysis:{ summary:"El velorio de un tío se extiende tres días por el calor de enero, el catering excelente y la comodidad de la sala. La familia termina festejando más que llorando.", categories:["familia","muerte","cómico"], geography:["Mendoza"], era:"contemporánea", protagonist_role:"narrador", emotional_arc:"cómico", institutions_involved:["pompa fúnebre"], archetypes:["familia extensa","difunto popular","empleado funerario"], has_twist:false, credibility:"muy alta", intensity:5 }
-  },
-  {
-    id:"kRvJ7nMsBcY", episode_number:128,
-    title:"LA DEUDA CON EL CARTONERO",
-    published_date:"2023-04-22", duration_seconds:1340, views:267000, likes:12400,
-    transcript:"En 2001 le debía diez pesos a un cartonero del barrio. Me olvidé. Veinte años después me lo encontré en el supermercado. Me acordé. Él también. Me invitó a tomar un mate y charlamos dos horas. La deuda todavía no la pagué...",
-    analysis:{ summary:"Una deuda de diez pesos de 2001 lleva al reencuentro de dos personas veinte años después. El cartonero, ahora empresario reciclador, invita al deudor a su depósito.", categories:["barrio","deuda","amistad","histórico"], geography:["Buenos Aires"], era:"crisis 2001", protagonist_role:"protagonista", emotional_arc:"emotivo", institutions_involved:[], archetypes:["cartonero","deudor","vecino"], has_twist:true, credibility:"muy alta", intensity:6 }
-  }
-];
 
 // ═══════════════════════════════════════════════════
 // HELPERS
@@ -1087,8 +965,7 @@ async function renderEpisode(id) {
           <div style="font-size:14px;line-height:1.6;color:var(--text)">${a.bonus_track.summary}</div>
           <div style="display:flex;gap:5px;margin-top:10px;flex-wrap:wrap">${a.bonus_track.archetypes.map(t=>`<span class="tag" style="color:var(--text-dim);border-color:var(--border);background:var(--bg3)">${t}</span>`).join('')}</div>
         </div>` : ''}
-        <div class="ep-section-title">Transcript</div>
-        <div class="ep-transcript">${ep.transcript || '<em style="color:var(--text-muted)">Transcript no disponible</em>'}</div>
+
       </div>
       <div class="ep-sidebar">
         <div class="analysis-card">
@@ -1272,7 +1149,7 @@ function initSearch() {
       { name:'analysis.summary', weight:2 },
       { name:'analysis.categories', weight:1.5 },
       { name:'analysis.archetypes', weight:1 },
-      { name:'transcript', weight:0.5 }
+
     ],
     threshold: 0.35,
     includeMatches: true,
