@@ -230,6 +230,22 @@
     text-transform: uppercase;
   }
 
+  .bonus-badge {
+    position: absolute; top: 10px; right: 10px;
+    background: oklch(45% 0.15 250);
+    border-radius: 4px;
+    font-size: 10px; font-weight: 700;
+    padding: 2px 7px;
+    color: #fff;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .twist-badge + .bonus-badge,
+  .bonus-badge + .twist-badge {
+    top: 32px;
+  }
+
   .card-body { padding: 14px 16px 16px; }
 
   .card-cats {
@@ -990,6 +1006,7 @@ function cardHTML(ep) {
       <div class="ep-badge">#${ep.episode_number}</div>
       <div class="duration-badge">${fmtDur(ep.duration_seconds)}</div>
       ${a.has_twist?'<div class="twist-badge">Giro</div>':''}
+      ${a.bonus_track?'<div class="bonus-badge">Bonus</div>':''}
       <div class="card-thumb-overlay">
         <div class="play-btn">
           <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M5 3L13 8L5 13V3Z" fill="#0e0d0b"/></svg>
