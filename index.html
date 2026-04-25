@@ -1024,7 +1024,6 @@ async function renderEpisode(id) {
     return;
   }
   const a = ep.analysis;
-  const container = document.getElementById('episode-detail-content');
   container.innerHTML = `
     <div class="ep-player">
       <iframe src="https://www.youtube.com/embed/${ep.id}?autoplay=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
