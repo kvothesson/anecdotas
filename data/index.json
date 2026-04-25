@@ -1,0 +1,27 @@
+[
+  {
+    "id": "LfCU0IoeZDc",
+    "episode_number": 1,
+    "title": "FRANCISQUITO y Los MOGUL- Anécdotas #1",
+    "url": "https://youtube.com/watch?v=LfCU0IoeZDc",
+    "published_date": "2020-08-21",
+    "duration_seconds": 606,
+    "views": 280083,
+    "likes": 9700,
+    "thumbnail": "https://i.ytimg.com/vi/LfCU0IoeZDc/hqdefault.jpg",
+    "analysis": {
+      "summary": "Un músico guarda ácido lisérgico en módulos de madera en un cajón de su casa antes de una gira. Su empleada doméstica los encuentra y se los come todos creyendo que son golosinas.",
+      "categories": ["drogas", "laboral", "judicial"],
+      "geography": ["Buenos Aires", "Salta", "Jujuy"],
+      "era": "años 10",
+      "protagonist_role": "narrador",
+      "emotional_arc": "absurdo",
+      "institutions_involved": ["justicia", "salud"],
+      "historical_events": [],
+      "archetypes": ["músico", "empleada doméstica", "abogado", "novia"],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 7
+    }
+  }
+]
