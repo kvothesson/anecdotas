@@ -254,5 +254,136 @@
       "credibility": "media",
       "intensity": 6
     }
+  },
+  {
+    "id": "FIE5yKxlPX0",
+    "episode_number": 11,
+    "title": "Que Miedo CHABÓN- Anécdotas #11",
+    "url": "https://youtube.com/watch?v=FIE5yKxlPX0",
+    "published_date": "2020-11-01",
+    "duration_seconds": 1233,
+    "views": 219169,
+    "likes": 8295,
+    "thumbnail": "https://i.ytimg.com/vi/FIE5yKxlPX0/hqdefault.jpg",
+    "analysis": {
+      "summary": "Juan Ignacio, de 13 años en Santa Fe, se despierta de madrugada y ve una entidad negra de dos metros y medio con ojos amarillos en su cuarto; años después descubre que sus padres le habían hecho un exorcismo secreto con mediadores húngaros.",
+      "categories": ["paranormal", "familia", "salud"],
+      "geography": ["Santa Fe"],
+      "era": "contemporánea",
+      "protagonist_role": "víctima",
+      "emotional_arc": "terror",
+      "institutions_involved": ["salud"],
+      "historical_events": [],
+      "archetypes": ["adolescente", "madre", "psiquiatra", "curandero"],
+      "has_twist": true,
+      "credibility": "baja",
+      "intensity": 7,
+      "bonus_track": {
+        "summary": "Cuatro amigos acampan en una orilla salvaje del lado uruguayo y a las 3am escuchan un grito desgarrador femenino a metros de la carpa; al amanecer no encuentran ningún rastro ni huella en la arena.",
+        "archetypes": ["amigos", "acampantes"],
+        "emotional_arc": "terror",
+        "intensity": 6
+      }
+    }
+  },
+  {
+    "id": "hF8im6CF2UY",
+    "episode_number": 12,
+    "title": "Me MORÍ Por un TIEMPO- Anécdotas #12",
+    "url": "https://youtube.com/watch?v=hF8im6CF2UY",
+    "published_date": "2020-11-08",
+    "duration_seconds": 652,
+    "views": 109331,
+    "likes": 6480,
+    "thumbnail": "https://i.ytimg.com/vi/hF8im6CF2UY/hqdefault.jpg",
+    "analysis": {
+      "summary": "Darío, un adolescente rebelde de 17 años en crisis familiar, intenta suicidarse mezclando drogas, fallece brevemente en el hospital y tiene una experiencia cercana a la muerte donde se reencuentra con su padre fallecido.",
+      "categories": ["drogas", "salud", "familia", "muerte"],
+      "geography": [],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "emotivo",
+      "institutions_involved": ["salud"],
+      "historical_events": [],
+      "archetypes": ["adolescente", "padre fallecido", "enfermero", "madre"],
+      "has_twist": true,
+      "credibility": "media",
+      "intensity": 9
+    }
+  },
+  {
+    "id": "UMnGtSNuVqs",
+    "episode_number": 13,
+    "title": "La Mano DURA de La LEY- Anécdotas #13",
+    "url": "https://youtube.com/watch?v=UMnGtSNuVqs",
+    "published_date": "2020-11-15",
+    "duration_seconds": 378,
+    "views": 92710,
+    "likes": 5337,
+    "thumbnail": "https://i.ytimg.com/vi/UMnGtSNuVqs/hqdefault.jpg",
+    "analysis": {
+      "summary": "En un pueblito del interior, dos amigos esperan durante dos horas al dealer en una casa descampada y cuando llegan dos policías en moto directamente hacia ellos, están convencidos de que los van a detener.",
+      "categories": ["drogas", "policial", "corrupción"],
+      "geography": [],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "cómico",
+      "institutions_involved": ["policia"],
+      "historical_events": [],
+      "archetypes": ["dealer", "policía corrupto", "amigos"],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 4
+    }
+  },
+  {
+    "id": "MDJitxWi0ko",
+    "episode_number": 14,
+    "title": "El MUNDIAL 2018 Me ARRUINÓ La VIDA- Anécdotas #14",
+    "url": "https://youtube.com/watch?v=MDJitxWi0ko",
+    "published_date": "2020-11-22",
+    "duration_seconds": 449,
+    "views": 108042,
+    "likes": 5366,
+    "thumbnail": "https://i.ytimg.com/vi/MDJitxWi0ko/hqdefault.jpg",
+    "analysis": {
+      "summary": "Un hincha de Argentina ahoga su tristeza por la derrota ante Francia en el Mundial 2018 en un largo asado familiar, llega a casa en un estado deplorable y se desmaya en la ducha, inundando toda la casa con agua y diarrea.",
+      "categories": ["deporte", "romance", "urbano"],
+      "geography": ["Argentina"],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "cómico",
+      "institutions_involved": [],
+      "historical_events": [],
+      "archetypes": ["hincha", "novia", "tíos"],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 3
+    }
+  },
+  {
+    "id": "lKrssX1oXGI",
+    "episode_number": 15,
+    "title": "Asado FATAL- Anécdotas #15",
+    "url": "https://youtube.com/watch?v=lKrssX1oXGI",
+    "published_date": "2020-11-29",
+    "duration_seconds": 603,
+    "views": 132218,
+    "likes": 5860,
+    "thumbnail": "https://i.ytimg.com/vi/lKrssX1oXGI/hqdefault.jpg",
+    "analysis": {
+      "summary": "En los años 70, el padre del narrador debe dar la noticia de muerte del dueño de casa a su hermano que vive en una zona rural de Luján, y en plena tormenta nocturna llega a la estancia para encontrarse con el mismísimo rostro del muerto.",
+      "categories": ["muerte", "familia", "viaje"],
+      "geography": ["Luján", "Buenos Aires"],
+      "era": "años 70",
+      "protagonist_role": "narrador",
+      "emotional_arc": "dramático",
+      "institutions_involved": [],
+      "historical_events": [],
+      "archetypes": ["padre", "anciano", "italiano", "gemelo"],
+      "has_twist": true,
+      "credibility": "muy alta",
+      "intensity": 7
+    }
   }
 ]
