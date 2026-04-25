@@ -1,0 +1,25 @@
+{
+  "id": "UMnGtSNuVqs",
+  "episode_number": 13,
+  "title": "La Mano DURA de La LEY- Anécdotas #13",
+  "url": "https://youtube.com/watch?v=UMnGtSNuVqs",
+  "published_date": "2020-11-15",
+  "duration_seconds": 378,
+  "views": 92710,
+  "likes": 5337,
+  "thumbnail": "https://i.ytimg.com/vi/UMnGtSNuVqs/hqdefault.jpg",
+  "analysis": {
+    "summary": "En un pueblito del interior, dos amigos esperan durante dos horas al dealer en una casa descampada y cuando llegan dos policías en moto directamente hacia ellos, están convencidos de que los van a detener.",
+    "categories": ["drogas", "policial", "corrupción"],
+    "geography": [],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "cómico",
+    "institutions_involved": ["policia"],
+    "historical_events": [],
+    "archetypes": ["dealer", "policía corrupto", "amigos"],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 4
+  }
+}

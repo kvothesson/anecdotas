@@ -1,0 +1,25 @@
+{
+  "id": "hF8im6CF2UY",
+  "episode_number": 12,
+  "title": "Me MORÍ Por un TIEMPO- Anécdotas #12",
+  "url": "https://youtube.com/watch?v=hF8im6CF2UY",
+  "published_date": "2020-11-08",
+  "duration_seconds": 652,
+  "views": 109331,
+  "likes": 6480,
+  "thumbnail": "https://i.ytimg.com/vi/hF8im6CF2UY/hqdefault.jpg",
+  "analysis": {
+    "summary": "Darío, un adolescente rebelde de 17 años en crisis familiar, intenta suicidarse mezclando drogas, fallece brevemente en el hospital y tiene una experiencia cercana a la muerte donde se reencuentra con su padre fallecido.",
+    "categories": ["drogas", "salud", "familia", "muerte"],
+    "geography": [],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "emotivo",
+    "institutions_involved": ["salud"],
+    "historical_events": [],
+    "archetypes": ["adolescente", "padre fallecido", "enfermero", "madre"],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 9
+  }
+}
