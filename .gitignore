@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Archivos temporales de ingest
+data/episodes/*_raw.json
+
+# Skills (solo para desarrollo local)
+skills/
+
+# Env local
+.env

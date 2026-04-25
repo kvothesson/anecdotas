@@ -1,0 +1,35 @@
+name: Refresh YouTube Stats
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # todos los días a las 06:00 UTC
+  workflow_dispatch:        # también ejecutable manualmente
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update stats
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/refresh_stats.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/index.json data/episodes/
+          git diff --cached --quiet || git commit -m "chore: refresh YouTube stats [skip ci]"
+          git push
