@@ -1016,8 +1016,13 @@ function cardHTML(ep) {
 // EPISODE DETAIL
 // ═══════════════════════════════════════════════════
 async function renderEpisode(id) {
+  const container = document.getElementById('episode-detail-content');
+  container.innerHTML = '<div style="padding:40px;color:var(--text-muted);text-align:center">Cargando...</div>';
   const ep = await loadFullEpisode(id);
-  if(!ep) return;
+  if(!ep) {
+    container.innerHTML = '<div style="padding:40px;color:var(--crimson);text-align:center">No se pudo cargar el episodio.</div>';
+    return;
+  }
   const a = ep.analysis;
   const container = document.getElementById('episode-detail-content');
   container.innerHTML = `
@@ -1053,7 +1058,7 @@ async function renderEpisode(id) {
         <div class="ep-section-title">Resumen</div>
         <div class="ep-summary-text">${a.summary}</div>
         <div class="ep-section-title">Transcript</div>
-        <div class="ep-transcript">${ep.transcript}</div>
+        <div class="ep-transcript">${ep.transcript || '<em style="color:var(--text-muted)">Transcript no disponible</em>'}</div>
       </div>
       <div class="ep-sidebar">
         <div class="analysis-card">
