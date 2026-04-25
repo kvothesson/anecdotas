@@ -999,6 +999,10 @@ async function renderEpisode(id) {
             <span class="analysis-row-key">Instituciones</span>
             <span class="analysis-row-val">${a.institutions_involved.join(', ')}</span>
           </div>` : ''}
+          ${a.historical_events && a.historical_events.length ? `<div class="analysis-row">
+            <span class="analysis-row-key">Evento histórico</span>
+            <span class="analysis-row-val">${a.historical_events.join(', ')}</span>
+          </div>` : ''}
         </div>
         <div class="analysis-card">
           <div class="ep-section-title" style="margin-bottom:12px">Categorías</div>
