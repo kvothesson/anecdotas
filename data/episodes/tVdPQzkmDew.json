@@ -1,0 +1,53 @@
+{
+  "id": "tVdPQzkmDew",
+  "episode_number": 51,
+  "title": "VENEZUELA Desde ADENTRO-  Anécdotas #51",
+  "url": "https://youtube.com/watch?v=tVdPQzkmDew",
+  "published_date": "2021-08-22",
+  "duration_seconds": 676,
+  "views": 80478,
+  "likes": 4434,
+  "thumbnail": "https://i.ytimg.com/vi/tVdPQzkmDew/hqdefault.jpg",
+  "analysis": {
+    "summary": "Andrés, estudiante universitario venezolano y líder del movimiento estudiantil, es detenido por la policía secreta tras fotografiar un punto de control frente a su universidad durante las protestas de 2017. Es llevado al sótano del recinto, conocido como lugar de torturas, donde él y otro estudiante son amenazados e intimidados.",
+    "categories": [
+      "policial",
+      "histórico",
+      "corrupción",
+      "judicial",
+      "urbano"
+    ],
+    "geography": [
+      "Venezuela"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "educación",
+      "militar",
+      "justicia"
+    ],
+    "historical_events": [
+      "protestas Venezuela 2017"
+    ],
+    "archetypes": [
+      "estudiante activista",
+      "autoridad abusiva",
+      "testigo resiliente"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 9,
+    "bonus_track": {
+      "summary": "Nico comparte brevemente una anécdota propia sobre una situación con un taxista que lo hizo firmar algo y lo amenazó con llevarlo a tribunales, comparándola humorísticamente con lo vivido por Andrés en Venezuela.",
+      "archetypes": [
+        "conductor abusivo",
+        "pasajero desprevenido"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 3
+    }
+  }
+}

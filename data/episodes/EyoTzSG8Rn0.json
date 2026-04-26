@@ -1,0 +1,38 @@
+{
+  "id": "EyoTzSG8Rn0",
+  "episode_number": 228,
+  "title": "Anécdota #228  - Evento PRIVADO TURBIO",
+  "url": "https://youtube.com/watch?v=EyoTzSG8Rn0",
+  "published_date": "2025-03-23",
+  "duration_seconds": 1011,
+  "views": 86415,
+  "likes": 3464,
+  "thumbnail": "https://i.ytimg.com/vi/EyoTzSG8Rn0/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un músico es contratado de forma secreta para tocar en vivo en una cena íntima y romántica para dos figuras de alto perfil de la política argentina, ambos casados con otras personas.",
+    "categories": [
+      "laboral",
+      "romance",
+      "corrupción",
+      "urbano"
+    ],
+    "geography": [
+      "Argentina",
+      "Buenos Aires"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "músico contratado",
+      "político poderoso",
+      "intermediario misterioso",
+      "amante secreto"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 7
+  }
+}

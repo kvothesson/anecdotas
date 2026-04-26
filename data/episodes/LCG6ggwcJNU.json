@@ -1,0 +1,49 @@
+{
+  "id": "LCG6ggwcJNU",
+  "episode_number": 196,
+  "title": "Anécdota #196 - NO PODÉS ser tan ORTIVA",
+  "url": "https://youtube.com/watch?v=LCG6ggwcJNU",
+  "published_date": "2024-07-28",
+  "duration_seconds": 908,
+  "views": 77777,
+  "likes": 4167,
+  "thumbnail": "https://i.ytimg.com/vi/LCG6ggwcJNU/hqdefault.jpg",
+  "analysis": {
+    "summary": "Roni, de 22 años, intenta subirse al colectivo 71 a las 4 de la madrugada en invierno sin saldo en la SUBE, y el chofer se niega a dejarlo pasar incluso cuando otros pasajeros ofrecen pagarle. La situación escala hasta un enfrentamiento dentro del colectivo.",
+    "categories": [
+      "urbano",
+      "burocracia",
+      "transporte público",
+      "barrio"
+    ],
+    "geography": [
+      "Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "transporte público",
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el ortiva",
+      "el héroe involuntario",
+      "la solidaridad popular",
+      "el chofer inflexible"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 5,
+    "bonus_track": {
+      "summary": "Nico y Conrado viajan en el transporte público de Berlín sin pagar el boleto confiando en que nunca aparece un inspector, pero justamente en ese viaje se les aparece uno pidiendo tickets.",
+      "archetypes": [
+        "el argentino avivado",
+        "la ley de Murphy"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 4
+    }
+  }
+}

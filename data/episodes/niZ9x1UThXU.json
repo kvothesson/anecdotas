@@ -1,0 +1,41 @@
+{
+  "id": "niZ9x1UThXU",
+  "episode_number": 120,
+  "title": "Mi MAMÁ nos SALVó la VIDA - Anécdotas #120",
+  "url": "https://youtube.com/watch?v=niZ9x1UThXU",
+  "published_date": "2023-01-15",
+  "duration_seconds": 913,
+  "views": 80342,
+  "likes": 3769,
+  "thumbnail": "https://i.ytimg.com/vi/niZ9x1UThXU/hqdefault.jpg",
+  "analysis": {
+    "summary": "Luli relata cómo durante una escala en el aeropuerto de Ezeiza, su tía las llevó a buscar una peluquería de trenzas que resultó ser una trampa en un departamento sospechoso de un barrio peligroso. Las tres mujeres se encontraron encerradas en condiciones alarmantes y debieron escapar por sus propios medios.",
+    "categories": [
+      "viaje",
+      "estafa",
+      "policial",
+      "urbano",
+      "familia"
+    ],
+    "geography": [
+      "Buenos Aires",
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "madre protectora",
+      "tía obstinada",
+      "adolescente con intuición",
+      "tratante camuflada"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8
+  }
+}

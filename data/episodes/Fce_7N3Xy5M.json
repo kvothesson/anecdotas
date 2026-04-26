@@ -1,0 +1,46 @@
+{
+  "id": "Fce_7N3Xy5M",
+  "episode_number": 245,
+  "title": "Anécdota #245 -  OVNIS en ARGENTINA",
+  "url": "https://youtube.com/watch?v=Fce_7N3Xy5M",
+  "published_date": "2025-07-27",
+  "duration_seconds": 1338,
+  "views": 91514,
+  "likes": 3696,
+  "thumbnail": "https://i.ytimg.com/vi/Fce_7N3Xy5M/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una estudiante de ingeniería en Buenos Aires presencia junto a un amigo un objeto volador no identificado de gran tamaño y forma inusual mientras esperan en el patio de la facultad. A partir del avistamiento, inicia una investigación metódica para intentar explicar racionalmente lo que vio.",
+    "categories": [
+      "paranormal",
+      "urbano",
+      "educación"
+    ],
+    "geography": [
+      "Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "educación"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "escéptica convertida",
+      "investigadora obsesiva",
+      "testigo ocular"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Nico cuenta que él y su productor Juan también vieron un objeto extraño en el cielo mientras estaban en el auto en el barrio de Colegiales, y que ambos se confirmaron mutuamente haberlo visto.",
+      "archetypes": [
+        "testigo casual",
+        "cómplice involuntario"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 4
+    }
+  }
+}

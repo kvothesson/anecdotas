@@ -1,0 +1,41 @@
+{
+  "id": "TM-Z5Em22eg",
+  "episode_number": 45,
+  "title": "El LADO Oscuro De La MORGUE- Anécdotas #45",
+  "url": "https://youtube.com/watch?v=TM-Z5Em22eg",
+  "published_date": "2021-07-05",
+  "duration_seconds": 943,
+  "views": 213565,
+  "likes": 8734,
+  "thumbnail": "https://i.ytimg.com/vi/TM-Z5Em22eg/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un enfermero de guardia nocturna en un sanatorio de Rosario relata la noche en que un paciente terminal fue declarado muerto y trasladado a la morgue, desencadenando una serie de eventos médicos y burocráticos inesperados.",
+    "categories": [
+      "salud",
+      "muerte",
+      "laboral",
+      "burocracia"
+    ],
+    "geography": [
+      "Rosario, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "narrador",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "salud"
+    ],
+    "historical_events": [
+      "pandemia"
+    ],
+    "archetypes": [
+      "enfermero veterano",
+      "paciente terminal",
+      "médica de guardia",
+      "camillero"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tsUSewt1nk8",
+  "episode_number": 236,
+  "title": "Anécdota #236 -  EL DENTISTA",
+  "url": "https://youtube.com/watch?v=tsUSewt1nk8",
+  "published_date": "2025-05-25",
+  "duration_seconds": 1429,
+  "views": 104703,
+  "likes": 4346,
+  "thumbnail": "https://i.ytimg.com/vi/tsUSewt1nk8/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un estudiante de odontología es asaltado brutalmente en una plaza peligrosa de Buenos Aires, sufriendo fracturas y humillaciones. Años después, en su práctica universitaria, el destino le pone enfrente al mismo agresor como paciente.",
+    "categories": [
+      "robo",
+      "policial",
+      "salud",
+      "urbano",
+      "educación",
+      "barrio"
+    ],
+    "geography": [
+      "Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "educación",
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el estudiante sacrificado",
+      "el delincuente reincidente",
+      "el vengador silencioso",
+      "el docente exigente"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 8
+  }
+}

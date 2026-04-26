@@ -1,0 +1,48 @@
+{
+  "id": "f6YqTE8PLyI",
+  "episode_number": 44,
+  "title": "Policia TURBIO + BONUS Track - Anécdotas #44",
+  "url": "https://youtube.com/watch?v=f6YqTE8PLyI",
+  "published_date": "2021-06-27",
+  "duration_seconds": 922,
+  "views": 114407,
+  "likes": 5479,
+  "thumbnail": "https://i.ytimg.com/vi/f6YqTE8PLyI/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven de un barrio complicado del sur cordobés va a visitar a un amigo y termina tomando mate con un policía que vive en el edificio, mientras ambos están bajo los efectos de la marihuana y con una pipa a medio quemar en el bolsillo.",
+    "categories": [
+      "policial",
+      "barrio",
+      "drogas",
+      "urbano"
+    ],
+    "geography": [
+      "Córdoba, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "policía amenazante",
+      "pibe de barrio",
+      "amigo cómplice"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Un traumatólogo en guardia recibe a un paciente con un dedo amputado y, mientras la familia espera afuera, el equipo médico pierde el dedo sin poder encontrarlo por ningún lado.",
+      "archetypes": [
+        "médico despistado",
+        "paciente vulnerable",
+        "guardia caótica"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 4
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "4WuOttPXjIA",
+  "episode_number": 121,
+  "title": "TITANES en el RING- Anécdotas #121",
+  "url": "https://youtube.com/watch?v=4WuOttPXjIA",
+  "published_date": "2023-01-22",
+  "duration_seconds": 1309,
+  "views": 81774,
+  "likes": 3695,
+  "thumbnail": "https://i.ytimg.com/vi/4WuOttPXjIA/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un hombre recuerda cuando de niño, en un pueblo del conurbano bonaerense en los años 80, él y su barrita de amigos fueron a ver un show de lucha libre anunciado como 'Los Auténticos Titanes', creyendo que serían los famosos luchadores de la televisión.",
+    "categories": [
+      "barrio",
+      "estafa",
+      "histórico",
+      "generacional",
+      "deporte"
+    ],
+    "geography": [
+      "Conurbano bonaerense, Argentina"
+    ],
+    "era": "años 80",
+    "protagonist_role": "narrador",
+    "emotional_arc": "cómico",
+    "institutions_involved": [
+      "educación"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el pícaro del barrio",
+      "la infancia salvaje",
+      "el estafador",
+      "el niño rebelde"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 6,
+    "bonus_track": {
+      "summary": "Uno de los conductores recuerda cuando su padre lo llevó de niño a ver un show infantil en Miramar con muñecos soldaditos, y la decepción que sintió años después al volver a un parque de atracciones de su infancia esperando revivir la magia.",
+      "archetypes": [
+        "la nostalgia infantil",
+        "el desencanto adulto"
+      ],
+      "emotional_arc": "emotivo",
+      "intensity": 3
+    }
+  }
+}

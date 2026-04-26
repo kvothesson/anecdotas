@@ -1,0 +1,47 @@
+{
+  "id": "l5WTq6XG5ko",
+  "episode_number": 110,
+  "title": "ESCALOFRÍOS en el BOSQUE - Anécdotas #110",
+  "url": "https://youtube.com/watch?v=l5WTq6XG5ko",
+  "published_date": "2022-11-06",
+  "duration_seconds": 833,
+  "views": 100615,
+  "likes": 6465,
+  "thumbnail": "https://i.ytimg.com/vi/l5WTq6XG5ko/hqdefault.jpg",
+  "analysis": {
+    "summary": "Lucas y su amigo Federico van de vacaciones a Córdoba y durante una excursión al Cerro de la Cruz se cruzan con un hombre que les dice estar buscando a su mujer desaparecida. Horas después descubren por las noticias que ese mismo hombre era el principal sospechoso de un crimen ocurrido en el cerro.",
+    "categories": [
+      "viaje",
+      "policial",
+      "muerte",
+      "drogas"
+    ],
+    "geography": [
+      "Villa Carlos Paz, Córdoba, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "testigo involuntario",
+      "asesino disfrazado de víctima",
+      "amigos en viaje"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Nico cuenta que de adolescente, tomando birra en un terreno baldío con amigos, vieron a alguien tirar un arma contra una pared y poco después llegó la policía a rastrear la zona.",
+      "archetypes": [
+        "adolescentes testigos",
+        "arma abandonada"
+      ],
+      "emotional_arc": "dramático",
+      "intensity": 5
+    }
+  }
+}

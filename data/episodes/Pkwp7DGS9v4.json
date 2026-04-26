@@ -1,0 +1,45 @@
+{
+  "id": "Pkwp7DGS9v4",
+  "episode_number": 257,
+  "title": "Anécdota #257 - DETECTIVE por NATURALEZA",
+  "url": "https://youtube.com/watch?v=Pkwp7DGS9v4",
+  "published_date": "2025-11-09",
+  "duration_seconds": 2065,
+  "views": 108073,
+  "likes": 4399,
+  "thumbnail": "https://i.ytimg.com/vi/Pkwp7DGS9v4/hqdefault.jpg",
+  "analysis": {
+    "summary": "Pablo, un joven de Luján, descubre la muerte de su abuela materna en circunstancias sumamente sospechosas: una herida en la nuca, electrodomésticos desaparecidos y la versión contradictoria de su hermano Daniel, quien vivía con ella y tenía historial de drogas y deudas.",
+    "categories": [
+      "familia",
+      "muerte",
+      "policial",
+      "barrio",
+      "drogas",
+      "vecinos",
+      "robo",
+      "corrupción"
+    ],
+    "geography": [
+      "Luján",
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "detective aficionado",
+      "hermano sospechoso",
+      "abuela conflictiva",
+      "policía negligente"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8
+  }
+}

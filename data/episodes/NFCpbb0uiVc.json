@@ -1,0 +1,40 @@
+{
+  "id": "NFCpbb0uiVc",
+  "episode_number": 268,
+  "title": "Anécdota #268  - MI PRIMER RROPO",
+  "url": "https://youtube.com/watch?v=NFCpbb0uiVc",
+  "published_date": "2026-01-25",
+  "duration_seconds": 1558,
+  "views": 99334,
+  "likes": 3791,
+  "thumbnail": "https://i.ytimg.com/vi/NFCpbb0uiVc/hqdefault.jpg",
+  "analysis": {
+    "summary": "Pablo, de 13 años, fuma porro por primera vez con amigos mayores en Luján y la noche escala rápidamente cuando salen en motos por el centro terminando en una persecución policial.",
+    "categories": [
+      "drogas",
+      "policial",
+      "barrio",
+      "urbano",
+      "generacional"
+    ],
+    "geography": [
+      "Luján, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "adolescente impulsivo",
+      "amigos mayores",
+      "madre desesperada",
+      "policía amenazante"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8
+  }
+}

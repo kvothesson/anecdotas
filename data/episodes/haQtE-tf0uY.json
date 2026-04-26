@@ -1,0 +1,47 @@
+{
+  "id": "haQtE-tf0uY",
+  "episode_number": 43,
+  "title": "Me COMÍ Alto FLASH En USHUAIA - Anécdotas #43",
+  "url": "https://youtube.com/watch?v=haQtE-tf0uY",
+  "published_date": "2021-06-20",
+  "duration_seconds": 821,
+  "views": 101776,
+  "likes": 5523,
+  "thumbnail": "https://i.ytimg.com/vi/haQtE-tf0uY/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven fuma un porro solo en un bosque de Ushuaia y experimenta una serie de alucinaciones perturbadoras: duendes, árboles con ojos, personas inmóviles en el límite del bosque y el cielo oscureciéndose de golpe.",
+    "categories": [
+      "drogas",
+      "paranormal",
+      "urbano",
+      "barrio"
+    ],
+    "geography": [
+      "Ushuaia, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el drogadicto arrepentido",
+      "el testigo de lo inexplicable",
+      "el amigo que rescata"
+    ],
+    "has_twist": true,
+    "credibility": "baja",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "La madre de un amigo italiano cuenta que en Bariloche, mientras amamantaba a sus hijos bebés, vio duendes con instrumentos musicales en el árbol de su ventana.",
+      "archetypes": [
+        "el testigo creíble",
+        "la madre que jura"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 4
+    }
+  }
+}

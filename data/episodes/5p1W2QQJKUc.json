@@ -1,0 +1,44 @@
+{
+  "id": "5p1W2QQJKUc",
+  "episode_number": 65,
+  "title": "Se CUMPLIÓ Mi Peor PESADILLA- Anécdotas #65",
+  "url": "https://youtube.com/watch?v=5p1W2QQJKUc",
+  "published_date": "2021-11-28",
+  "duration_seconds": 910,
+  "views": 117573,
+  "likes": 6115,
+  "thumbnail": "https://i.ytimg.com/vi/5p1W2QQJKUc/hqdefault.jpg",
+  "analysis": {
+    "summary": "Joana, una joven en plena etapa de enamoramiento con su novio, sufre una emergencia gastrointestinal en la casa de él durante una de sus primeras visitas. Sin poder aguantar más, toma una decisión desesperada que deriva en una situación caótica que intenta resolver sola.",
+    "categories": [
+      "romance",
+      "salud",
+      "urbano"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "cómico",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "la pareja nueva",
+      "la situación comprometedora",
+      "el secreto guardado por años"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 6,
+    "bonus_track": {
+      "summary": "Nico y Conrado comparten sus propias anécdotas de emergencias gastrointestinales en momentos inoportunos, incluyendo un episodio escolar a los 9 años y situaciones incómodas en casa de la novia.",
+      "archetypes": [
+        "el pibe en la escuela",
+        "la primera vez en casa ajena"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 4
+    }
+  }
+}

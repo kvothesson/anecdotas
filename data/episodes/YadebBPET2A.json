@@ -1,0 +1,46 @@
+{
+  "id": "YadebBPET2A",
+  "episode_number": 39,
+  "title": "¿Se TIRARÍAN En PARACAÍDAS?- Anécdotas #39",
+  "url": "https://youtube.com/watch?v=YadebBPET2A",
+  "published_date": "2021-05-23",
+  "duration_seconds": 860,
+  "views": 86418,
+  "likes": 4477,
+  "thumbnail": "https://i.ytimg.com/vi/YadebBPET2A/hqdefault.jpg",
+  "analysis": {
+    "summary": "Ariel, un joven paracaidista en formación, relata su primer salto en solitario de la etapa 2 del curso, durante el cual la radio falla y queda sin guía en el aire, debiendo aterrizar por sus propios medios.",
+    "categories": [
+      "deporte",
+      "salud",
+      "viaje"
+    ],
+    "geography": [
+      "Chascomús, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "narrador",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "militar"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el aprendiz aventurero",
+      "el instructor severo",
+      "el soñador que persiste"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "El padre de Nico (o Cristian) cuenta que en el servicio militar en Francia realizó simulacros de saltos en paracaídas, y menciona el caso de un compañero que se hizo el gracioso soltando el paracaídas a 30 metros de altura sobre agua y casi muere.",
+      "archetypes": [
+        "el soldado imprudente",
+        "el fanfarrón que aprende la lección"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 6
+    }
+  }
+}

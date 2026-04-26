@@ -1,0 +1,41 @@
+{
+  "id": "JgCu8KOisng",
+  "episode_number": 214,
+  "title": "Anécdota #214  - MOTÍN desde ADENTRO",
+  "url": "https://youtube.com/watch?v=JgCu8KOisng",
+  "published_date": "2024-12-15",
+  "duration_seconds": 1679,
+  "views": 123031,
+  "likes": 3478,
+  "thumbnail": "https://i.ytimg.com/vi/JgCu8KOisng/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una agente del servicio penitenciario narra su experiencia atrapada dentro de una cárcel durante un motín en plena pandemia. Encerrada sin poder salir ni comunicarse, vivió horas de terror mientras los internos tomaban el control del penal.",
+    "categories": [
+      "laboral",
+      "policial",
+      "corrupción",
+      "histórico"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "justicia",
+      "policia"
+    ],
+    "historical_events": [
+      "pandemia"
+    ],
+    "archetypes": [
+      "trabajadora atrapada",
+      "sistema corrompido",
+      "institución disfuncional"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8
+  }
+}

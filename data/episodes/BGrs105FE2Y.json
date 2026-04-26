@@ -1,0 +1,40 @@
+{
+  "id": "BGrs105FE2Y",
+  "episode_number": 93,
+  "title": "Me SECUESTRARON-Anécdotas #93",
+  "url": "https://youtube.com/watch?v=BGrs105FE2Y",
+  "published_date": "2022-06-26",
+  "duration_seconds": 1269,
+  "views": 107087,
+  "likes": 4844,
+  "thumbnail": "https://i.ytimg.com/vi/BGrs105FE2Y/hqdefault.jpg",
+  "analysis": {
+    "summary": "Fito, un joven caraqueño de 20 años, es interceptado de noche por funcionarios del CONAS en una zona de secuestros exprés. Lo que comienza como un control de tránsito rutinario se convierte en una persecución con disparos que lo lleva a buscar refugio en un canal de televisión chavista.",
+    "categories": [
+      "policial",
+      "corrupción",
+      "urbano",
+      "barrio",
+      "histórico"
+    ],
+    "geography": [
+      "Caracas, Venezuela"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia",
+      "militar"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "víctima inocente",
+      "autoridad corrupta",
+      "falso salvador"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 9
+  }
+}

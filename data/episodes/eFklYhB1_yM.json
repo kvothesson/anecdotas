@@ -1,0 +1,44 @@
+{
+  "id": "eFklYhB1_yM",
+  "episode_number": 225,
+  "title": "Anécdota #225 - Una de ACTUALIDAD",
+  "url": "https://youtube.com/watch?v=eFklYhB1_yM",
+  "published_date": "2025-03-02",
+  "duration_seconds": 1396,
+  "views": 117391,
+  "likes": 4378,
+  "thumbnail": "https://i.ytimg.com/vi/eFklYhB1_yM/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una chica de 20 años va a una fiesta privada de Navidad en una quinta cerca de San Antonio de Areco con su mejor amiga, donde conocen a un hombre que se presenta como 'Nico Ryan', un misterioso dueño de fiestas con dinero y poder.",
+    "categories": [
+      "drogas",
+      "policial",
+      "judicial",
+      "muerte",
+      "estafa",
+      "romance"
+    ],
+    "geography": [
+      "Buenos Aires",
+      "San Antonio de Areco",
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "justicia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "mejor amiga",
+      "criminal encubierto",
+      "femme fatale",
+      "narrador inocente"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "EpoQoHIdQW0",
+  "episode_number": 48,
+  "title": "El DÍA Que ROBÉ Una Granja ALEMANA- #Anécdotas #48",
+  "url": "https://youtube.com/watch?v=EpoQoHIdQW0",
+  "published_date": "2021-07-25",
+  "duration_seconds": 633,
+  "views": 82735,
+  "likes": 5219,
+  "thumbnail": "https://i.ytimg.com/vi/EpoQoHIdQW0/hqdefault.jpg",
+  "analysis": {
+    "summary": "El padre de Nico, un soldado francés en los años 70, participa en un ejercicio militar de supervivencia en Alemania donde su equipo, famélico, decide robar una granja. Durante el robo, es descubierto y huye con un jamón entero en la mochila.",
+    "categories": [
+      "guerra",
+      "robo",
+      "histórico",
+      "migración",
+      "familia"
+    ],
+    "geography": [
+      "Alemania",
+      "Francia",
+      "Argentina"
+    ],
+    "era": "años 70",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "militar"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el soldado",
+      "el padre legendario",
+      "el sobreviviente"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "El mismo padre llegó a Argentina en 1978, en plena dictadura militar, con una granada activa en la mochila que pasó desapercibida en Ezeiza.",
+      "archetypes": [
+        "el extranjero ingenuo",
+        "el padre legendario"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 6
+    }
+  }
+}

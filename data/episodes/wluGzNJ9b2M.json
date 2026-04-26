@@ -1,0 +1,41 @@
+{
+  "id": "wluGzNJ9b2M",
+  "episode_number": 192,
+  "title": "Anécdota #192 - El FÚTBOL se tiñó de NEGRO",
+  "url": "https://youtube.com/watch?v=wluGzNJ9b2M",
+  "published_date": "2024-06-30",
+  "duration_seconds": 1064,
+  "views": 60857,
+  "likes": 2688,
+  "thumbnail": "https://i.ytimg.com/vi/wluGzNJ9b2M/hqdefault.jpg",
+  "analysis": {
+    "summary": "Juan, hincha de Belgrano, lleva a su primo de 11 años al clásico cordobés en 2017 y presencia cómo un grupo de hinchas arroja desde una tribuna a un joven al que acusan falsamente de ser infiltrado visitante.",
+    "categories": [
+      "deporte",
+      "muerte",
+      "barrio",
+      "urbano",
+      "judicial"
+    ],
+    "geography": [
+      "Córdoba, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "justicia",
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "víctima inocente",
+      "turba violenta",
+      "instigador",
+      "niño testigo"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 9
+  }
+}

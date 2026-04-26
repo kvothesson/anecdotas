@@ -1,0 +1,48 @@
+{
+  "id": "uONMzitAE6Q",
+  "episode_number": 98,
+  "title": "¿Está BIEN COPIARSE En El COLEGIO? - Anécdotas #98",
+  "url": "https://youtube.com/watch?v=uONMzitAE6Q",
+  "published_date": "2022-08-07",
+  "duration_seconds": 926,
+  "views": 88297,
+  "likes": 5055,
+  "thumbnail": "https://i.ytimg.com/vi/uONMzitAE6Q/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un grupo de cinco amigos vagos de secundaria descubre que tienen los emails de todos sus profesores y decide hacerse pasar por el director del colegio para pedirles los exámenes antes de las mesas evaluadoras.",
+    "categories": [
+      "estafa",
+      "educación",
+      "generacional",
+      "burocracia"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "cómico",
+    "institutions_involved": [
+      "educación"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el vago estudiantil",
+      "el estafador amateur",
+      "el cómplice nervioso"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 6,
+    "bonus_track": {
+      "summary": "La madre de Martín trabajaba en un motel de Montevideo cuando un hombre falleció en plena cita con su sobrina, y ambas empleadas idearon un plan para sacar el cadáver a la calle sin que se descubriera el escándalo familiar.",
+      "archetypes": [
+        "la empleada ingeniosa",
+        "la amante en pánico",
+        "el muerto inoportuno"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 8
+    }
+  }
+}

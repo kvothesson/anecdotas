@@ -1,0 +1,50 @@
+{
+  "id": "7DiB6_P9jd4",
+  "episode_number": 100,
+  "title": "ATROPELLAR y HUIR - Anécdotas #100",
+  "url": "https://youtube.com/watch?v=7DiB6_P9jd4",
+  "published_date": "2022-08-29",
+  "duration_seconds": 2367,
+  "views": 236598,
+  "likes": 7394,
+  "thumbnail": "https://i.ytimg.com/vi/7DiB6_P9jd4/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven de 20 años va en un auto con el conductor ebrio que choca una moto con tres personas sin casco, quienes salen volando varios metros. El conductor huye del lugar dejando a los accidentados tirados en la calle.",
+    "categories": [
+      "policial",
+      "urbano",
+      "drogas",
+      "judicial",
+      "muerte"
+    ],
+    "geography": [
+      "Argentina, ciudad del interior"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "conductor borracho",
+      "cobarde",
+      "cómplice involuntario",
+      "víctima del pánico"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Nico recuerda que a los 15 años una amiga le hizo creer que estaba embarazada, generándole una noche de angustia y pánico total.",
+      "archetypes": [
+        "adolescente asustado",
+        "bromista cruel"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 4
+    }
+  }
+}

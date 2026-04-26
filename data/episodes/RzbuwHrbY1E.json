@@ -1,0 +1,49 @@
+{
+  "id": "RzbuwHrbY1E",
+  "episode_number": 229,
+  "title": "Anécdota #229 - INOCENTE Palomita",
+  "url": "https://youtube.com/watch?v=RzbuwHrbY1E",
+  "published_date": "2025-03-30",
+  "duration_seconds": 1268,
+  "views": 86997,
+  "likes": 3558,
+  "thumbnail": "https://i.ytimg.com/vi/RzbuwHrbY1E/hqdefault.jpg",
+  "analysis": {
+    "summary": "Dos hermanos menores, solos en casa el 28 de diciembre, deciden simular un robo como joda del Día de los Inocentes sin saber que su padre fiscal enfrentaba amenazas de muerte de un preso recién fugado que ya había matado a un policía.",
+    "categories": [
+      "familia",
+      "policial",
+      "judicial",
+      "barrio"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "justicia",
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "niño travieso",
+      "padre autoritario",
+      "hermano mayor voz de la razón",
+      "madre desbordada"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Un amigo conocido (hijo de alguien famoso) con 14 años acepta la invitación de un desconocido del juego online y va a su casa en los monoblocks de Dock Sud.",
+      "archetypes": [
+        "adolescente ingenuo",
+        "desconocido de internet"
+      ],
+      "emotional_arc": "terror",
+      "intensity": 7
+    }
+  }
+}

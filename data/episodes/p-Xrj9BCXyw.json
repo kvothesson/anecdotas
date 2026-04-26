@@ -1,0 +1,49 @@
+{
+  "id": "p-Xrj9BCXyw",
+  "episode_number": 166,
+  "title": "¿Héroe o Villano? - Anécdota #166",
+  "url": "https://youtube.com/watch?v=p-Xrj9BCXyw",
+  "published_date": "2023-12-17",
+  "duration_seconds": 1183,
+  "views": 88475,
+  "likes": 4182,
+  "thumbnail": "https://i.ytimg.com/vi/p-Xrj9BCXyw/hqdefault.jpg",
+  "analysis": {
+    "summary": "Tomás y su amigo con los ligamentos rotos intentan volver a casa caminando por un barrio peligroso y son interceptados por tres delincuentes que los roban. Durante el asalto, el miedo extremo le juega una mala pasada biológica a Tomás.",
+    "categories": [
+      "robo",
+      "barrio",
+      "urbano",
+      "policial"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "amigo leal",
+      "héroe demente",
+      "ladrón",
+      "víctima inocente"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Javier, de Valencia, España, cuenta la historia de su bisabuelo Teodoro, un analfabeto que a los 25 años ya tenía cuatro empresas y comenzó a introducir ilegalmente camiones extranjeros al país durante el franquismo, trabando relación en sus viajes a Madrid con un hombre misterioso.",
+      "archetypes": [
+        "emprendedor autodidacta",
+        "contrabandista",
+        "figura histórica familiar"
+      ],
+      "emotional_arc": "dramático",
+      "intensity": 6
+    }
+  }
+}

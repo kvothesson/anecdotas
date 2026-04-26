@@ -1,0 +1,47 @@
+{
+  "id": "5BzE694T2cU",
+  "episode_number": 182,
+  "title": "Anécdota #182 - La MANSIÓN EMBRUJADA",
+  "url": "https://youtube.com/watch?v=5BzE694T2cU",
+  "published_date": "2024-04-14",
+  "duration_seconds": 1520,
+  "views": 153392,
+  "likes": 4887,
+  "thumbnail": "https://i.ytimg.com/vi/5BzE694T2cU/hqdefault.jpg",
+  "analysis": {
+    "summary": "Guada se muda con su prima a la mansión heredada de su abuelo y comienza a escuchar ruidos inexplicables y teclas de piano tocándose solas por las noches, llegando a dudar de su propia salud mental.",
+    "categories": [
+      "paranormal",
+      "familia",
+      "salud"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "casa embrujada",
+      "testigo incrédulo",
+      "grupo de amigos",
+      "mansión familiar"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Nico se cruza con un oyente en el baño que lo reconoce y le promete mandarle una anécdota al día siguiente, generando una situación de meta-anécdota en tiempo real.",
+      "archetypes": [
+        "fan sorpresivo",
+        "coincidencia cotidiana"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 2
+    }
+  }
+}

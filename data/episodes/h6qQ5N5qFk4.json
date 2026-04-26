@@ -1,0 +1,51 @@
+{
+  "id": "h6qQ5N5qFk4",
+  "episode_number": 66,
+  "title": "ODISEA En el RÍO De La PLATA- Anécdotas #66",
+  "url": "https://youtube.com/watch?v=h6qQ5N5qFk4",
+  "published_date": "2021-12-05",
+  "duration_seconds": 940,
+  "views": 87353,
+  "likes": 4497,
+  "thumbnail": "https://i.ytimg.com/vi/h6qQ5N5qFk4/hqdefault.jpg",
+  "analysis": {
+    "summary": "Belén tenía 11 años cuando viajó con su familia en barco desde Tigre hasta Carmelo, Uruguay, y fueron sorprendidos por un temporal feroz en el Río de la Plata que rompió el motor y la dirección del barco, dejándolos a la deriva.",
+    "categories": [
+      "viaje",
+      "familia",
+      "muerte",
+      "animales"
+    ],
+    "geography": [
+      "Tigre",
+      "Río de la Plata",
+      "Carmelo",
+      "Uruguay"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "migraciones"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "familia en peligro",
+      "fuerza de la naturaleza",
+      "supervivencia",
+      "padre laburante"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Nico casi se muere ahogado dentro de un avión antes de despegar al atragantarse con un caramelo, mientras la azafata lo miraba horrorizada.",
+      "archetypes": [
+        "torpeza cotidiana",
+        "situación absurda"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 3
+    }
+  }
+}

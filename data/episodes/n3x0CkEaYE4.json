@@ -1,0 +1,43 @@
+{
+  "id": "n3x0CkEaYE4",
+  "episode_number": 253,
+  "title": "Anécdota #253 -  DOBLE TRAUMA",
+  "url": "https://youtube.com/watch?v=n3x0CkEaYE4",
+  "published_date": "2025-10-12",
+  "duration_seconds": 1456,
+  "views": 97614,
+  "likes": 4256,
+  "thumbnail": "https://i.ytimg.com/vi/n3x0CkEaYE4/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven que vive solo es sorprendido por un ladrón armado que irrumpe en su casa de madrugada mientras jugaba al League of Legends. El delincuente lo amenaza con un revólver y lo obliga a guiarlo hasta las cosas de valor.",
+    "categories": [
+      "robo",
+      "policial",
+      "muerte",
+      "barrio",
+      "urbano",
+      "salud"
+    ],
+    "geography": [
+      "Argentina",
+      "Capital Federal"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia",
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "joven solo",
+      "ladrón",
+      "vecina protectora",
+      "madre ausente"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8
+  }
+}

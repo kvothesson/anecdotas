@@ -1,0 +1,50 @@
+{
+  "id": "0KO4O3cGhGg",
+  "episode_number": 125,
+  "title": "BROMA PESADA se nos va DE LAS MANOS - Anécdotas #125",
+  "url": "https://youtube.com/watch?v=0KO4O3cGhGg",
+  "published_date": "2023-02-26",
+  "duration_seconds": 714,
+  "views": 69718,
+  "likes": 3419,
+  "thumbnail": "https://i.ytimg.com/vi/0KO4O3cGhGg/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un adolescente y sus amigos descubren una página con cámaras de seguridad en vivo de todo el mundo y deciden verificar su autenticidad llamando a un hotel en Moscú. La travesura escala de forma inesperada cuando uno de ellos decide hacer una amenaza de bomba en ruso usando Google Translate.",
+    "categories": [
+      "tecnología",
+      "policial",
+      "generacional",
+      "urbano"
+    ],
+    "geography": [
+      "Argentina",
+      "Rusia",
+      "Moscú"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "adolescente travieso",
+      "amigo instigador",
+      "amigo bromista",
+      "chivo expiatorio"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Una niñera descubre que alguien accedió a la cámara de seguridad de la casa donde trabajaba y le habla por el micrófono describiendo sus movimientos en tiempo real, aterrorizándola.",
+      "archetypes": [
+        "víctima de voyeurismo",
+        "acosador anónimo"
+      ],
+      "emotional_arc": "terror",
+      "intensity": 6
+    }
+  }
+}

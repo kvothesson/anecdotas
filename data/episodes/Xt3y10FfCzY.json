@@ -1,0 +1,44 @@
+{
+  "id": "Xt3y10FfCzY",
+  "episode_number": 85,
+  "title": "ADOLESCENTE Con La Mente CERRADA- Anécdotas #85",
+  "url": "https://youtube.com/watch?v=Xt3y10FfCzY",
+  "published_date": "2022-05-01",
+  "duration_seconds": 1329,
+  "views": 134656,
+  "likes": 5883,
+  "thumbnail": "https://i.ytimg.com/vi/Xt3y10FfCzY/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven universitario, ateo y arrogante, acepta por desafío hacer una meditación de regresión a vidas pasadas guiada por su madre. La experiencia lo sorprende con visiones vívidas e inesperadas que sacuden profundamente sus convicciones.",
+    "categories": [
+      "paranormal",
+      "familia",
+      "generacional"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "emotivo",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "escéptico convertido",
+      "madre guía",
+      "adolescente arrogante"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Juanpi cuenta que él también hizo una meditación guiada con sonidos y respiración durante 40 minutos, en la que viajó por visiones y sensaciones pero no logró conectar con el animal final que se le pedía visualizar.",
+      "archetypes": [
+        "participante fallido",
+        "buscador espiritual"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 3
+    }
+  }
+}

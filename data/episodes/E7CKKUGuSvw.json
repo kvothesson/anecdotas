@@ -1,0 +1,36 @@
+{
+  "id": "E7CKKUGuSvw",
+  "episode_number": 88,
+  "title": "El ESTAFADOR De 15 AÑOS- Anécdotas #88",
+  "url": "https://youtube.com/watch?v=E7CKKUGuSvw",
+  "published_date": "2022-05-22",
+  "duration_seconds": 891,
+  "views": 90136,
+  "likes": 4905,
+  "thumbnail": "https://i.ytimg.com/vi/E7CKKUGuSvw/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un adolescente de 15 años de un pueblo de Córdoba, apasionado por la tecnología, descubre un patrón en los códigos de tarjetas recargables de celular y crea un programa para generarlos automáticamente y acreditarse saldo de manera fraudulenta.",
+    "categories": [
+      "tecnología",
+      "estafa",
+      "generacional",
+      "barrio"
+    ],
+    "geography": [
+      "Córdoba, Argentina"
+    ],
+    "era": "años 90",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "cómico",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "el nerd precoz",
+      "el pibe de barrio ingenioso",
+      "el hacker autodidacta"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 5
+  }
+}

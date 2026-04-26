@@ -1,0 +1,50 @@
+{
+  "id": "ERIZTDotq5w",
+  "episode_number": 142,
+  "title": "Qué MANIJAS  - Anécdotas #142",
+  "url": "https://youtube.com/watch?v=ERIZTDotq5w",
+  "published_date": "2023-07-02",
+  "duration_seconds": 827,
+  "views": 75289,
+  "likes": 3559,
+  "thumbnail": "https://i.ytimg.com/vi/ERIZTDotq5w/hqdefault.jpg",
+  "analysis": {
+    "summary": "Imanol, de 16 años, viaja de madrugada con amigos a una villa para comprar cocaína porque era más barata. La noche se complica con una persecución policial, una coima, un robo y múltiples situaciones de riesgo.",
+    "categories": [
+      "drogas",
+      "policial",
+      "robo",
+      "barrio",
+      "corrupción",
+      "urbano"
+    ],
+    "geography": [
+      "Campana",
+      "Buenos Aires"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "adolescente impulsivo",
+      "policía corrupto",
+      "chorro de villa",
+      "el que maneja"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Nico cuenta que unos uruguayos en un hostel de Río fueron entusiasmados a comprar droga a una favela y volvieron con porro pero sin ninguna de sus pertenencias.",
+      "archetypes": [
+        "turista ingenuo"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 3
+    }
+  }
+}

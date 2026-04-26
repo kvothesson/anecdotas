@@ -1,0 +1,53 @@
+{
+  "id": "_VQR4ho93gI",
+  "episode_number": 32,
+  "title": "PRESENCIÉ un Atentado TERRORISTA - Anécdotas #32",
+  "url": "https://youtube.com/watch?v=_VQR4ho93gI",
+  "published_date": "2021-03-28",
+  "duration_seconds": 864,
+  "views": 77072,
+  "likes": 4582,
+  "thumbnail": "https://i.ytimg.com/vi/_VQR4ho93gI/hqdefault.jpg",
+  "analysis": {
+    "summary": "Antonella, una chica de La Rioja de 23 años, viajó a Italia y Francia en 2016 en lugar de hacer el viaje de egresados. El 14 de julio estuvo presente en el atentado terrorista de Niza, sobre la Promenade des Anglais.",
+    "categories": [
+      "viaje",
+      "histórico",
+      "muerte",
+      "guerra",
+      "policial"
+    ],
+    "geography": [
+      "Niza, Francia",
+      "Italia",
+      "La Rioja, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia",
+      "militar"
+    ],
+    "historical_events": [
+      "Atentado de Niza 2016"
+    ],
+    "archetypes": [
+      "sobreviviente",
+      "turista argentina en el exterior",
+      "premonición"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 9,
+    "bonus_track": {
+      "summary": "Nico cuenta que un año antes del 11-S visitó las Torres Gemelas y tuvo un ataque de pánico inexplicable en el ascensor, lo que lo llevó a irse antes de poder subir.",
+      "archetypes": [
+        "premonición",
+        "presagio involuntario"
+      ],
+      "emotional_arc": "terror",
+      "intensity": 7
+    }
+  }
+}

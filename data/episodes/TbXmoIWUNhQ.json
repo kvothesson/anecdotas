@@ -1,0 +1,48 @@
+{
+  "id": "TbXmoIWUNhQ",
+  "episode_number": 132,
+  "title": "PARTO de EMERGENCIA - Anécdotas #132",
+  "url": "https://youtube.com/watch?v=TbXmoIWUNhQ",
+  "published_date": "2023-04-23",
+  "duration_seconds": 1003,
+  "views": 65738,
+  "likes": 2951,
+  "thumbnail": "https://i.ytimg.com/vi/TbXmoIWUNhQ/hqdefault.jpg",
+  "analysis": {
+    "summary": "Santiago, un joven de Tandil, relata cómo su pareja Antonella entró en trabajo de parto de madrugada de forma completamente inesperada y acelerada mientras estaban solos en casa. Sin ambulancia ni médico presentes, Santiago tuvo que asistir el nacimiento de su hija Alfonsina en el baño de su hogar.",
+    "categories": [
+      "familia",
+      "salud",
+      "laboral"
+    ],
+    "geography": [
+      "Tandil, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "emotivo",
+    "institutions_involved": [
+      "salud"
+    ],
+    "historical_events": [
+      "pandemia"
+    ],
+    "archetypes": [
+      "padre improvisado",
+      "pareja en crisis",
+      "héroe cotidiano"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Uno de los conductores cuenta que su madre rompió bolsa justo en el brindis de las 12 de Nochebuena, y que él y su hermana nacieron por cesárea por ser mellizos.",
+      "archetypes": [
+        "madre sorpresiva",
+        "nacimiento anecdótico"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 4
+    }
+  }
+}

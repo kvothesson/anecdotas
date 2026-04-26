@@ -1,0 +1,50 @@
+{
+  "id": "qow0mjLRqgQ",
+  "episode_number": 222,
+  "title": "Anécdota #222 - CUIDADO: Vieja MILLONARIA",
+  "url": "https://youtube.com/watch?v=qow0mjLRqgQ",
+  "published_date": "2025-02-09",
+  "duration_seconds": 1154,
+  "views": 92101,
+  "likes": 3863,
+  "thumbnail": "https://i.ytimg.com/vi/qow0mjLRqgQ/hqdefault.jpg",
+  "analysis": {
+    "summary": "Lorenzo, un joven bartender de 18 años en San Isidro, atiende a una señora adinerada y solitaria que tras varias cervezas y un pase de cocaína lo secuestra en su auto manejando a alta velocidad y en zigzag por Libertador, poniendo en riesgo sus vidas.",
+    "categories": [
+      "laboral",
+      "drogas",
+      "urbano",
+      "salud"
+    ],
+    "geography": [
+      "San Isidro",
+      "Martínez",
+      "Buenos Aires"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [],
+    "historical_events": [
+      "pandemia"
+    ],
+    "archetypes": [
+      "bartender novato",
+      "millonaria solitaria",
+      "mentor de bar",
+      "chongo al teléfono"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Semanas después, en el mismo restaurante, Lorenzo reconoce a la mujer que casi lo mata sentada con un famoso mediático argentino, hijo de un capocómico de los 80, quien interrumpe a los gritos para elogiar exageradamente su técnica de coctelería.",
+      "archetypes": [
+        "famoso argentino",
+        "vieja recurrente"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 4
+    }
+  }
+}

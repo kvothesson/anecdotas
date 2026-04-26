@@ -1,0 +1,40 @@
+{
+  "id": "9A2VkwI9Mrc",
+  "episode_number": 241,
+  "title": "Anécdota #241 -  NADA PERSONAL",
+  "url": "https://youtube.com/watch?v=9A2VkwI9Mrc",
+  "published_date": "2025-06-29",
+  "duration_seconds": 862,
+  "views": 85757,
+  "likes": 3603,
+  "thumbnail": "https://i.ytimg.com/vi/9A2VkwI9Mrc/hqdefault.jpg",
+  "analysis": {
+    "summary": "Lucas, un pibe de Mar del Plata, va a lo de su amigo Tony para ver un partido de la selección y termina siendo atrapado en el medio de un violento asalto organizado por Aaron, un conocido del barrio, junto a su familia.",
+    "categories": [
+      "robo",
+      "policial",
+      "barrio",
+      "urbano",
+      "drogas"
+    ],
+    "geography": [
+      "Mar del Plata, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "testigo inocente",
+      "delincuente conocido",
+      "familia vulnerable",
+      "policía que llega tarde"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "vIX9UnD53yM",
+  "episode_number": 63,
+  "title": "VIAJE Místico En BOLIVIA - Anécdotas #63",
+  "url": "https://youtube.com/watch?v=vIX9UnD53yM",
+  "published_date": "2021-11-14",
+  "duration_seconds": 1326,
+  "views": 155567,
+  "likes": 6879,
+  "thumbnail": "https://i.ytimg.com/vi/vIX9UnD53yM/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven mochilero argentino de 21 años viaja por Bolivia y termina adentrándose en la selva para visitar una tribu indígena, donde finalmente se anima a participar del ritual de ayahuasca que había evitado durante años.",
+    "categories": [
+      "viaje",
+      "drogas",
+      "paranormal",
+      "animales"
+    ],
+    "geography": [
+      "Bolivia",
+      "Uyuni",
+      "Coroico",
+      "Rurrenabaque"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "emotivo",
+    "institutions_involved": [],
+    "historical_events": [
+      "pandemia"
+    ],
+    "archetypes": [
+      "mochilero aventurero",
+      "guía local",
+      "tribu indígena",
+      "viajero extranjero"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Un conocido toma ayahuasca en la ciudad y alucina que un globo aerostático lo aplasta, teniendo que ser ayudado por sus amigos para moverse por la calle.",
+      "archetypes": [
+        "novato con drogas",
+        "amigos contenedores"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 4
+    }
+  }
+}

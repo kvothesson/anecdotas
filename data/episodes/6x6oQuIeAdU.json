@@ -1,0 +1,49 @@
+{
+  "id": "6x6oQuIeAdU",
+  "episode_number": 155,
+  "title": "ESCUCHEN sus INSTINTOS - Anécdota #155",
+  "url": "https://youtube.com/watch?v=6x6oQuIeAdU",
+  "published_date": "2023-10-01",
+  "duration_seconds": 1096,
+  "views": 91409,
+  "likes": 3818,
+  "thumbnail": "https://i.ytimg.com/vi/6x6oQuIeAdU/hqdefault.jpg",
+  "analysis": {
+    "summary": "Tomás, un chef argentino trabajando en el sur de Francia, vive una serie de encuentros inesperados: es invitado por un influencer a ver el Gran Premio de Mónaco desde un departamento de lujo y luego comparte un viaje en tren con Carlos Bianchi sin reconocerlo.",
+    "categories": [
+      "viaje",
+      "laboral",
+      "migración",
+      "deporte",
+      "romance"
+    ],
+    "geography": [
+      "Francia",
+      "Mónaco",
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "cómico",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "el argentino en el exterior",
+      "el famoso incógnito",
+      "el generoso inesperado",
+      "el trabajo maldito"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 5,
+    "bonus_track": {
+      "summary": "Una radio operadora del SAME recibe una llamada desesperada de un bombero que reporta síntomas de intoxicación en su domicilio donde se encuentran sus abuelos y dos menores, apuntando a una posible fuga de monóxido de carbono.",
+      "archetypes": [
+        "la emergencia doméstica",
+        "el empleado estatal anónimo"
+      ],
+      "emotional_arc": "dramático",
+      "intensity": 6
+    }
+  }
+}

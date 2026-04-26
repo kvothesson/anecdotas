@@ -1,0 +1,40 @@
+{
+  "id": "ASNZHMkMgSQ",
+  "episode_number": 70,
+  "title": "CAÍ En CANA- Anécdotas #70",
+  "url": "https://youtube.com/watch?v=ASNZHMkMgSQ",
+  "published_date": "2022-01-02",
+  "duration_seconds": 1174,
+  "views": 131973,
+  "likes": 6597,
+  "thumbnail": "https://i.ytimg.com/vi/ASNZHMkMgSQ/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un adolescente de 17 años cae detenido en nochebuena tras una pelea callejera y es trasladado a un centro de menores en la capital de su provincia, donde deberá esperar el fin de semana para hablar con el juez.",
+    "categories": [
+      "policial",
+      "judicial",
+      "barrio",
+      "corrupción"
+    ],
+    "geography": [
+      "Argentina (provincia no especificada)"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "justicia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "joven en problemas",
+      "policía corrupto",
+      "preso inocente de contexto",
+      "abogado defensor"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 9
+  }
+}

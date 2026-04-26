@@ -1,0 +1,48 @@
+{
+  "id": "EHT8ifflD1s",
+  "episode_number": 233,
+  "title": "Anécdota #233 -  La JODITA que JODIÓ",
+  "url": "https://youtube.com/watch?v=EHT8ifflD1s",
+  "published_date": "2025-05-04",
+  "duration_seconds": 1465,
+  "views": 105748,
+  "likes": 4291,
+  "thumbnail": "https://i.ytimg.com/vi/EHT8ifflD1s/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un grupo de adolescentes en un pueblo de Neuquén comparte una noche de alcohol y porros que termina en una cadena de bromas y accidentes. Una venganza mal calculada desencadena consecuencias que marcan a uno de los chicos durante años sin que nadie sepa la verdad.",
+    "categories": [
+      "barrio",
+      "drogas",
+      "salud",
+      "generacional"
+    ],
+    "geography": [
+      "Neuquén, Argentina"
+    ],
+    "era": "años 90",
+    "protagonist_role": "narrador",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el tímido",
+      "el bully",
+      "el chivo expiatorio",
+      "el vengador accidental"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Nico cuenta una anécdota propia sobre un pagadós en taxi que terminó con él en un calabozo siendo revisado por la policía para ver si tenía escondida la billetera del taxista.",
+      "archetypes": [
+        "el pícaro",
+        "el atrapado"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 4
+    }
+  }
+}

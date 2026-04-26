@@ -1,0 +1,51 @@
+{
+  "id": "hfVRLLnb69I",
+  "episode_number": 235,
+  "title": "Anécdota #235 -  NO APARENTEN algo que NO SON",
+  "url": "https://youtube.com/watch?v=hfVRLLnb69I",
+  "published_date": "2025-05-18",
+  "duration_seconds": 1102,
+  "views": 90414,
+  "likes": 4457,
+  "thumbnail": "https://i.ytimg.com/vi/hfVRLLnb69I/hqdefault.jpg",
+  "analysis": {
+    "summary": "Dos primos deciden tirarse con la moto contra un auto en un semáforo en rojo para extorsionar al conductor y así conseguir plata extra antes de ir a bailar con unas chicas. El plan sale completamente mal.",
+    "categories": [
+      "estafa",
+      "muerte",
+      "barrio",
+      "romance",
+      "salud"
+    ],
+    "geography": [
+      "Tigre",
+      "Boulogne",
+      "San Martín",
+      "Buenos Aires"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "narrador",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el vivo que la paga cara",
+      "el primo cómplice",
+      "el hermano culposo",
+      "la hermana confidente"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Un pescador de Mar del Plata comparte una anécdota que ocurrió alrededor del año 2000 junto a su amigo Matías en las escolleras norte de Playa Grande.",
+      "archetypes": [
+        "el amigo pescador"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 3
+    }
+  }
+}

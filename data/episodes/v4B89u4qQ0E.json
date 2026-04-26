@@ -1,0 +1,53 @@
+{
+  "id": "v4B89u4qQ0E",
+  "episode_number": 103,
+  "title": "Al BORDE de la MUERTE - Anécdotas  #103",
+  "url": "https://youtube.com/watch?v=v4B89u4qQ0E",
+  "published_date": "2022-09-18",
+  "duration_seconds": 1204,
+  "views": 103292,
+  "likes": 4525,
+  "thumbnail": "https://i.ytimg.com/vi/v4B89u4qQ0E/hqdefault.jpg",
+  "analysis": {
+    "summary": "Agustina viaja con su mamá y hermano menor desde Chile a Argentina por la cordillera en invierno, cuando una tormenta de nieve imprevista los deja atrapados en una ruta congelada al borde de un precipicio sin señal y con temperaturas extremas.",
+    "categories": [
+      "viaje",
+      "familia",
+      "muerte",
+      "salud"
+    ],
+    "geography": [
+      "Chile",
+      "Argentina",
+      "Osorno",
+      "Villa La Angostura",
+      "Neuquén"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "militar"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "familia en peligro",
+      "héroe inesperado",
+      "naturaleza hostil",
+      "sobreviviente"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 9,
+    "bonus_track": {
+      "summary": "Nico cuenta que fue a esquiar a Caviahue con amigos y un guía local los perdió en la montaña nevada, llegando al pueblo por muy poco antes de que bajara el sol; esa misma noche, otra pareja que hizo el mismo camino después quedó atrapada y fue encontrada con partes del cuerpo congeladas.",
+      "archetypes": [
+        "grupo de amigos",
+        "guía incompetente",
+        "sobreviviente por suerte"
+      ],
+      "emotional_arc": "terror",
+      "intensity": 8
+    }
+  }
+}

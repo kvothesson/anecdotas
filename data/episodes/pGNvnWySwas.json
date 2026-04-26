@@ -1,0 +1,45 @@
+{
+  "id": "pGNvnWySwas",
+  "episode_number": 183,
+  "title": "Anécdota #183 - El LADRÓN de HUEVOS",
+  "url": "https://youtube.com/watch?v=pGNvnWySwas",
+  "published_date": "2024-04-21",
+  "duration_seconds": 1409,
+  "views": 101607,
+  "likes": 3637,
+  "thumbnail": "https://i.ytimg.com/vi/pGNvnWySwas/hqdefault.jpg",
+  "analysis": {
+    "summary": "Federico va a jugar un partidito de fútbol en una canchita y al terminar descubre que le robaron la mochila, incluyendo un huevo de pascua Havanna que le habían regalado esa mañana. En su lugar quedó la mochila del ladrón, que contenía ropa, llaves de auto y pasajes de Buquebus a nombre de un conocido del músico Javier Malosetti.",
+    "categories": [
+      "robo",
+      "deporte",
+      "barrio",
+      "urbano"
+    ],
+    "geography": [
+      "Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "ladrón oportunista",
+      "víctima inocente",
+      "hermano mayor resolutivo"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 4,
+    "bonus_track": {
+      "summary": "Sebastián, un chileno viviendo en Australia, se despierta con mensajes de su padre enviados a las 4 de la mañana revelando que recibió un disparo en la mano. El padre vive solo en una casa de campo antigua y tiene el hábito de tomar pastillas para dormir y fumar porro antes de acostarse.",
+      "archetypes": [
+        "padre excéntrico",
+        "hijo preocupado a la distancia"
+      ],
+      "emotional_arc": "dramático",
+      "intensity": 7
+    }
+  }
+}
