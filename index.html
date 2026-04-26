@@ -1203,7 +1203,12 @@ function toggleTagFilter(cat, el) {
   doSearch(document.getElementById('search-input').value);
 }
 
+let _searchTimer;
 function doSearch(query) {
+  clearTimeout(_searchTimer);
+  if(query && query.length > 2) {
+    _searchTimer = setTimeout(() => trackEvent(null, null, 'search', { query }), 1000);
+  }
   const container = document.getElementById('search-results');
   let results;
 
@@ -1241,19 +1246,7 @@ function doSearch(query) {
 // INIT — manejado por loadEpisodes() arriba
 // ═══════════════════════════════════════════════════
 
-// session_start
 trackEvent(null, null, 'session_start');
-
-// search tracking con debounce
-let _searchTimer;
-const _origDoSearch = doSearch;
-doSearch = function(query) {
-  _origDoSearch(query);
-  clearTimeout(_searchTimer);
-  if(query && query.length > 2) {
-    _searchTimer = setTimeout(() => trackEvent(null, null, 'search', { query }), 1000);
-  }
-};
 </script>
 </body>
 </html>
