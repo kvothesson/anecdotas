@@ -1,0 +1,48 @@
+{
+  "id": "eQ6L_-tz11U",
+  "episode_number": 134,
+  "title": "Serie de EVENTOS DESAFORTUNADOS - Anécdotas #134",
+  "url": "https://youtube.com/watch?v=eQ6L_-tz11U",
+  "published_date": "2023-05-07",
+  "duration_seconds": 1054,
+  "views": 81638,
+  "likes": 3582,
+  "thumbnail": "https://i.ytimg.com/vi/eQ6L_-tz11U/hqdefault.jpg",
+  "analysis": {
+    "summary": "Lucas, un joven de Misiones, viaja a Buenos Aires con un grupo de amigos para asistir a su primera gran fiesta electrónica en el Estadio Malvinas Argentinas. La noche se convierte en una cadena de eventos caóticos y peligrosos que ponen en riesgo su vida.",
+    "categories": [
+      "drogas",
+      "urbano",
+      "salud",
+      "viaje",
+      "muerte"
+    ],
+    "geography": [
+      "Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "salud",
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el turista en la ciudad",
+      "el grupo de amigos",
+      "el sobreviviente"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 9,
+    "bonus_track": {
+      "summary": "Nico comparte su propia experiencia viviendo un diluvio en una fiesta de disfraces en Paraná, donde también tuvo que evacuar caminando con el agua hasta la cintura entre la multitud disfrazada.",
+      "archetypes": [
+        "el anfitrión que también tiene anécdota"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 6
+    }
+  }
+}

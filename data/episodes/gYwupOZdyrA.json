@@ -1,0 +1,48 @@
+{
+  "id": "gYwupOZdyrA",
+  "episode_number": 60,
+  "title": "La ABUELA Peligrosa- Anécdotas #60",
+  "url": "https://youtube.com/watch?v=gYwupOZdyrA",
+  "published_date": "2021-10-24",
+  "duration_seconds": 881,
+  "views": 102151,
+  "likes": 9604,
+  "thumbnail": "https://i.ytimg.com/vi/gYwupOZdyrA/hqdefault.jpg",
+  "analysis": {
+    "summary": "Gonzalo viaja a Baigorria para conocer a la familia de su novia y, deshidratado por el calor extremo, acepta una bebida que le ofrece la abuela de ella sin saber lo que contiene.",
+    "categories": [
+      "romance",
+      "salud",
+      "familia"
+    ],
+    "geography": [
+      "Rosario",
+      "Baigorria",
+      "Santa Fe"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "abuela despistada",
+      "novio ansioso por conocer a la familia",
+      "sobreviviente accidental"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Un participante del programa comparte su propia historia de haber tomado algo equivocado de la heladera de sus abuelos de madrugada, con un desenlace igualmente desagradable.",
+      "archetypes": [
+        "niño hambriento",
+        "heladera trampa"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 3
+    }
+  }
+}

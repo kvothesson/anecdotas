@@ -1,0 +1,39 @@
+{
+  "id": "YfusTmSlHcc",
+  "episode_number": 240,
+  "title": "Anécdota #240 - EN VIVO con PÚBLICO en URUGUAY 🇺🇾",
+  "url": "https://youtube.com/watch?v=YfusTmSlHcc",
+  "published_date": "2025-06-22",
+  "duration_seconds": 5590,
+  "views": 160614,
+  "likes": 4781,
+  "thumbnail": "https://i.ytimg.com/vi/YfusTmSlHcc/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un argentino viviendo en Berlín intenta vender su computadora en una plataforma online para comprarse una Mac nueva, y entra en contacto con una supuesta compradora desde Inglaterra que le genera cada vez más desconfianza.",
+    "categories": [
+      "estafa",
+      "tecnología",
+      "migración",
+      "viaje"
+    ],
+    "geography": [
+      "Berlín, Alemania",
+      "Inglaterra"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "correo"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el argentino en el exterior",
+      "el estafador",
+      "el ingenuo que se vuelve vengador"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7
+  }
+}

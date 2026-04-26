@@ -1,0 +1,44 @@
+{
+  "id": "JLi4YH4ns4A",
+  "episode_number": 84,
+  "title": "Cuando CONOCÍ a JUANSE- Anécdotas #84",
+  "url": "https://youtube.com/watch?v=JLi4YH4ns4A",
+  "published_date": "2022-04-24",
+  "duration_seconds": 952,
+  "views": 66410,
+  "likes": 3575,
+  "thumbnail": "https://i.ytimg.com/vi/JLi4YH4ns4A/hqdefault.jpg",
+  "analysis": {
+    "summary": "Nicolás, un adolescente fanático del rock nacional, acepta ir a un recital de los Ratones Paranoicos al que no era gran fanático, sin saber que la noche lo llevaría a conocer a Juanse en el camarín y terminar en la Bombonera viendo a los Piojos.",
+    "categories": [
+      "urbano",
+      "generacional",
+      "barrio"
+    ],
+    "geography": [
+      "Buenos Aires"
+    ],
+    "era": "años 90",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "emotivo",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "fan inesperado",
+      "padre protector",
+      "rockero excéntrico"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 6,
+    "bonus_track": {
+      "summary": "Cristian y su abuelo van a ver los Ratones Paranoicos, terminan comiendo sándwiches de milanesa y el abuelo compra lo que cree es un poster de los Ratones pero resulta ser una foto de Lenny Kravitz tapándose con una guitarra.",
+      "archetypes": [
+        "abuelo despistado",
+        "compra fallida"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 3
+    }
+  }
+}

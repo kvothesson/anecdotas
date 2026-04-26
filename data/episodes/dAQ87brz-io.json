@@ -1,0 +1,42 @@
+{
+  "id": "dAQ87brz-io",
+  "episode_number": 266,
+  "title": "Anécdota #266  - ¿PARANÓICO?",
+  "url": "https://youtube.com/watch?v=dAQ87brz-io",
+  "published_date": "2026-01-11",
+  "duration_seconds": 2139,
+  "views": 104308,
+  "likes": 4063,
+  "thumbnail": "https://i.ytimg.com/vi/dAQ87brz-io/hqdefault.jpg",
+  "analysis": {
+    "summary": "Orlando, conductor de Uber/Bolt en Paraguay, recoge a dos mujeres de madrugada para un viaje largo. Durante el trayecto sospecha que le adulteraron el café con somníferos y debe luchar contra el mareo para llegar a su casa sin perder el conocimiento.",
+    "categories": [
+      "laboral",
+      "drogas",
+      "robo",
+      "policial",
+      "urbano"
+    ],
+    "geography": [
+      "Ciudad del Este, Paraguay",
+      "Hernandarias, Paraguay"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [
+      "pandemia"
+    ],
+    "archetypes": [
+      "conductor nocturno",
+      "mujer predadora",
+      "sobreviviente"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 8
+  }
+}

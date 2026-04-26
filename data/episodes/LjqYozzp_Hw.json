@@ -1,0 +1,51 @@
+{
+  "id": "LjqYozzp_Hw",
+  "episode_number": 53,
+  "title": "Un CORDOBÉS En La INDIA- Anécdotas #53",
+  "url": "https://youtube.com/watch?v=LjqYozzp_Hw",
+  "published_date": "2021-09-05",
+  "duration_seconds": 970,
+  "views": 120554,
+  "likes": 5929,
+  "thumbnail": "https://i.ytimg.com/vi/LjqYozzp_Hw/hqdefault.jpg",
+  "analysis": {
+    "summary": "Tobías, un cordobés, es transferido laboralmente a la India en 2017 donde conoce a una compañera de trabajo con quien comienza una relación clandestina. La situación escala cuando es invitado a cenar a su casa y descubre que la familia pertenece a una clase alta con tradiciones matrimoniales muy distintas a las occidentales.",
+    "categories": [
+      "viaje",
+      "romance",
+      "laboral",
+      "migración",
+      "burocracia"
+    ],
+    "geography": [
+      "India",
+      "Córdoba",
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "narrador",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "migraciones"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el argentino en el exterior",
+      "el choque cultural",
+      "el pretendiente descolocado",
+      "la familia tradicional"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 6,
+    "bonus_track": {
+      "summary": "El padre de Nico vino de Francia a Argentina, conoció a su madre y se casaron a los 3 meses, mientras los abuelos paternos viajaron especialmente para intentar suspender la boda sin éxito.",
+      "archetypes": [
+        "el inmigrante enamorado",
+        "la familia que se opone"
+      ],
+      "emotional_arc": "emotivo",
+      "intensity": 4
+    }
+  }
+}

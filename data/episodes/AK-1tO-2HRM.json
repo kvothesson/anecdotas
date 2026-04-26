@@ -1,0 +1,55 @@
+{
+  "id": "AK-1tO-2HRM",
+  "episode_number": 77,
+  "title": "La PISTOLA Del PANADERO- Anécdotas #77",
+  "url": "https://youtube.com/watch?v=AK-1tO-2HRM",
+  "published_date": "2022-03-06",
+  "duration_seconds": 1006,
+  "views": 109595,
+  "likes": 5246,
+  "thumbnail": "https://i.ytimg.com/vi/AK-1tO-2HRM/hqdefault.jpg",
+  "analysis": {
+    "summary": "María cuenta la historia que le reveló su papá sobre una pistola de la Segunda Guerra Mundial que guarda en su colección: de niño, un misterioso panadero alemán que abastecía el regimiento militar donde trabajaba su abuelo le regaló el arma. Un día, el panadero desapareció sin dejar rastro.",
+    "categories": [
+      "histórico",
+      "familia",
+      "militar",
+      "guerra",
+      "generacional"
+    ],
+    "geography": [
+      "Junín, Buenos Aires",
+      "Argentina"
+    ],
+    "era": "siglo XX medio",
+    "protagonist_role": "narrador",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "militar",
+      "policia"
+    ],
+    "historical_events": [
+      "Segunda Guerra Mundial",
+      "nazis en Argentina",
+      "Adolf Eichmann"
+    ],
+    "archetypes": [
+      "el secreto familiar",
+      "el extranjero misterioso",
+      "el objeto con historia",
+      "la revelación tardía"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Nico y el equipo comentan sus propias conexiones con la historia: la expo de armas en La Rural donde vieron colecciones nazis, y el abuelo de Franco que combatió en la Segunda Guerra Mundial para Italia y volvió con secuelas físicas y psicológicas.",
+      "archetypes": [
+        "el sobreviviente",
+        "el trauma de guerra"
+      ],
+      "emotional_arc": "emotivo",
+      "intensity": 5
+    }
+  }
+}

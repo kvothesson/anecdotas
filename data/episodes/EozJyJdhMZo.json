@@ -1,0 +1,38 @@
+{
+  "id": "EozJyJdhMZo",
+  "episode_number": 118,
+  "title": "Cómo me INDIGNÓ esta ANÉCDOTA - Anécdotas #118",
+  "url": "https://youtube.com/watch?v=EozJyJdhMZo",
+  "published_date": "2023-01-01",
+  "duration_seconds": 1373,
+  "views": 136068,
+  "likes": 5468,
+  "thumbnail": "https://i.ytimg.com/vi/EozJyJdhMZo/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una asistente comercial de una compañía financiera argentina relata cómo, junto a su jefe, montaron un esquema fraudulento para quedarse con dinero extra en la liquidación de préstamos a clientes. Lo hicieron durante varios meses hasta que fueron descubiertos internamente.",
+    "categories": [
+      "laboral",
+      "estafa",
+      "corrupción",
+      "robo"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [],
+    "historical_events": [
+      "pandemia"
+    ],
+    "archetypes": [
+      "empleada cómplice",
+      "jefe corrupto",
+      "empresa financiera"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7
+  }
+}

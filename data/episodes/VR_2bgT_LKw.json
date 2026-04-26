@@ -1,0 +1,47 @@
+{
+  "id": "VR_2bgT_LKw",
+  "episode_number": 61,
+  "title": "Especial HALLOWEEN- Anécdotas #61",
+  "url": "https://youtube.com/watch?v=VR_2bgT_LKw",
+  "published_date": "2021-10-31",
+  "duration_seconds": 1702,
+  "views": 186342,
+  "likes": 6844,
+  "thumbnail": "https://i.ytimg.com/vi/VR_2bgT_LKw/hqdefault.jpg",
+  "analysis": {
+    "summary": "Lucas, un músico joven, experimenta una noche aterradora en la que escucha una voz en su cabeza que comparte su nombre, lo insulta y lo incita a hacerse daño, llevándolo a un estado de pánico extremo durante el trayecto en colectivo al día siguiente.",
+    "categories": [
+      "paranormal",
+      "salud",
+      "urbano"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el atormentado",
+      "la voz interior",
+      "la madre protectora"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Rodrigo, de 31 años, rememora una experiencia paranormal vivida a los 12 o 13 años en una casa de fin de semana familiar en Villa Gobernador Gálvez, durante una noche sin luz cerca del río, donde algo perturbador lo despertó a las 2 de la madrugada.",
+      "archetypes": [
+        "el niño testigo",
+        "la casa aislada",
+        "lo desconocido nocturno"
+      ],
+      "emotional_arc": "terror",
+      "intensity": 7
+    }
+  }
+}

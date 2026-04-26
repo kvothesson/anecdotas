@@ -1,0 +1,47 @@
+{
+  "id": "GxkMso-yQtQ",
+  "episode_number": 69,
+  "title": "Emprendimiento NAVIDEÑO #EspecialNavidad- Anécdotas #69",
+  "url": "https://youtube.com/watch?v=GxkMso-yQtQ",
+  "published_date": "2021-12-26",
+  "duration_seconds": 1436,
+  "views": 112898,
+  "likes": 5696,
+  "thumbnail": "https://i.ytimg.com/vi/GxkMso-yQtQ/hqdefault.jpg",
+  "analysis": {
+    "summary": "Ezequiel y su amigo trabajaban como Papá Noel a domicilio en Nochebuena en Necochea, visitando casas de familias que contrataban el servicio. En una de las entregas, por error ingresan a la casa equivocada y le entregan el regalo a un niño que no era el destinatario.",
+    "categories": [
+      "laboral",
+      "barrio",
+      "familia",
+      "urbano",
+      "generacional"
+    ],
+    "geography": [
+      "Necochea, Argentina"
+    ],
+    "era": "años 90",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "cómico",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "emprendedor adolescente",
+      "Papá Noel improvisado",
+      "niño inocente"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 4,
+    "bonus_track": {
+      "summary": "Víctor, venezolano emigrado a España, relata cómo el árbol de navidad natural que su madre había insistido en comprar se incendió repentinamente mientras dormían, desatando un incendio que consumió el salón de su casa en Venezuela.",
+      "archetypes": [
+        "familia en crisis",
+        "madre soñadora",
+        "hijo protector"
+      ],
+      "emotional_arc": "dramático",
+      "intensity": 9
+    }
+  }
+}

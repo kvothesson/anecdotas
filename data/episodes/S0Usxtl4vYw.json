@@ -1,0 +1,55 @@
+{
+  "id": "S0Usxtl4vYw",
+  "episode_number": 137,
+  "title": "TRAGEDIA en LA PLATA - Anécdotas #137",
+  "url": "https://youtube.com/watch?v=S0Usxtl4vYw",
+  "published_date": "2023-05-28",
+  "duration_seconds": 986,
+  "views": 74728,
+  "likes": 3638,
+  "thumbnail": "https://i.ytimg.com/vi/S0Usxtl4vYw/hqdefault.jpg",
+  "analysis": {
+    "summary": "Darío relata cómo vivió la inundación del 2 de abril de 2013 en La Plata junto a su familia, cuando su hermano Germán desapareció durante horas al salir a rescatar a su hija mientras el agua arrasaba la ciudad.",
+    "categories": [
+      "familia",
+      "histórico",
+      "urbano",
+      "muerte",
+      "corrupción",
+      "barrio"
+    ],
+    "geography": [
+      "La Plata, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "municipio"
+    ],
+    "historical_events": [
+      "inundación La Plata 2013"
+    ],
+    "archetypes": [
+      "familia en crisis",
+      "ciudad devastada",
+      "negligencia estatal",
+      "búsqueda desesperada",
+      "hermano desaparecido"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 9,
+    "bonus_track": {
+      "summary": "Nico cuenta su propia experiencia durante la misma inundación de La Plata: llegó a su casa inundada tras caminar con agua a la cintura desde un boliche, encontró a su perro nadando y a su padre en shock, y terminó desenchufando el televisor bajo el agua mientras no había luz.",
+      "archetypes": [
+        "testigo involuntario",
+        "padre desbordado",
+        "perro nadando",
+        "casa perdida"
+      ],
+      "emotional_arc": "dramático",
+      "intensity": 7
+    }
+  }
+}

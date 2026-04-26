@@ -1,0 +1,43 @@
+{
+  "id": "XAfWeABPFP8",
+  "episode_number": 277,
+  "title": "Anécdota #277    -  ME Vinieron A BUSCAR",
+  "url": "https://youtube.com/watch?v=XAfWeABPFP8",
+  "published_date": "2026-04-05",
+  "duration_seconds": 982,
+  "views": 55777,
+  "likes": 2633,
+  "thumbnail": "https://i.ytimg.com/vi/XAfWeABPFP8/hqdefault.jpg",
+  "analysis": {
+    "summary": "Federico, un joven que vive solo con sus perros, es víctima de una turba que rodea su casa de noche, rompe su auto y los vidrios, y lo golpea con piedras sin que él entienda el motivo.",
+    "categories": [
+      "barrio",
+      "policial",
+      "urbano",
+      "vecinos",
+      "robo",
+      "salud"
+    ],
+    "geography": [
+      "Argentina (interior)"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [
+      "pandemia"
+    ],
+    "archetypes": [
+      "inocente confundido",
+      "turba justiciera",
+      "padre protector",
+      "inquilino fantasma"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8
+  }
+}

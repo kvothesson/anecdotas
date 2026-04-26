@@ -1,0 +1,48 @@
+{
+  "id": "EvimbSzgoGY",
+  "episode_number": 139,
+  "title": "¿Qué HARÍAN con TANTO PODER? - Anécdotas #139",
+  "url": "https://youtube.com/watch?v=EvimbSzgoGY",
+  "published_date": "2023-06-13",
+  "duration_seconds": 948,
+  "views": 93724,
+  "likes": 4390,
+  "thumbnail": "https://i.ytimg.com/vi/EvimbSzgoGY/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un especialista en ciberseguridad contratado para testear la seguridad de un banco descubre, mientras realiza el trabajo, una red de distribución de pornografía infantil vinculada a un cliente y un empleado de la entidad. Ante la imposibilidad legal de denunciarlo, toma la justicia en sus propias manos usando sus habilidades de hacker.",
+    "categories": [
+      "tecnología",
+      "corrupción",
+      "judicial",
+      "laboral"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "justicia",
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "hacker ético",
+      "justiciero anónimo",
+      "whistleblower"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Durante la pandemia, una persona intenta abrir su auto que cree chocado frente a un control policial, rompe el vidrio a golpes con una manopla y ante una multitud que lo acusa de robo, descubre que se había equivocado de auto.",
+      "archetypes": [
+        "confundido",
+        "torpe bienintencionado"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 4
+    }
+  }
+}

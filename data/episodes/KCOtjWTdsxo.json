@@ -1,0 +1,46 @@
+{
+  "id": "KCOtjWTdsxo",
+  "episode_number": 86,
+  "title": "Caí BORRACHO a La MUNICIPALIDAD- Anécdotas #86",
+  "url": "https://youtube.com/watch?v=KCOtjWTdsxo",
+  "published_date": "2022-05-08",
+  "duration_seconds": 1183,
+  "views": 105035,
+  "likes": 5353,
+  "thumbnail": "https://i.ytimg.com/vi/KCOtjWTdsxo/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven sale a tomar unas cervezas con un amigo en lo que iba a ser una noche tranquila, pero la situación escala descontroladamente hasta terminar en un boliche hasta las 6 de la mañana, completamente alcoholizado y con ropa de entrecasa.",
+    "categories": [
+      "urbano",
+      "barrio",
+      "laboral"
+    ],
+    "geography": [
+      "Zona Oeste, Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "municipio"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el amigo impredecible",
+      "la salida que se desmadra",
+      "el encuentro inesperado con el poder"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Un argentino de vacaciones en Miami va a ver un partido de los Miami Heat y termina cruzándose con LeBron James en el restaurante de su hotel, donde el intento de acercarse al ídolo resulta en un rechazo humillante.",
+      "archetypes": [
+        "el fanático decepcionado",
+        "el ídolo que cae del pedestal"
+      ],
+      "emotional_arc": "dramático",
+      "intensity": 5
+    }
+  }
+}

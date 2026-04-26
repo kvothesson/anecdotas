@@ -1,0 +1,48 @@
+{
+  "id": "8Pa5H7070JY",
+  "episode_number": 130,
+  "title": "BARRAS me LA DAN - Anécdotas #130",
+  "url": "https://youtube.com/watch?v=8Pa5H7070JY",
+  "published_date": "2023-04-09",
+  "duration_seconds": 1396,
+  "views": 103610,
+  "likes": 3812,
+  "thumbnail": "https://i.ytimg.com/vi/8Pa5H7070JY/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un jugador de 16 años de las inferiores de Aldosivi camina vestido con el uniforme del club por el barrio del estadio justo el día que juega Alvarado, el clásico rival, y queda atrapado en medio de la hinchada enemiga siendo perseguido y agredido.",
+    "categories": [
+      "deporte",
+      "barrio",
+      "urbano",
+      "policial",
+      "violencia"
+    ],
+    "geography": [
+      "Mar del Plata, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "transporte público"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el inocente en el lugar equivocado",
+      "el héroe inesperado",
+      "la cadena de favores"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Uno de los conductores del canal cuenta que salió de lo de una chica en Núñez usando la camiseta de Boca justo cuando había previa de barras de River en la vereda.",
+      "archetypes": [
+        "el inocente en el lugar equivocado"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 4
+    }
+  }
+}

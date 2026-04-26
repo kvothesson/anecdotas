@@ -1,0 +1,41 @@
+{
+  "id": "1vysPD3ltlA",
+  "episode_number": 189,
+  "title": "Anécdota #189 - El INQUILINO SINIESTRO",
+  "url": "https://youtube.com/watch?v=1vysPD3ltlA",
+  "published_date": "2024-06-09",
+  "duration_seconds": 1108,
+  "views": 124902,
+  "likes": 4304,
+  "thumbnail": "https://i.ytimg.com/vi/1vysPD3ltlA/hqdefault.jpg",
+  "analysis": {
+    "summary": "Iván, un joven uruguayo, vive en un edificio antiguo de Montevideo rodeado de vecinos peculiares. Las noches se vuelven cada vez más perturbadoras cuando el hijo esquizofrénico de los administradores del edificio, sin medicación, comienza a protagonizar episodios violentos.",
+    "categories": [
+      "vecinos",
+      "policial",
+      "salud",
+      "urbano",
+      "barrio"
+    ],
+    "geography": [
+      "Montevideo, Uruguay"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "narrador",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia",
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "vecino perturbador",
+      "edificio maldito",
+      "joven inquilino",
+      "autoridad que interviene"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8
+  }
+}

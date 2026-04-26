@@ -1,0 +1,50 @@
+{
+  "id": "GSltHLbXDOg",
+  "episode_number": 42,
+  "title": "Batalla CAMPAL De La BARRA Brava De BOCA- Anécdotas #42",
+  "url": "https://youtube.com/watch?v=GSltHLbXDOg",
+  "published_date": "2021-06-13",
+  "duration_seconds": 754,
+  "views": 90839,
+  "likes": 4679,
+  "thumbnail": "https://i.ytimg.com/vi/GSltHLbXDOg/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven que trabaja llevando turistas a partidos de fútbol se encuentra en medio de una batalla campal entre facciones de la barra brava de Boca Juniors justo cuando la cúpula está presa, con un grupo de turistas latinoamericanos y europeos a su cargo que deben atravesar el caos para llegar al estadio.",
+    "categories": [
+      "deporte",
+      "laboral",
+      "urbano",
+      "policial",
+      "viaje"
+    ],
+    "geography": [
+      "Buenos Aires",
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "héroe accidental",
+      "turistas en peligro",
+      "barra brava",
+      "trabajador joven"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "El compañero de trabajo de Nico, con menos experiencia, queda rodeado por barrabravas que intentan robarles todo a sus turistas, y en un acto impulsivo los engaña para que corran, quedándose solo frente a los barras con una amenaza de muerte.",
+      "archetypes": [
+        "héroe impulsivo",
+        "acto de locura heroica"
+      ],
+      "emotional_arc": "dramático",
+      "intensity": 8
+    }
+  }
+}

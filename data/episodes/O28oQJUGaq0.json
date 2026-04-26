@@ -1,0 +1,49 @@
+{
+  "id": "O28oQJUGaq0",
+  "episode_number": 31,
+  "title": "MUERTE y MISTERIO En El CAMPO- Anécdotas #31",
+  "url": "https://youtube.com/watch?v=O28oQJUGaq0",
+  "published_date": "2021-03-21",
+  "duration_seconds": 638,
+  "views": 95179,
+  "likes": 5079,
+  "thumbnail": "https://i.ytimg.com/vi/O28oQJUGaq0/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un niño de cinco años en Entre Ríos, durante la crisis de 2001, presencia junto a su familia una escena aterradora en el campo: figuras extrañas rodeando una vaca y una luz que se mueve a velocidad sobrenatural entre los árboles.",
+    "categories": [
+      "paranormal",
+      "animales",
+      "muerte",
+      "familia",
+      "histórico"
+    ],
+    "geography": [
+      "Entre Ríos, Argentina"
+    ],
+    "era": "años 90",
+    "protagonist_role": "testigo",
+    "emotional_arc": "terror",
+    "institutions_involved": [],
+    "historical_events": [
+      "crisis 2001"
+    ],
+    "archetypes": [
+      "abuelo protector",
+      "niño inocente",
+      "familia rural",
+      "fenómeno inexplicable"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "El conductor del programa relata que su propio abuelo lo llevó siendo niño a ver el cuerpo mutilado de una vaca en Corrientes, con las mismas características: sin sangre, sin órganos y sin que ningún animal carroñero se acercara al cadáver.",
+      "archetypes": [
+        "abuelo testigo",
+        "infancia marcada"
+      ],
+      "emotional_arc": "terror",
+      "intensity": 7
+    }
+  }
+}

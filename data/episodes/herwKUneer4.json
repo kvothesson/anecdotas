@@ -1,0 +1,59 @@
+{
+  "id": "herwKUneer4",
+  "episode_number": 115,
+  "title": "SOBREVIVÍ al HOLOCAUST0 - Anécdotas #115",
+  "url": "https://youtube.com/watch?v=herwKUneer4",
+  "published_date": "2022-12-11",
+  "duration_seconds": 1488,
+  "views": 110379,
+  "likes": 4940,
+  "thumbnail": "https://i.ytimg.com/vi/herwKUneer4/hqdefault.jpg",
+  "analysis": {
+    "summary": "Juan Blas comparte la historia de su bisabuelo Abraham, un soldado italiano que fue capturado y llevado a un campo de concentración nazi durante la Segunda Guerra Mundial. La historia comienza con un acto de bondad de su tatarabuela Josefina hacia un soldado alemán hambriento.",
+    "categories": [
+      "histórico",
+      "guerra",
+      "familia",
+      "migración",
+      "muerte"
+    ],
+    "geography": [
+      "Italia",
+      "Grecia",
+      "Alemania",
+      "Argentina",
+      "Entre Ríos"
+    ],
+    "era": "histórico",
+    "protagonist_role": "víctima",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "militar"
+    ],
+    "historical_events": [
+      "Segunda Guerra Mundial",
+      "Holocausto",
+      "Primera Guerra Mundial"
+    ],
+    "archetypes": [
+      "el sobreviviente",
+      "el enemigo compasivo",
+      "la madre bondadosa",
+      "el traidor inesperado",
+      "el salvador improbable"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 9,
+    "bonus_track": {
+      "summary": "Nico cuenta que tomó una microdosis de hongos con su madre y ella le reveló recuerdos de su abuelo materno, quien era francés y convivió con soldados nazis en su casa durante la ocupación de Francia. También relata que su propio abuelo italiano sobrevivió la guerra como prisionero y llegó traumatizado a Italia.",
+      "archetypes": [
+        "el abuelo traumatizado",
+        "la madre reveladora",
+        "el nieto que escucha"
+      ],
+      "emotional_arc": "emotivo",
+      "intensity": 7
+    }
+  }
+}

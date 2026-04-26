@@ -1,0 +1,49 @@
+{
+  "id": "5B_zbuUISr0",
+  "episode_number": 73,
+  "title": "EMPLEADO Estatal ESTAFADO-Anécdotas #73",
+  "url": "https://youtube.com/watch?v=5B_zbuUISr0",
+  "published_date": "2022-01-23",
+  "duration_seconds": 1352,
+  "views": 134441,
+  "likes": 6230,
+  "thumbnail": "https://i.ytimg.com/vi/5B_zbuUISr0/hqdefault.jpg",
+  "analysis": {
+    "summary": "Santiago, un empleado estatal de 20 años, es enganchado por una promotora en la calle Florida de Buenos Aires y conducido sin saberlo a un local que resultó ser un prostíbulo clandestino, donde quedó atrapado y tuvo que forcejear para escapar.",
+    "categories": [
+      "estafa",
+      "urbano",
+      "laboral",
+      "policial"
+    ],
+    "geography": [
+      "Buenos Aires",
+      "AMBA"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "empleado incauto",
+      "promotora trampa",
+      "proxeneta",
+      "trabajadora sexual"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Un grupo de amigos alquila un departamento en Mendoza y comienza a sentir síntomas extraños como dolor de cabeza y somnolencia extrema, posiblemente relacionados con la calefacción y monóxido de carbono.",
+      "archetypes": [
+        "turista desprevenido",
+        "dueño sospechoso"
+      ],
+      "emotional_arc": "terror",
+      "intensity": 7
+    }
+  }
+}

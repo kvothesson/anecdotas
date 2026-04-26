@@ -1,0 +1,47 @@
+{
+  "id": "mY-9p5NzujI",
+  "episode_number": 147,
+  "title": "Fuego URUGUAYO - Anécdota #147",
+  "url": "https://youtube.com/watch?v=mY-9p5NzujI",
+  "published_date": "2023-08-06",
+  "duration_seconds": 976,
+  "views": 65164,
+  "likes": 2802,
+  "thumbnail": "https://i.ytimg.com/vi/mY-9p5NzujI/hqdefault.jpg",
+  "analysis": {
+    "summary": "Ámbar, una niña uruguaya de 8 años, tira cenizas del asado sin saber que aún tenían brasas encendidas, desencadenando un incendio en el campo que amenaza con destruir casas, galpones y cultivos enteros.",
+    "categories": [
+      "familia",
+      "viaje",
+      "animales",
+      "vecinos"
+    ],
+    "geography": [
+      "Uruguay",
+      "San José"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "niña inocente",
+      "padre protector",
+      "vecina solidaria",
+      "familia unida en crisis"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Nico y su hermano prenden fuego accidentalmente la campana de la cocina con trapos y tienen que usar el matafuego para apagarlo, recordando también cuando usaron un matafuego en la promo del colegio.",
+      "archetypes": [
+        "hermanos imprudentes",
+        "adolescentes traviesos"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 4
+    }
+  }
+}

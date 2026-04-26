@@ -1,0 +1,45 @@
+{
+  "id": "nSDCT-uw71U",
+  "episode_number": 153,
+  "title": "¿Las apariencias engañan? - Anécdota #153",
+  "url": "https://youtube.com/watch?v=nSDCT-uw71U",
+  "published_date": "2023-09-17",
+  "duration_seconds": 1272,
+  "views": 107800,
+  "likes": 4538,
+  "thumbnail": "https://i.ytimg.com/vi/nSDCT-uw71U/hqdefault.jpg",
+  "analysis": {
+    "summary": "Ezequiel y su esposa Daiana quedan varados en la ruta entre Catamarca y La Rioja cuando su auto se descompone un domingo a la tarde. Sin hospedaje y con desconfianza, terminan siendo recibidos en la humilde casa del electricista Carlos y su familia.",
+    "categories": [
+      "viaje",
+      "familia",
+      "burocracia"
+    ],
+    "geography": [
+      "La Rioja",
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "emotivo",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "el buen samaritano",
+      "la pareja viajera",
+      "el artesano humilde"
+    ],
+    "has_twist": false,
+    "credibility": "muy alta",
+    "intensity": 4,
+    "bonus_track": {
+      "summary": "Una madre cuenta que su hijo con autismo, sin saberlo, eligió pintar una mariposa en su clase de arte el mismo día que ella había fotografiado una mariposa posada en su auto, revelando una conexión inexplicable entre ambos.",
+      "archetypes": [
+        "el niño especial",
+        "la madre atenta"
+      ],
+      "emotional_arc": "emotivo",
+      "intensity": 5
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "DyGDtZzMfhU",
+  "episode_number": 94,
+  "title": "ROBO En Mi CASA - Anécdotas #94",
+  "url": "https://youtube.com/watch?v=DyGDtZzMfhU",
+  "published_date": "2022-07-03",
+  "duration_seconds": 938,
+  "views": 73025,
+  "likes": 3485,
+  "thumbnail": "https://i.ytimg.com/vi/DyGDtZzMfhU/hqdefault.jpg",
+  "analysis": {
+    "summary": "Emilia, de 23 años, está de vacaciones en La Pedrera durante el carnaval y baja a la madrugada al baño encontrándose con un ladrón que había entrado a la casa y revuelto todas sus pertenencias.",
+    "categories": [
+      "robo",
+      "viaje",
+      "policial",
+      "vecinos"
+    ],
+    "geography": [
+      "Uruguay",
+      "La Pedrera"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "justicia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "víctima inocente",
+      "ladrón conocido",
+      "reencuentro inesperado"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 6,
+    "bonus_track": {
+      "summary": "Los conductores comparten anécdotas propias sobre haberse meado encima en distintas situaciones, incluyendo una noche de hongos y una infancia con amigas.",
+      "archetypes": [
+        "confesión vergonzosa",
+        "humor cotidiano"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 2
+    }
+  }
+}

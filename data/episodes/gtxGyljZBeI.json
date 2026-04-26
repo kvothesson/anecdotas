@@ -1,0 +1,48 @@
+{
+  "id": "gtxGyljZBeI",
+  "episode_number": 206,
+  "title": "Anécdota #206  - Barrio PICANTE, situación PICANTE",
+  "url": "https://youtube.com/watch?v=gtxGyljZBeI",
+  "published_date": "2024-10-20",
+  "duration_seconds": 1011,
+  "views": 77851,
+  "likes": 3448,
+  "thumbnail": "https://i.ytimg.com/vi/gtxGyljZBeI/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un adolescente de 15 años acompaña a un amigo mayor a comprar marihuana en un barrio peligroso de Neuquén y termina transportando plantas de cannabis en el auto, sin imaginar la situación extrema que se desencadenaría.",
+    "categories": [
+      "drogas",
+      "barrio",
+      "policial",
+      "urbano"
+    ],
+    "geography": [
+      "Neuquén, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "pibe de barrio",
+      "amigo mayor influyente",
+      "policía encubierto",
+      "dealer desaparecido"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Los conductores del podcast cuentan anécdotas propias sobre situaciones con faso durante viajes y vuelos, incluyendo una parada policial y un episodio en el aeropuerto con 38 gramos.",
+      "archetypes": [
+        "comediante despreocupado",
+        "policía condescendiente"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 4
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "RSlkqqc7CAY",
+  "episode_number": 176,
+  "title": "Anécdota #176 - EL CLUB de golf DE LA PELEA",
+  "url": "https://youtube.com/watch?v=RSlkqqc7CAY",
+  "published_date": "2024-03-03",
+  "duration_seconds": 1245,
+  "views": 93136,
+  "likes": 5076,
+  "thumbnail": "https://i.ytimg.com/vi/RSlkqqc7CAY/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un empleado de un club de golf de alta jerarquía choca repetidamente con un socio malhumorado y cascarrabias conocido como 'el Bronco', generando una tensión que escala hasta el desafío mutuo de encontrarse a las piñas fuera del horario laboral.",
+    "categories": [
+      "laboral",
+      "deporte",
+      "barrio",
+      "urbano"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "narrador",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "el cascarrabias solitario",
+      "el trabajador de a pie",
+      "el capitán corrupto"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 6,
+    "bonus_track": {
+      "summary": "Nico cuenta que de chico le metió orín en un vaso a un amigo que lo tenía harto, lo que derivó en una pelea callejera a los 12 años y terminó siendo el origen de una amistad duradera.",
+      "archetypes": [
+        "el pibe del barrio",
+        "el amigo de la infancia"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 3
+    }
+  }
+}

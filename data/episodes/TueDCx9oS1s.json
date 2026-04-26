@@ -1,0 +1,50 @@
+{
+  "id": "TueDCx9oS1s",
+  "episode_number": 175,
+  "title": "Anécdota #175 - ¿Dónde está Pepe?",
+  "url": "https://youtube.com/watch?v=TueDCx9oS1s",
+  "published_date": "2024-02-25",
+  "duration_seconds": 1317,
+  "views": 83763,
+  "likes": 3769,
+  "thumbnail": "https://i.ytimg.com/vi/TueDCx9oS1s/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una vecina regresa del trabajo y se ofrece a acompañar a la esposa anciana y senil de Pepe mientras lo buscan por el edificio. Al recorrer el departamento descubre algo inesperado en una de las habitaciones.",
+    "categories": [
+      "vecinos",
+      "muerte",
+      "familia",
+      "salud",
+      "urbano"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "vecina solidaria",
+      "anciana con demencia",
+      "portero",
+      "marido desaparecido"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Un niño de 10 años relata múltiples encuentros con entidades paranormales en el complejo residencial donde vive con su madre, incluyendo una sombra negra de cabeza ovalada y una mujer pálida de túnica blanca que también fue vista por otras vecinas.",
+      "archetypes": [
+        "niño vidente",
+        "fantasma femenino",
+        "vecina testigo"
+      ],
+      "emotional_arc": "terror",
+      "intensity": 6
+    }
+  }
+}

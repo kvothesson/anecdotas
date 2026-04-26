@@ -1,0 +1,40 @@
+{
+  "id": "0RYUpOUo908",
+  "episode_number": 178,
+  "title": "Anécdota #178 - Me entraron A ROBAR",
+  "url": "https://youtube.com/watch?v=0RYUpOUo908",
+  "published_date": "2024-03-17",
+  "duration_seconds": 1060,
+  "views": 80034,
+  "likes": 3770,
+  "thumbnail": "https://i.ytimg.com/vi/0RYUpOUo908/hqdefault.jpg",
+  "analysis": {
+    "summary": "Martín Palermo (21 años) narra cómo un grupo de ladrones armados irrumpió en la casa de veraneo de su mejor amigo en Santa Clara del Mar, tomando a la familia y a él como rehenes durante un robo violento.",
+    "categories": [
+      "robo",
+      "policial",
+      "viaje",
+      "familia"
+    ],
+    "geography": [
+      "Santa Clara del Mar, Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "militar"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "abuelo héroe",
+      "familia militar",
+      "turista atrapado",
+      "ladrón armado"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8
+  }
+}

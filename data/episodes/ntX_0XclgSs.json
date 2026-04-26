@@ -1,0 +1,52 @@
+{
+  "id": "ntX_0XclgSs",
+  "episode_number": 78,
+  "title": "ANÉCDOTA Con Final ABIERTO - Anécdotas #78",
+  "url": "https://youtube.com/watch?v=ntX_0XclgSs",
+  "published_date": "2022-03-13",
+  "duration_seconds": 1033,
+  "views": 85571,
+  "likes": 4764,
+  "thumbnail": "https://i.ytimg.com/vi/ntX_0XclgSs/hqdefault.jpg",
+  "analysis": {
+    "summary": "Joaquín y su amigo Mauro, repartidores de MercadoLibre, son interceptados violentamente por hombres que parecen policías en La Matanza. La situación escala rápidamente y queda la duda de si eran chorros disfrazados o policías corruptos.",
+    "categories": [
+      "policial",
+      "laboral",
+      "corrupción",
+      "robo",
+      "drogas",
+      "barrio",
+      "urbano"
+    ],
+    "geography": [
+      "La Matanza, Buenos Aires"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "repartidor inocente",
+      "policía corrupto",
+      "chorro disfrazado",
+      "testigo confundido"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Un grupo de amigos fumados va a comprar alfajores antes de ver la final de la Copa Libertadores 2015, y queda paralizado ante el precio 'tres pesos cada uno, el cuarto a 19 pesos', sin entender que era el precio por cuarto de kilo.",
+      "archetypes": [
+        "amigos fumados",
+        "malentendido absurdo",
+        "vendedor de barrio"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 2
+    }
+  }
+}

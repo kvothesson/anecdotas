@@ -1,0 +1,49 @@
+{
+  "id": "0irg3ijoVkw",
+  "episode_number": 114,
+  "title": "Me FUI al C@RAJO de MÍ - Anécdotas #114",
+  "url": "https://youtube.com/watch?v=0irg3ijoVkw",
+  "published_date": "2022-12-04",
+  "duration_seconds": 1304,
+  "views": 111685,
+  "likes": 4845,
+  "thumbnail": "https://i.ytimg.com/vi/0irg3ijoVkw/hqdefault.jpg",
+  "analysis": {
+    "summary": "Herido Cruz, escritor de 19 años, prueba LSD por primera vez en una fiesta cerca del Obelisco siguiendo el consejo de su profesora de dramaturgia de 'irse al carajo de sí mismo'. Lo que comienza como una noche de salida termina convirtiéndose en una experiencia psicodélica donde el protagonista cree estar dentro de un videojuego de Mario Bros.",
+    "categories": [
+      "drogas",
+      "urbano",
+      "barrio",
+      "generacional"
+    ],
+    "geography": [
+      "Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "educación"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el inocente que se inicia",
+      "el héroe en su propia mente",
+      "el hada mala",
+      "el skinhead",
+      "la princesa"
+    ],
+    "has_twist": false,
+    "credibility": "muy alta",
+    "intensity": 6,
+    "bonus_track": {
+      "summary": "Nico cuenta su experiencia bajo el efecto del LSD sin saber si él era el pensamiento o la persona que pensaba, y luego recuerda otra vez que fumó flores potentes y escuchó una orquesta completa detrás de la guitarra de Divididos en vivo.",
+      "archetypes": [
+        "el conductor que también tiene sus historias",
+        "el oyente que se vuelve narrador"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 4
+    }
+  }
+}

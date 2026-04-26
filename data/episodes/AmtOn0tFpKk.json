@@ -1,0 +1,51 @@
+{
+  "id": "AmtOn0tFpKk",
+  "episode_number": 124,
+  "title": "Qué MIEDO Estados Unidos - Anécdotas #124",
+  "url": "https://youtube.com/watch?v=AmtOn0tFpKk",
+  "published_date": "2023-02-19",
+  "duration_seconds": 918,
+  "views": 83311,
+  "likes": 3737,
+  "thumbnail": "https://i.ytimg.com/vi/AmtOn0tFpKk/hqdefault.jpg",
+  "analysis": {
+    "summary": "Annie, una argentina de 18 años, viaja sola a Miami y Nueva York en 2016. En el aeropuerto JFK, durante un retraso de su vuelo, un ruido no identificado desata una evacuación masiva en la que todos corren creyendo ser víctimas de un ataque terrorista.",
+    "categories": [
+      "viaje",
+      "policial",
+      "migración",
+      "urbano"
+    ],
+    "geography": [
+      "Estados Unidos",
+      "Nueva York",
+      "Miami"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia",
+      "migraciones"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "argentina en el exterior",
+      "viajera solitaria",
+      "falsa alarma",
+      "pánico colectivo"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Nico y Cristi comparten anécdotas personales de situaciones de miedo urbano en Nueva York: locos en el subte, una mujer gritando en los pasillos y el propio Nico casi atropellado al cruzar la avenida Libertador.",
+      "archetypes": [
+        "loco urbano",
+        "casi-muerte cotidiana"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 3
+    }
+  }
+}

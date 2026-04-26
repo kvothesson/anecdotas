@@ -1,0 +1,46 @@
+{
+  "id": "TTYT3FtQzd4",
+  "episode_number": 186,
+  "title": "Anécdota #186 - BRUTÁLMENTE CELOSA",
+  "url": "https://youtube.com/watch?v=TTYT3FtQzd4",
+  "published_date": "2024-05-12",
+  "duration_seconds": 1183,
+  "views": 120194,
+  "likes": 4699,
+  "thumbnail": "https://i.ytimg.com/vi/TTYT3FtQzd4/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una mujer narra en tercera persona cómo su mejor amiga, enferma de celos, irrumpe en el kiosco de su novio karateca al sospechar una infidelidad y destruye todo el local en un ataque de furia.",
+    "categories": [
+      "romance",
+      "barrio",
+      "urbano",
+      "familia"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "años 90",
+    "protagonist_role": "testigo",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "amiga celosa",
+      "novio infiel",
+      "testigo inocente",
+      "pareja disfuncional"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "El suegro del narrador, al volver a casa en su Palio rojo, nota que le están robando el auto y en lugar de dejarlo ir sale corriendo a impedirlo por no tener el seguro al día.",
+      "archetypes": [
+        "víctima imprudente",
+        "ladrón de autos"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 6
+    }
+  }
+}

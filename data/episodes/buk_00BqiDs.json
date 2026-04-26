@@ -1,0 +1,53 @@
+{
+  "id": "buk_00BqiDs",
+  "episode_number": 59,
+  "title": "Se Me APAGÓ La TELE En ÁMSTERDAM- Anécdotas #59",
+  "url": "https://youtube.com/watch?v=buk_00BqiDs",
+  "published_date": "2021-10-18",
+  "duration_seconds": 1398,
+  "views": 158633,
+  "likes": 8060,
+  "thumbnail": "https://i.ytimg.com/vi/buk_00BqiDs/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven de 19 años hace un viaje de intercambio a Bélgica y durante sus vacaciones en Ámsterdam tiene un encuentro romántico con una alemana en un hostel. Meses después regresa a Argentina con una vida secreta que sus amigos y familia desconocen.",
+    "categories": [
+      "viaje",
+      "romance",
+      "drogas",
+      "familia",
+      "generacional"
+    ],
+    "geography": [
+      "Ámsterdam",
+      "Bélgica",
+      "Argentina",
+      "Alemania"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "salud"
+    ],
+    "historical_events": [
+      "pandemia"
+    ],
+    "archetypes": [
+      "joven aventurero",
+      "padre secreto",
+      "viajero solitario"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Dos amigas visitan Ámsterdam y deciden comer trufas mágicas por primera vez en el parque central de la ciudad, experimentando fuertes efectos visuales y alucinaciones mientras recorren la ciudad de noche.",
+      "archetypes": [
+        "turista desorientado",
+        "duo de amigas"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 5
+    }
+  }
+}

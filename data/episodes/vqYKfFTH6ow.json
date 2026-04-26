@@ -1,0 +1,48 @@
+{
+  "id": "vqYKfFTH6ow",
+  "episode_number": 71,
+  "title": "Me ROBARON El AUTO Que AMABA- Anécdotas #71",
+  "url": "https://youtube.com/watch?v=vqYKfFTH6ow",
+  "published_date": "2022-01-09",
+  "duration_seconds": 934,
+  "views": 93164,
+  "likes": 5099,
+  "thumbnail": "https://i.ytimg.com/vi/vqYKfFTH6ow/hqdefault.jpg",
+  "analysis": {
+    "summary": "Lucas sale del trabajo para acompañar a un amigo a visitar a su padre internado en una clínica, estaciona su Volkswagen Gol y al volver no lo encuentra, convencido de que se lo robaron.",
+    "categories": [
+      "robo",
+      "urbano",
+      "policial",
+      "burocracia"
+    ],
+    "geography": [
+      "Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "policia",
+      "municipio"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el distraído",
+      "el ingenuo",
+      "el amigo leal"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 5,
+    "bonus_track": {
+      "summary": "Nico cuenta que se fue de viaje al sur sin su valija porque se olvidó las llaves y nadie se las recordó a tiempo, terminando una semana sin ropa en el frío patagónico.",
+      "archetypes": [
+        "el distraído",
+        "el viajero desafortunado"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 3
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ZFZ90LTCO1U",
+  "episode_number": 199,
+  "title": "Anécdota #199 - PÉREZ",
+  "url": "https://youtube.com/watch?v=ZFZ90LTCO1U",
+  "published_date": "2024-08-18",
+  "duration_seconds": 1093,
+  "views": 82153,
+  "likes": 3556,
+  "thumbnail": "https://i.ytimg.com/vi/ZFZ90LTCO1U/hqdefault.jpg",
+  "analysis": {
+    "summary": "En 1987, un hombre que trabajaba en las fuerzas armadas es confundido con un vecino policía de apellido Pérez por un grupo armado que busca venganza. Los intrusos irrumpen en su casa apuntando a su familia y están a punto de ejecutarlo.",
+    "categories": [
+      "policial",
+      "familia",
+      "barrio",
+      "vecinos",
+      "muerte",
+      "urbano",
+      "histórico"
+    ],
+    "geography": [
+      "Buenos Aires, Argentina"
+    ],
+    "era": "años 80",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "militar",
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "confusión de identidad",
+      "venganza equivocada",
+      "familia en peligro",
+      "sobreviviente por casualidad"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 9
+  }
+}

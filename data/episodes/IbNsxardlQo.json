@@ -1,0 +1,48 @@
+{
+  "id": "IbNsxardlQo",
+  "episode_number": 50,
+  "title": "Mercado LIBRE y Pachu PEÑA- Anécdotas #50",
+  "url": "https://youtube.com/watch?v=IbNsxardlQo",
+  "published_date": "2021-08-15",
+  "duration_seconds": 743,
+  "views": 103297,
+  "likes": 5618,
+  "thumbnail": "https://i.ytimg.com/vi/IbNsxardlQo/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una chica compra un consolador con vibrador y lubricantes por Mercado Libre pero, sin darse cuenta, lo envía a la dirección de su mamá en lugar de la propia.",
+    "categories": [
+      "familia",
+      "tecnología",
+      "romance",
+      "urbano"
+    ],
+    "geography": [
+      "Buenos Aires",
+      "Palermo",
+      "Recoleta"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "cómico",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "error involuntario",
+      "vergüenza familiar",
+      "compra online"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 4,
+    "bonus_track": {
+      "summary": "Un hombre espera un remís en una plaza de San Isidro y Pachu Peña, creyendo que es un mendigo por caminar con bastón, se acerca y le da 20 pesos discretamente.",
+      "archetypes": [
+        "confusión de identidad",
+        "famoso accesible",
+        "malentendido urbano"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 3
+    }
+  }
+}

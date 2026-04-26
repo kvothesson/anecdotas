@@ -1,0 +1,45 @@
+{
+  "id": "CcRQ8dDG_lY",
+  "episode_number": 230,
+  "title": "Anécdota #230 - El CHOQUE",
+  "url": "https://youtube.com/watch?v=CcRQ8dDG_lY",
+  "published_date": "2025-04-06",
+  "duration_seconds": 1284,
+  "views": 84210,
+  "likes": 3464,
+  "thumbnail": "https://i.ytimg.com/vi/CcRQ8dDG_lY/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una chica va en colectivo con su amiga cuando un auto las choca violentamente, causando que el colectivo embista una casa. Ella termina con un tajo en la ceja y cuatro puntos, asistida por una vecina desconocida.",
+    "categories": [
+      "urbano",
+      "salud",
+      "judicial",
+      "drogas",
+      "transporte público",
+      "barrio"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "salud",
+      "justicia",
+      "transporte público"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "la amiga en shock",
+      "la vecina solidaria",
+      "el conductor drogado",
+      "el copiloto que descarta",
+      "la mamá desesperada",
+      "el mal abogado"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 7
+  }
+}

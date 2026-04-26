@@ -1,0 +1,40 @@
+{
+  "id": "PXxq2MH67T8",
+  "episode_number": 255,
+  "title": "Anécdota #255 -  ESPECIAL DE HALLOWEEN",
+  "url": "https://youtube.com/watch?v=PXxq2MH67T8",
+  "published_date": "2025-10-26",
+  "duration_seconds": 1935,
+  "views": 117553,
+  "likes": 4961,
+  "thumbnail": "https://i.ytimg.com/vi/PXxq2MH67T8/hqdefault.jpg",
+  "analysis": {
+    "summary": "Leandro, un policía del conurbano bonaerense trabajando en un pueblo del interior, es llamado a intervenir en lo que resulta ser un exorcismo en una casa abandonada. Lo que encuentra lo obliga a cuestionar su escepticismo radical ante algo que no puede explicar con lógica.",
+    "categories": [
+      "policial",
+      "paranormal",
+      "barrio",
+      "urbano"
+    ],
+    "geography": [
+      "Provincia de Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia",
+      "iglesia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "policía escéptico",
+      "pastor exorcista",
+      "poseída",
+      "chofer silencioso"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 8
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "OuMAUyQ8qtI",
+  "episode_number": 247,
+  "title": "Anécdota #247 -  SOY GITANO",
+  "url": "https://youtube.com/watch?v=OuMAUyQ8qtI",
+  "published_date": "2025-08-10",
+  "duration_seconds": 1402,
+  "views": 115091,
+  "likes": 4449,
+  "thumbnail": "https://i.ytimg.com/vi/OuMAUyQ8qtI/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un gomero de un pueblo de Entre Ríos es abordado por un gitano que le compra cubiertas viejas a buen precio con el pretexto de una supuesta tecnología de recapado, generando en el gomero la expectativa de un gran negocio.",
+    "categories": [
+      "estafa",
+      "barrio",
+      "laboral",
+      "urbano"
+    ],
+    "geography": [
+      "Entre Ríos, Argentina"
+    ],
+    "era": "años 90",
+    "protagonist_role": "víctima",
+    "emotional_arc": "cómico",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "el estafador",
+      "el ingenuo",
+      "el oportunista"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 5,
+    "bonus_track": {
+      "summary": "Los conductores del podcast comparten anécdotas personales y reflexiones sobre el miedo a los gitanos inculcado en la infancia, y uno recuerda cuando su padre le compró una camioneta a un gitano que tocó el timbre de su casa mientras cenaban.",
+      "archetypes": [
+        "el prejuicio heredado",
+        "el vendedor ambulante"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 3
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3AF8LPGC-_Y",
+  "episode_number": 269,
+  "title": "Anécdota #269  - EL PESO REAL de un ARMA",
+  "url": "https://youtube.com/watch?v=3AF8LPGC-_Y",
+  "published_date": "2026-02-01",
+  "duration_seconds": 1513,
+  "views": 78378,
+  "likes": 3386,
+  "thumbnail": "https://i.ytimg.com/vi/3AF8LPGC-_Y/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven de 23 años que vive en el conurbano bonaerense y porta arma legalmente mata a un delincuente que intenta apuñalarlo durante un asalto. La anécdota explora las consecuencias legales, psicológicas y personales que le siguieron.",
+    "categories": [
+      "policial",
+      "judicial",
+      "barrio",
+      "salud",
+      "muerte",
+      "urbano"
+    ],
+    "geography": [
+      "Provincia de Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "justicia",
+      "policia",
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "sobreviviente",
+      "víctima del sistema",
+      "habitante del conurbano"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 9
+  }
+}

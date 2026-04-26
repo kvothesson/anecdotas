@@ -1,0 +1,41 @@
+{
+  "id": "q7hXKIYzvn8",
+  "episode_number": 250,
+  "title": "Anécdota #250 -  IGNORANCIA YANKEE",
+  "url": "https://youtube.com/watch?v=q7hXKIYzvn8",
+  "published_date": "2025-09-14",
+  "duration_seconds": 1076,
+  "views": 82617,
+  "likes": 3829,
+  "thumbnail": "https://i.ytimg.com/vi/q7hXKIYzvn8/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un costarricense bilingüe viaja a Arizona con escala en Atlanta y es detenido por los oficiales de inmigración que sospechan que su pasaporte es falso, terminando en el cuartito de deportación sin poder contactar a su familia ni a sus amigos.",
+    "categories": [
+      "viaje",
+      "migración",
+      "burocracia",
+      "romance"
+    ],
+    "geography": [
+      "Costa Rica",
+      "Atlanta",
+      "Arizona",
+      "Puerto Rico"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "migraciones"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el deportado por error",
+      "el funcionario ignorante",
+      "el viajero inocente"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 6
+  }
+}

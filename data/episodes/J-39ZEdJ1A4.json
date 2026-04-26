@@ -1,0 +1,48 @@
+{
+  "id": "J-39ZEdJ1A4",
+  "episode_number": 117,
+  "title": "Milagros navideños - Anécdotas #117",
+  "url": "https://youtube.com/watch?v=J-39ZEdJ1A4",
+  "published_date": "2022-12-25",
+  "duration_seconds": 915,
+  "views": 65217,
+  "likes": 3471,
+  "thumbnail": "https://i.ytimg.com/vi/J-39ZEdJ1A4/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un chofer de colectivo trabaja el 25 de diciembre y frena su unidad justo a tiempo por un motivo inesperado, salvando accidentalmente a un pasajero que venía corriendo y cayó frente a la rueda delantera.",
+    "categories": [
+      "laboral",
+      "urbano",
+      "muerte",
+      "transporte público"
+    ],
+    "geography": [
+      "Escobar, Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "transporte público"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "trabajador responsable",
+      "borracho festivo",
+      "pasajero accidentado"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Un joven pierde a su gato en la ruta durante un viaje navideño y tiene un sueño en el que el animal le habla y le menciona una fecha específica, que luego coincide misteriosamente con el nacimiento de su nueva gata.",
+      "archetypes": [
+        "dueño dolido",
+        "gato mensajero",
+        "sueño premonitorio"
+      ],
+      "emotional_arc": "emotivo",
+      "intensity": 6
+    }
+  }
+}

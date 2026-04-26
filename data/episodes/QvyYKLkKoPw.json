@@ -1,0 +1,56 @@
+{
+  "id": "QvyYKLkKoPw",
+  "episode_number": 209,
+  "title": "Anécdota #209 - Cruda REALIDAD",
+  "url": "https://youtube.com/watch?v=QvyYKLkKoPw",
+  "published_date": "2024-11-10",
+  "duration_seconds": 1000,
+  "views": 76078,
+  "likes": 3581,
+  "thumbnail": "https://i.ytimg.com/vi/QvyYKLkKoPw/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una mujer que trabaja en un aeropuerto de Medio Oriente se encuentra con Carmen, una joven venezolana víctima de una red de trata de personas que logró escapar de sus captores. La narradora utiliza su posición y sus contactos con la policía aeroportuaria para asegurarse de que Carmen pueda abordar un avión y salir del país esa misma noche.",
+    "categories": [
+      "migración",
+      "policial",
+      "laboral",
+      "viaje",
+      "estafa",
+      "corrupción",
+      "urbano"
+    ],
+    "geography": [
+      "Medio Oriente",
+      "Venezuela",
+      "Surinam"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "migraciones",
+      "transporte público"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "rescatadora",
+      "víctima",
+      "cómplice del sistema",
+      "madama",
+      "taxista héroe"
+    ],
+    "has_twist": false,
+    "credibility": "alta",
+    "intensity": 9,
+    "bonus_track": {
+      "summary": "Nico cuenta que de joven entró con amigos a un prostíbulo en Recoleta solo para tomar una cerveza y terminó charlando con trabajadoras sexuales que le contaban su realidad, dejándolo con la sensación de que estaban atrapadas.",
+      "archetypes": [
+        "joven ingenuo",
+        "víctima invisible"
+      ],
+      "emotional_arc": "emotivo",
+      "intensity": 5
+    }
+  }
+}

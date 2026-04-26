@@ -1,0 +1,41 @@
+{
+  "id": "DXIVjY1hnYk",
+  "episode_number": 202,
+  "title": "Anécdota #202 - Una OSCURA",
+  "url": "https://youtube.com/watch?v=DXIVjY1hnYk",
+  "published_date": "2024-09-15",
+  "duration_seconds": 1194,
+  "views": 82299,
+  "likes": 3784,
+  "thumbnail": "https://i.ytimg.com/vi/DXIVjY1hnYk/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una familia argentina emigra forzosamente a Chile tras la separación de los padres y queda a cargo de una abuela autoritaria y su hija en un ambiente de maltrato sistemático. El narrador relata el año que vivieron bajo esa dinámica de crueldad, trabajo forzado y violencia emocional.",
+    "categories": [
+      "familia",
+      "migración",
+      "salud",
+      "muerte",
+      "generacional"
+    ],
+    "geography": [
+      "Mendoza, Argentina",
+      "Sur de Chile"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "dramático",
+    "institutions_involved": [],
+    "historical_events": [
+      "dictadura"
+    ],
+    "archetypes": [
+      "abuela tirana",
+      "madre vulnerable",
+      "niño resiliente",
+      "tía cómplice"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 9
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "-3uNS5tijw4",
+  "episode_number": 242,
+  "title": "Anécdota #242 -  SAQUEO!",
+  "url": "https://youtube.com/watch?v=-3uNS5tijw4",
+  "published_date": "2025-07-06",
+  "duration_seconds": 1061,
+  "views": 77723,
+  "likes": 3474,
+  "thumbnail": "https://i.ytimg.com/vi/-3uNS5tijw4/hqdefault.jpg",
+  "analysis": {
+    "summary": "Agustín, un joven de Córdoba, sale a curiosear durante el acuartelamiento policial de 2013 y termina involucrado accidentalmente en la defensa armada de un supermercado chino frente a una banda de saqueadores.",
+    "categories": [
+      "policial",
+      "barrio",
+      "urbano",
+      "histórico",
+      "robo"
+    ],
+    "geography": [
+      "Córdoba, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [
+      "acuartelamiento policial Córdoba 2013"
+    ],
+    "archetypes": [
+      "el curioso inconsciente",
+      "la comunidad que se defiende sola",
+      "el joven gamer lanzado a la realidad"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8
+  }
+}

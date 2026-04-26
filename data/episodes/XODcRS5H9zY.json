@@ -1,0 +1,56 @@
+{
+  "id": "XODcRS5H9zY",
+  "episode_number": 237,
+  "title": "Anécdota #237 -  TRANSFERENCIA EQUIVOCADA",
+  "url": "https://youtube.com/watch?v=XODcRS5H9zY",
+  "published_date": "2025-06-01",
+  "duration_seconds": 1604,
+  "views": 141959,
+  "likes": 4767,
+  "thumbnail": "https://i.ytimg.com/vi/XODcRS5H9zY/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un hombre que limpiaba baños en un hospital recibe por error una transferencia de 40 millones de pesos en su cuenta bancaria. En lugar de devolverla, decide cambiar los pesos a dólares y planear una nueva vida en el exterior.",
+    "categories": [
+      "judicial",
+      "laboral",
+      "estafa",
+      "migración",
+      "barrio"
+    ],
+    "geography": [
+      "Argentina",
+      "San Luis",
+      "Bariloche",
+      "Córdoba",
+      "Florencia Varela",
+      "Paraguay",
+      "España"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "justicia",
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el trabajador explotado",
+      "el que se la juega",
+      "el sueño frustrado",
+      "el arrepentido"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Nico cuenta que de joven, trabajando como cadete, vio a un hombre caérsele 150 pesos en la boca del subte y llamó a su mamá para preguntarle qué hacer, quien le dijo que si estaban ahí eran suyos.",
+      "archetypes": [
+        "el cadete honesto",
+        "la mamá pragmática"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 3
+    }
+  }
+}

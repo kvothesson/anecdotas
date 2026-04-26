@@ -1,0 +1,51 @@
+{
+  "id": "HZW0TXWmHSw",
+  "episode_number": 81,
+  "title": "SPIDER Man de RAMOS MEJÍA- Anécdotas #81",
+  "url": "https://youtube.com/watch?v=HZW0TXWmHSw",
+  "published_date": "2022-04-04",
+  "duration_seconds": 1480,
+  "views": 122797,
+  "likes": 5600,
+  "thumbnail": "https://i.ytimg.com/vi/HZW0TXWmHSw/hqdefault.jpg",
+  "analysis": {
+    "summary": "Ignacio baja del colectivo en Ramos Mejía y es testigo de cómo un vendedor africano trepa cuatro pisos de un edificio para intentar salvar a un hombre que cuelga de una soga en un balcón. La escena se desarrolla ante una multitud mientras la policía brilla por su ausencia.",
+    "categories": [
+      "urbano",
+      "muerte",
+      "salud",
+      "barrio",
+      "policial"
+    ],
+    "geography": [
+      "Ramos Mejía, Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "testigo",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "héroe anónimo",
+      "salvador inesperado",
+      "testigo involuntario",
+      "policía inútil"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 9,
+    "bonus_track": {
+      "summary": "Luana y su hermano Alexander van en moto sin carnet a comprar un celular en Bahía Blanca y, por insistencia de ella, terminan escapando de la policía en contramano hasta chocar levemente con un auto.",
+      "archetypes": [
+        "hermano irresponsable",
+        "adolescente impulsiva",
+        "fuga policial"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 5
+    }
+  }
+}

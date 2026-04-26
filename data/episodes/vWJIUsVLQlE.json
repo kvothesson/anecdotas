@@ -1,0 +1,46 @@
+{
+  "id": "vWJIUsVLQlE",
+  "episode_number": 167,
+  "title": "Especial de NAVIDAD - Anécdota #167",
+  "url": "https://youtube.com/watch?v=vWJIUsVLQlE",
+  "published_date": "2023-12-25",
+  "duration_seconds": 1146,
+  "views": 72460,
+  "likes": 3453,
+  "thumbnail": "https://i.ytimg.com/vi/vWJIUsVLQlE/hqdefault.jpg",
+  "analysis": {
+    "summary": "Francisco recuerda la Navidad de 1993 en la que, siendo niño, esperaba con emoción ver a Papá Noel llegar en trineo. Lo que presenció en cambio fue la llegada del hermano del novio de su hermana, en estado de ebriedad, en un Fiat 600 destartalado lleno de barro.",
+    "categories": [
+      "familia",
+      "barrio",
+      "generacional",
+      "urbano"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "años 90",
+    "protagonist_role": "víctima",
+    "emotional_arc": "cómico",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "niño ilusionado",
+      "adulto irresponsable",
+      "familia disfuncional"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 4,
+    "bonus_track": {
+      "summary": "Un joven se reencuentra con un amigo de la infancia en un club de ajedrez y entablan una amistad basada en el juego y los torneos. Tras un incidente en un bar donde el amigo le rompe el celular de una piña, el conflicto por quién paga la reparación termina con la amistad rota y sin resarcimiento.",
+      "archetypes": [
+        "amigo desleal",
+        "deuda no saldada",
+        "víctima de la amistad"
+      ],
+      "emotional_arc": "dramático",
+      "intensity": 5
+    }
+  }
+}

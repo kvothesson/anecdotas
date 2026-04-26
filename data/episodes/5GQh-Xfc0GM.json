@@ -1,0 +1,45 @@
+{
+  "id": "5GQh-Xfc0GM",
+  "episode_number": 123,
+  "title": "PAPÁ NOEL quiere ARUINAR la NAVIDAD - Anécdotas #123",
+  "url": "https://youtube.com/watch?v=5GQh-Xfc0GM",
+  "published_date": "2023-02-12",
+  "duration_seconds": 1166,
+  "views": 72463,
+  "likes": 3758,
+  "thumbnail": "https://i.ytimg.com/vi/5GQh-Xfc0GM/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un fotógrafo novato acepta un trabajo de canje con un desconocido que resulta ser un hacker disfrazado de Papá Noel en pleno verano, con planes de colapsar los shoppings del país el 24 de diciembre. La situación escala rápidamente hacia lo completamente surrealista.",
+    "categories": [
+      "drogas",
+      "laboral",
+      "urbano",
+      "tecnología"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "narrador",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "el estafador",
+      "el paranoico",
+      "el testigo inocente"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 6,
+    "bonus_track": {
+      "summary": "Una chica acompaña a su mejor amigo DJ a tocar en un yate clandestino durante la pandemia, y cuando la policía los detiene por pasarse semáforos en rojo, un amigo le pasa subrepticiamente una bolsa con 30 pastillas de éxtasis para que las esconda aprovechando que las mujeres no podían ser revisadas por los oficiales masculinos.",
+      "archetypes": [
+        "la cómplice involuntaria",
+        "el que deja el problema a otro"
+      ],
+      "emotional_arc": "dramático",
+      "intensity": 8
+    }
+  }
+}

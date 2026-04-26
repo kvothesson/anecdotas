@@ -1,0 +1,42 @@
+{
+  "id": "NpFCkjgCq10",
+  "episode_number": 95,
+  "title": "OKUPAS - Anécdotas #95",
+  "url": "https://youtube.com/watch?v=NpFCkjgCq10",
+  "published_date": "2022-07-17",
+  "duration_seconds": 1235,
+  "views": 104034,
+  "likes": 4437,
+  "thumbnail": "https://i.ytimg.com/vi/NpFCkjgCq10/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un joven que entrena artes marciales acompaña a su tío a defender la casa de una familiar que está siendo víctima de una entrada violenta por parte de desconocidos armados. Lo que comienza como una pelea barrial escala rápidamente a una batalla campal contra varios hombres que dicen ser policías.",
+    "categories": [
+      "policial",
+      "barrio",
+      "corrupción",
+      "vecinos",
+      "urbano",
+      "familia"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia",
+      "justicia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el defensor del barrio",
+      "el tío rudo",
+      "el loco del grupo",
+      "los policías corruptos"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 9
+  }
+}

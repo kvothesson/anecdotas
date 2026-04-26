@@ -1,0 +1,47 @@
+{
+  "id": "EDdVZyP6kV4",
+  "episode_number": 208,
+  "title": "Anécdota #208  - PUNKS vs SKINHEADS",
+  "url": "https://youtube.com/watch?v=EDdVZyP6kV4",
+  "published_date": "2024-11-03",
+  "duration_seconds": 1328,
+  "views": 84265,
+  "likes": 3705,
+  "thumbnail": "https://i.ytimg.com/vi/EDdVZyP6kV4/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un trío de jóvenes punks acepta tocar en un recital de último momento sin saber que el lugar es una sede neonazi. Al subir al escenario con su repertorio antifascista, la situación escala rápidamente hacia la violencia.",
+    "categories": [
+      "barrio",
+      "urbano",
+      "drogas",
+      "muerte"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "años 90",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "terror",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "banda de garage",
+      "organizador sospechoso",
+      "neonazis",
+      "vikingo violento"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Nico cuenta que en la puerta de un boliche neonazi en Buenos Aires, un amigo suyo bajo los efectos de drogas se puso a mirar el auto de un patova y terminó orinando cerca, desencadenando una pelea con los porteros de la que escaparon por poco.",
+      "archetypes": [
+        "amigo imprudente",
+        "patova agresivo",
+        "testigo cobarde"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 5
+    }
+  }
+}

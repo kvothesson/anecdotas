@@ -1,0 +1,46 @@
+{
+  "id": "GwUIf6a42Is",
+  "episode_number": 213,
+  "title": "Anécdota #213 - Perros BOMBEROS",
+  "url": "https://youtube.com/watch?v=GwUIf6a42Is",
+  "published_date": "2024-12-08",
+  "duration_seconds": 1132,
+  "views": 54910,
+  "likes": 2360,
+  "thumbnail": "https://i.ytimg.com/vi/GwUIf6a42Is/hqdefault.jpg",
+  "analysis": {
+    "summary": "Cami y Bruno, una pareja de novios conviviendo por primera vez en Caballito con sus dos perras rescatadas, dejan encendida una estufa eléctrica una noche de invierno sin gas en el edificio. Las perras alertan a los dueños ante un incendio que se inicia debajo del sillón.",
+    "categories": [
+      "animales",
+      "urbano",
+      "salud",
+      "viaje"
+    ],
+    "geography": [
+      "Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "emotivo",
+    "institutions_involved": [],
+    "historical_events": [],
+    "archetypes": [
+      "pareja joven",
+      "mascotas heroicas",
+      "héroe cotidiano",
+      "nómade voluntario"
+    ],
+    "has_twist": true,
+    "credibility": "muy alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Nico relata cómo en el hospital casi le hacen una mala praxis al mostrarle la radiografía equivocada y casi indicarle una operación innecesaria en el dedo.",
+      "archetypes": [
+        "paciente",
+        "médico despistado"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 4
+    }
+  }
+}

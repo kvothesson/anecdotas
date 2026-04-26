@@ -1,0 +1,49 @@
+{
+  "id": "ppxV31JHNE0",
+  "episode_number": 143,
+  "title": "NO estoy ORGULLOSA de esta ANÉCDOTA - Anécdotas #143",
+  "url": "https://youtube.com/watch?v=ppxV31JHNE0",
+  "published_date": "2023-07-09",
+  "duration_seconds": 1238,
+  "views": 93007,
+  "likes": 4315,
+  "thumbnail": "https://i.ytimg.com/vi/ppxV31JHNE0/hqdefault.jpg",
+  "analysis": {
+    "summary": "Una chica adolescente inventa una relación romántica con un chico que le gusta y, para salir del paso cuando sus amigos la presionan, dice que él la golpeaba. La situación se le escapa de las manos cuando sus amigos lo encuentran en la calle y le dan una paliza al inocente.",
+    "categories": [
+      "romance",
+      "barrio",
+      "generacional",
+      "urbano"
+    ],
+    "geography": [
+      "Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "educación"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "mentirosa compulsiva",
+      "adolescente insegura",
+      "amigos defensores",
+      "víctima inocente"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "Erika cuenta que su madre, conocida por acumular accidentes y desgracias, fue baleada seis veces por el vecino Cacho luego de que Erika tuvo un enfrentamiento verbal con él por arrojar escombros al techo de su cuarto.",
+      "archetypes": [
+        "vecino violento",
+        "madre indestructible",
+        "joven impulsiva"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 9
+    }
+  }
+}

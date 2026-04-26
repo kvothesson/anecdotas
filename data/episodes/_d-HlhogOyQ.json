@@ -1,0 +1,38 @@
+{
+  "id": "_d-HlhogOyQ",
+  "episode_number": 92,
+  "title": "ANONYMOUS Cordobés - Anécdotas #92",
+  "url": "https://youtube.com/watch?v=_d-HlhogOyQ",
+  "published_date": "2022-06-19",
+  "duration_seconds": 1181,
+  "views": 107224,
+  "likes": 6387,
+  "thumbnail": "https://i.ytimg.com/vi/_d-HlhogOyQ/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un adolescente cordobés con habilidades informáticas avanzadas, víctima de bullying en su escuela, decide hackear las cuentas de Facebook de todos sus compañeros usando una técnica de phishing desde la red wifi del colegio. Con la información obtenida, orquesta un caos social en su pueblo haciéndose pasar por el colectivo de hackers Anonymous.",
+    "categories": [
+      "tecnología",
+      "barrio",
+      "generacional",
+      "estafa"
+    ],
+    "geography": [
+      "Córdoba, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "educación"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el nerd vengador",
+      "el solitario creativo",
+      "el hacker adolescente"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 6
+  }
+}

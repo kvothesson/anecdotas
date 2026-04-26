@@ -1,0 +1,52 @@
+{
+  "id": "X3h8A-R-yKs",
+  "episode_number": 119,
+  "title": "Quiero PENSAR que fue un MALENTENDIDO - Anécdotas #119",
+  "url": "https://youtube.com/watch?v=X3h8A-R-yKs",
+  "published_date": "2023-01-08",
+  "duration_seconds": 1056,
+  "views": 107471,
+  "likes": 5270,
+  "thumbnail": "https://i.ytimg.com/vi/X3h8A-R-yKs/hqdefault.jpg",
+  "analysis": {
+    "summary": "Diego, de 38 años, conoce a Julieta en una app de citas y descubre una serie de coincidencias impactantes: mismo cumpleaños, misma clínica, mismo obstetra, que llevan a sospechar que podrían ser hermanos robados al nacer en una clínica de San Martín cerrada por tráfico de bebés. La historia escala hasta un encuentro en persona que termina de forma completamente inesperada.",
+    "categories": [
+      "familia",
+      "romance",
+      "urbano",
+      "salud",
+      "corrupción",
+      "tecnología"
+    ],
+    "geography": [
+      "San Martín",
+      "Buenos Aires",
+      "Palermo"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "absurdo",
+    "institutions_involved": [
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "identidad perdida",
+      "hermanos separados",
+      "cita inesperada",
+      "secreto familiar"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 8,
+    "bonus_track": {
+      "summary": "Cristian cuenta cómo descubrió por Facebook que tenía una sobrina desconocida, fruto de una hija que su padre tuvo a los 18 años y con quien nunca pudo relacionarse por la hostilidad de la familia de la madre.",
+      "archetypes": [
+        "familiar desconocido",
+        "reencuentro tardío"
+      ],
+      "emotional_arc": "emotivo",
+      "intensity": 5
+    }
+  }
+}

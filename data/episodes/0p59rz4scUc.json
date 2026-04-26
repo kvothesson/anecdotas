@@ -1,0 +1,44 @@
+{
+  "id": "0p59rz4scUc",
+  "episode_number": 163,
+  "title": "El CONSORCIO del INFIERNO - Anécdota #163",
+  "url": "https://youtube.com/watch?v=0p59rz4scUc",
+  "published_date": "2023-11-26",
+  "duration_seconds": 890,
+  "views": 68324,
+  "likes": 3012,
+  "thumbnail": "https://i.ytimg.com/vi/0p59rz4scUc/hqdefault.jpg",
+  "analysis": {
+    "summary": "Julieta, vecina de un edificio en La Plata, se despierta en medio de la noche por un incendio en su piso y logra escapar, para descubrir en el caos una situación perturbadora relacionada con su vecino lindero.",
+    "categories": [
+      "vecinos",
+      "policial",
+      "judicial",
+      "urbano",
+      "salud"
+    ],
+    "geography": [
+      "La Plata, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia",
+      "justicia",
+      "salud"
+    ],
+    "historical_events": [
+      "pandemia"
+    ],
+    "archetypes": [
+      "vecino peligroso",
+      "justiciera anónima",
+      "padre encubridor",
+      "sobreviviente"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 9
+  }
+}

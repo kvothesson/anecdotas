@@ -1,0 +1,50 @@
+{
+  "id": "Qh3GlQq-a6k",
+  "episode_number": 36,
+  "title": "Proyecto X Version CONURBANO- Anécdotas #36",
+  "url": "https://youtube.com/watch?v=Qh3GlQq-a6k",
+  "published_date": "2021-05-02",
+  "duration_seconds": 1056,
+  "views": 139888,
+  "likes": 5798,
+  "thumbnail": "https://i.ytimg.com/vi/Qh3GlQq-a6k/hqdefault.jpg",
+  "analysis": {
+    "summary": "Un grupo de amigos del conurbano organiza una fiesta masiva por cumpleaños múltiples a la que terminan llegando más de 150 personas, pero la noche se convierte en caos cuando una pelea por un celular robado escala a una situación de violencia extrema con armas.",
+    "categories": [
+      "barrio",
+      "urbano",
+      "policial",
+      "robo",
+      "salud"
+    ],
+    "geography": [
+      "Gran Buenos Aires, Argentina"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "narrador",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia",
+      "salud"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "el organizador responsable",
+      "el grupo de barrio",
+      "la policía inoperante",
+      "los delincuentes armados"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 9,
+    "bonus_track": {
+      "summary": "Un músico de 25 años relata haber tocado con bandas de cumbia alrededor de 200 veces y en una ocasión se despertó en La Plata sin saber cómo llegó ahí, con los dedos lastimados.",
+      "archetypes": [
+        "el músico de cumbia",
+        "el que no recuerda la noche anterior"
+      ],
+      "emotional_arc": "absurdo",
+      "intensity": 3
+    }
+  }
+}

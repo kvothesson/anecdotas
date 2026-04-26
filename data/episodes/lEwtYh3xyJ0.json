@@ -1,0 +1,41 @@
+{
+  "id": "lEwtYh3xyJ0",
+  "episode_number": 75,
+  "title": "BRASILEROS Picantes- Anécdotas #75",
+  "url": "https://youtube.com/watch?v=lEwtYh3xyJ0",
+  "published_date": "2022-02-20",
+  "duration_seconds": 1369,
+  "views": 118705,
+  "likes": 5245,
+  "thumbnail": "https://i.ytimg.com/vi/lEwtYh3xyJ0/hqdefault.jpg",
+  "analysis": {
+    "summary": "Leandro, un trabajador argentino de una empresa de mapeo GPS, viaja a San Pablo para cubrir calles de la ciudad. Durante su último día de trabajo de campo, él y su chofer quedan atrapados en una situación peligrosa al ser confundidos con policías por un grupo de narcos armados.",
+    "categories": [
+      "laboral",
+      "viaje",
+      "policial",
+      "drogas",
+      "muerte",
+      "urbano"
+    ],
+    "geography": [
+      "San Pablo, Brasil"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "víctima",
+    "emotional_arc": "terror",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "trabajador inocente",
+      "narco amenazante",
+      "chofer salvador",
+      "destino caprichoso"
+    ],
+    "has_twist": true,
+    "credibility": "alta",
+    "intensity": 9
+  }
+}
