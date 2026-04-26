@@ -1183,7 +1183,7 @@
         "policial"
       ],
       "geography": [
-        "Niza, Francia",
+        "Niza",
         "Italia",
         "La Rioja, Argentina"
       ],
@@ -1277,7 +1277,7 @@
         "familia"
       ],
       "geography": [
-        "Chicago, Illinois, Estados Unidos"
+        "Chicago"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -1316,7 +1316,7 @@
         "burocracia"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -1852,8 +1852,8 @@
         "familia"
       ],
       "geography": [
-        "Roma, Italia",
-        "Barcelona, España",
+        "Roma",
+        "Barcelona",
         "Mendoza, Argentina"
       ],
       "era": "contemporánea",
@@ -2135,8 +2135,8 @@
         "urbano"
       ],
       "geography": [
-        "Múnich, Alemania",
-        "París, Francia"
+        "Múnich",
+        "París"
       ],
       "era": "contemporánea",
       "protagonist_role": "narrador",
@@ -2221,7 +2221,7 @@
         "animales"
       ],
       "geography": [
-        "Conurbano bonaerense, Buenos Aires, Argentina"
+        "Conurbano bonaerense"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -2261,7 +2261,7 @@
         "estafa"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -2300,7 +2300,7 @@
         "generacional"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "años 90",
       "protagonist_role": "protagonista",
@@ -2886,7 +2886,7 @@
         "burocracia"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -3021,7 +3021,7 @@
         "policial"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -3063,7 +3063,7 @@
         "urbano"
       ],
       "geography": [
-        "San Pablo, Brasil"
+        "San Pablo"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -3682,7 +3682,7 @@
         "drogas"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -3761,7 +3761,7 @@
         "generacional"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "narrador",
@@ -3847,7 +3847,7 @@
         "histórico"
       ],
       "geography": [
-        "Caracas, Venezuela"
+        "Caracas"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -4236,7 +4236,7 @@
         "viaje"
       ],
       "geography": [
-        "Los Ángeles, Estados Unidos"
+        "Los Ángeles"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -4413,7 +4413,7 @@
         "urbano"
       ],
       "geography": [
-        "Nueva York, Estados Unidos",
+        "Nueva York",
         "Córdoba, Argentina"
       ],
       "era": "contemporánea",
@@ -4741,7 +4741,7 @@
         "generacional"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -5072,7 +5072,7 @@
         "deporte"
       ],
       "geography": [
-        "Conurbano bonaerense, Argentina"
+        "Conurbano bonaerense"
       ],
       "era": "años 80",
       "protagonist_role": "narrador",
@@ -5310,7 +5310,7 @@
         "barrio"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -5353,7 +5353,7 @@
       ],
       "geography": [
         "Ilha Grande, Brasil",
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "narrador",
@@ -5658,7 +5658,7 @@
         "muerte"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -5751,7 +5751,7 @@
         "muerte"
       ],
       "geography": [
-        "Asunción, Paraguay"
+        "Asunción"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -6422,7 +6422,7 @@
         "urbano"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "años 90",
       "protagonist_role": "víctima",
@@ -6641,7 +6641,7 @@
         "muerte"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -6731,7 +6731,7 @@
         "urbano"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "años 90",
       "protagonist_role": "testigo",
@@ -6810,7 +6810,7 @@
         "urbano"
       ],
       "geography": [
-        "Budapest, Hungría"
+        "Budapest"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -7157,7 +7157,7 @@
         "barrio"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -7286,7 +7286,7 @@
         "romance"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -7790,7 +7790,7 @@
         "urbano"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -8009,8 +8009,8 @@
         "migración"
       ],
       "geography": [
-        "Ibiza, España",
-        "Formentera, España"
+        "Ibiza",
+        "Formentera"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -8050,7 +8050,7 @@
         "barrio"
       ],
       "geography": [
-        "Montevideo, Uruguay"
+        "Montevideo"
       ],
       "era": "contemporánea",
       "protagonist_role": "narrador",
@@ -8343,7 +8343,7 @@
         "barrio"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -8392,7 +8392,7 @@
         "misterio"
       ],
       "geography": [
-        "Iquique, Chile",
+        "Iquique",
         "Caleta San Marcos, Chile"
       ],
       "era": "contemporánea",
@@ -8485,7 +8485,7 @@
         "histórico"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "años 80",
       "protagonist_role": "víctima",
@@ -8529,7 +8529,7 @@
       "geography": [
         "Argentina",
         "Conurbano bonaerense",
-        "Capital Federal"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "testigo",
@@ -8570,7 +8570,7 @@
         "generacional"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "narrador",
@@ -9095,7 +9095,7 @@
         "viaje"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -9354,7 +9354,7 @@
       ],
       "geography": [
         "Longchamps",
-        "Conurbano Bonaerense",
+        "Conurbano bonaerense",
         "Argentina"
       ],
       "era": "contemporánea",
@@ -10087,7 +10087,7 @@
         "barrio"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -10223,7 +10223,7 @@
         "familia"
       ],
       "geography": [
-        "Quito, Ecuador"
+        "Quito"
       ],
       "era": "años 90",
       "protagonist_role": "testigo",
@@ -10263,7 +10263,7 @@
         "viaje"
       ],
       "geography": [
-        "Berlín, Alemania",
+        "Berlín",
         "Inglaterra"
       ],
       "era": "contemporánea",
@@ -10421,7 +10421,7 @@
         "iglesia"
       ],
       "geography": [
-        "Santiago, Chile"
+        "Santiago de Chile"
       ],
       "era": "contemporánea",
       "protagonist_role": "narrador",
@@ -10461,7 +10461,7 @@
         "educación"
       ],
       "geography": [
-        "Buenos Aires, Argentina"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "testigo",
@@ -10508,7 +10508,7 @@
         "policial"
       ],
       "geography": [
-        "Ciudad del Cabo, Sudáfrica"
+        "Ciudad del Cabo"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -10590,7 +10590,7 @@
         "barrio"
       ],
       "geography": [
-        "Montevideo, Uruguay"
+        "Montevideo"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
@@ -10793,7 +10793,7 @@
       ],
       "geography": [
         "Argentina",
-        "Capital Federal"
+        "Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
@@ -10876,7 +10876,7 @@
         "urbano"
       ],
       "geography": [
-        "Provincia de Buenos Aires, Argentina"
+        "Provincia de Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "testigo",
@@ -11451,7 +11451,7 @@
         "urbano"
       ],
       "geography": [
-        "Provincia de Buenos Aires, Argentina"
+        "Provincia de Buenos Aires"
       ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
