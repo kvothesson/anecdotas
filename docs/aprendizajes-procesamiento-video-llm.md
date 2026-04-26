@@ -110,3 +110,18 @@ Fase paga (API directa)
 **Solo el procesamiento de los 271 episodios**:
 > Catalogar 271 videos de YouTube con análisis semántico completo — categorías, arquetipos, era, intensidad, giro narrativo — costó **$4.16 y menos de 2 horas** sumando ambas fases.  
 > El equivalente en tiempo humano a 5 minutos por episodio sería **22 horas de trabajo**.
+
+---
+
+## Cuánto tiempo ahorró cada capa
+
+| Escenario | Tiempo estimado | Ahorro vs lo realizado |
+|---|---|---|
+| Todo manual (mirar video + escribir análisis) | ~135 hs | **129 horas** |
+| Con transcripts, sin IA | ~45 hs | **39 horas** |
+| Con IA, sin pipeline automatizado | ~22 hs | **16 horas** |
+| **Pipeline automatizado + API (lo realizado)** | **~6 hs** | — |
+
+El mayor salto no fue la IA — fue **automatizar el pipeline**. Pasar de "IA manual" a "pipeline + API" ahorró más tiempo que pasar de "sin IA" a "IA manual".
+
+La IA sin automatización sigue siendo trabajo. La automatización sin IA hubiera sido imposible para el análisis semántico. Los dos juntos son donde está el multiplicador real.
