@@ -10,7 +10,7 @@
 <script>
   const SUPA_URL = 'https://pcdeycvvhleigsxzloqd.supabase.co';
   const SUPA_KEY = 'sb_publishable_Nx-X2sKGB3KXuvGQvsMdlw_VruQ27vW';
-  function trackEvent(episodeId, episodeNumber, action) {
+  function trackEvent(episodeId, episodeNumber, action, metadata) {
     fetch(`${SUPA_URL}/rest/v1/events`, {
       method: 'POST',
       headers: {
@@ -18,7 +18,7 @@
         'apikey': SUPA_KEY,
         'Authorization': `Bearer ${SUPA_KEY}`
       },
-      body: JSON.stringify({ episode_id: episodeId, episode_number: episodeNumber, action })
+      body: JSON.stringify({ episode_id: episodeId, episode_number: episodeNumber, action, metadata: metadata || null })
     }).catch(() => {});
   }
 </script>
@@ -867,6 +867,8 @@ function applyFilters() {
     if(geo && !e.analysis.geography.includes(geo)) return false;
     return true;
   });
+  const active = Object.fromEntries(Object.entries({cat,arc,geo}).filter(([,v])=>v));
+  if(Object.keys(active).length) trackEvent(null, null, 'filter', active);
   sortAndRender();
 }
 
@@ -1238,6 +1240,20 @@ function doSearch(query) {
 // ═══════════════════════════════════════════════════
 // INIT — manejado por loadEpisodes() arriba
 // ═══════════════════════════════════════════════════
+
+// session_start
+trackEvent(null, null, 'session_start');
+
+// search tracking con debounce
+let _searchTimer;
+const _origDoSearch = doSearch;
+doSearch = function(query) {
+  _origDoSearch(query);
+  clearTimeout(_searchTimer);
+  if(query && query.length > 2) {
+    _searchTimer = setTimeout(() => trackEvent(null, null, 'search', { query }), 1000);
+  }
+};
 </script>
 </body>
 </html>
