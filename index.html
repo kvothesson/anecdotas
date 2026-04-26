@@ -7,6 +7,21 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <script src="https://unpkg.com/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script>
+  const SUPA_URL = 'https://pcdeycvvhleigsxzloqd.supabase.co';
+  const SUPA_KEY = 'sb_publishable_Nx-X2sKGB3KXuvGQvsMdlw_VruQ27vW';
+  function trackEvent(episodeId, episodeNumber, action) {
+    fetch(`${SUPA_URL}/rest/v1/events`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'apikey': SUPA_KEY,
+        'Authorization': `Bearer ${SUPA_KEY}`
+      },
+      body: JSON.stringify({ episode_id: episodeId, episode_number: episodeNumber, action })
+    }).catch(() => {});
+  }
+</script>
 <style>
   :root {
     --bg: #0e0d0b;
@@ -817,6 +832,8 @@ async function navigate(view, id=null) {
   if(view==='episode' && id) {
     currentEpisodeId = id;
     renderEpisode(id);
+    const ep = filteredEps.find(e => e.id === id) || allEps.find(e => e.id === id);
+    trackEvent(id, ep?.episode_number ?? null, 'open');
   }
   if(view==='stats') renderStats();
   window.scrollTo(0,0);
