@@ -10,6 +10,9 @@
 <script>
   const SUPA_URL = 'https://pcdeycvvhleigsxzloqd.supabase.co';
   const SUPA_KEY = 'sb_publishable_Nx-X2sKGB3KXuvGQvsMdlw_VruQ27vW';
+  if(new URLSearchParams(location.search).get('dev') === '1') localStorage.setItem('anecdotas_dev','1');
+  if(new URLSearchParams(location.search).get('dev') === '0') localStorage.removeItem('anecdotas_dev');
+  const IS_DEV = localStorage.getItem('anecdotas_dev') === '1';
   function trackEvent(episodeId, episodeNumber, action, metadata) {
     fetch(`${SUPA_URL}/rest/v1/events`, {
       method: 'POST',
@@ -18,7 +21,7 @@
         'apikey': SUPA_KEY,
         'Authorization': `Bearer ${SUPA_KEY}`
       },
-      body: JSON.stringify({ episode_id: episodeId, episode_number: episodeNumber, action, metadata: metadata || null })
+      body: JSON.stringify({ episode_id: episodeId, episode_number: episodeNumber, action, metadata: metadata || null, dev: IS_DEV })
     }).catch(() => {});
   }
 </script>
