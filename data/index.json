@@ -11,14 +11,30 @@
     "thumbnail": "https://i.ytimg.com/vi/LfCU0IoeZDc/hqdefault.jpg",
     "analysis": {
       "summary": "Un músico guarda ácido lisérgico en módulos de madera en un cajón de su casa antes de una gira. Su empleada doméstica los encuentra y se los come todos creyendo que son golosinas.",
-      "categories": ["drogas", "laboral", "judicial"],
-      "geography": ["Buenos Aires", "Salta", "Jujuy"],
+      "categories": [
+        "drogas",
+        "laboral",
+        "judicial"
+      ],
+      "geography": [
+        "Buenos Aires",
+        "Salta",
+        "Jujuy"
+      ],
       "era": "años 10",
       "protagonist_role": "narrador",
       "emotional_arc": "absurdo",
-      "institutions_involved": ["justicia", "salud"],
+      "institutions_involved": [
+        "justicia",
+        "salud"
+      ],
       "historical_events": [],
-      "archetypes": ["músico", "empleada doméstica", "abogado", "novia"],
+      "archetypes": [
+        "músico",
+        "empleada doméstica",
+        "abogado",
+        "novia"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 7
@@ -36,14 +52,23 @@
     "thumbnail": "https://i.ytimg.com/vi/BCvUXZOuEns/hqdefault.jpg",
     "analysis": {
       "summary": "Rodrigo va a un asado familiar con su novia-socia después de una fuerte pelea por plata, y cuando necesita urgentemente ir al baño ella se niega a abrirle la casa convencida de que lo está fingiendo para arruinarle la noche.",
-      "categories": ["romance", "laboral"],
-      "geography": ["Mar del Plata"],
+      "categories": [
+        "romance",
+        "laboral"
+      ],
+      "geography": [
+        "Mar del Plata"
+      ],
       "era": "contemporánea",
       "protagonist_role": "narrador",
       "emotional_arc": "cómico",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["novia", "padre", "cuñado"],
+      "archetypes": [
+        "novia",
+        "padre",
+        "cuñado"
+      ],
       "has_twist": false,
       "credibility": "alta",
       "intensity": 3
@@ -61,14 +86,30 @@
     "thumbnail": "https://i.ytimg.com/vi/yBv3gx6o2PE/hqdefault.jpg",
     "analysis": {
       "summary": "Un grupo de jóvenes futbolistas de inferiores viaja en avión de vuelta de pretemporada en EE.UU. y terminan en una pelea a trompadas con un pasajero brasileño agotado que se niega a enderezar su asiento a la hora de comer.",
-      "categories": ["viaje", "deporte", "judicial", "urbano"],
-      "geography": ["Buenos Aires", "Estados Unidos"],
+      "categories": [
+        "viaje",
+        "deporte",
+        "judicial",
+        "urbano"
+      ],
+      "geography": [
+        "Buenos Aires",
+        "Estados Unidos"
+      ],
       "era": "años 90",
       "protagonist_role": "protagonista",
       "emotional_arc": "absurdo",
-      "institutions_involved": ["justicia", "transporte público"],
+      "institutions_involved": [
+        "justicia",
+        "transporte público"
+      ],
       "historical_events": [],
-      "archetypes": ["futbolista", "jugador de inferiores", "azafata", "pasajero extranjero"],
+      "archetypes": [
+        "futbolista",
+        "jugador de inferiores",
+        "azafata",
+        "pasajero extranjero"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 6
@@ -86,14 +127,26 @@
     "thumbnail": "https://i.ytimg.com/vi/H86e1xArDyQ/hqdefault.jpg",
     "analysis": {
       "summary": "Un argentino en su última noche en Mallorca termina probando cocaína por primera vez con unas chicas que conoció en el bar de su amigo, desencadenando una serie de situaciones cada vez más embarazosas y fuera de control.",
-      "categories": ["drogas", "viaje", "romance"],
-      "geography": ["Mallorca", "España"],
+      "categories": [
+        "drogas",
+        "viaje",
+        "romance"
+      ],
+      "geography": [
+        "Mallorca",
+        "España"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "cómico",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["turista", "novia", "barman", "españolas"],
+      "archetypes": [
+        "turista",
+        "novia",
+        "barman",
+        "españolas"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 4
@@ -111,20 +164,39 @@
     "thumbnail": "https://i.ytimg.com/vi/vBu4bVNT1DE/hqdefault.jpg",
     "analysis": {
       "summary": "Un guardavidas vuelve de una despedida de soltero cuando se topa con un grave accidente en la Ruta 74: un auto en llamas con una mujer atrapada y otro volcado con personas inconscientes, incluyendo una embarazada.",
-      "categories": ["viaje", "muerte", "salud", "urbano"],
-      "geography": ["Ayacucho", "Ruta 74", "Buenos Aires"],
+      "categories": [
+        "viaje",
+        "muerte",
+        "salud",
+        "urbano"
+      ],
+      "geography": [
+        "Ayacucho",
+        "Ruta 74",
+        "Buenos Aires"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "dramático",
-      "institutions_involved": ["salud"],
+      "institutions_involved": [
+        "salud"
+      ],
       "historical_events": [],
-      "archetypes": ["guardavidas", "conductor", "mujer embarazada", "bombero"],
+      "archetypes": [
+        "guardavidas",
+        "conductor",
+        "mujer embarazada",
+        "bombero"
+      ],
       "has_twist": true,
       "credibility": "muy alta",
       "intensity": 9,
       "bonus_track": {
         "summary": "Rose Barrel, comediante de standup, cuenta cómo a los 23 años su auto cayó por un precipicio en Calamuchita y se salvó milagrosamente enganchado en el único árbol del barranco.",
-        "archetypes": ["comediante", "novio conductor"],
+        "archetypes": [
+          "comediante",
+          "novio conductor"
+        ],
         "emotional_arc": "absurdo",
         "intensity": 7
       }
@@ -142,14 +214,28 @@
     "thumbnail": "https://i.ytimg.com/vi/tLLyARztgeE/hqdefault.jpg",
     "analysis": {
       "summary": "Un grupo de adolescentes va a explorar una casa abandonada de noche y se ven arrastrados a una persecución violenta cuando vecinos del barrio los confunden con los delincuentes que habían agredido a una chica.",
-      "categories": ["policial", "vecinos", "urbano", "barrio"],
-      "geography": ["Argentina"],
+      "categories": [
+        "policial",
+        "vecinos",
+        "urbano",
+        "barrio"
+      ],
+      "geography": [
+        "Argentina"
+      ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
       "emotional_arc": "dramático",
-      "institutions_involved": ["policia", "justicia"],
+      "institutions_involved": [
+        "policia",
+        "justicia"
+      ],
       "historical_events": [],
-      "archetypes": ["adolescente", "vecino", "dueño de perro"],
+      "archetypes": [
+        "adolescente",
+        "vecino",
+        "dueño de perro"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 8
@@ -167,14 +253,22 @@
     "thumbnail": "https://i.ytimg.com/vi/uDQjvYhdNYY/hqdefault.jpg",
     "analysis": {
       "summary": "Un hombre va a una cita de Tinder a la casa de una mujer mayor, pero el ambiente lúgubre, una historia de macumba y las cucarachas lo llevan a huir en pánico, dejándola accidentalmente encerrada con llave.",
-      "categories": ["romance", "paranormal"],
-      "geography": ["Argentina"],
+      "categories": [
+        "romance",
+        "paranormal"
+      ],
+      "geography": [
+        "Argentina"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "absurdo",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["madre soltera", "abuela"],
+      "archetypes": [
+        "madre soltera",
+        "abuela"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 4
@@ -192,14 +286,25 @@
     "thumbnail": "https://i.ytimg.com/vi/JoT0GvOI5F0/hqdefault.jpg",
     "analysis": {
       "summary": "Un joven guionista llega a la reunión más importante de su vida para lanzar una sitcom con actores famosos, pero sus nervios le juegan la peor pasada posible en el momento menos indicado.",
-      "categories": ["laboral", "estafa"],
-      "geography": ["Buenos Aires", "Palermo", "Martínez"],
+      "categories": [
+        "laboral",
+        "estafa"
+      ],
+      "geography": [
+        "Buenos Aires",
+        "Palermo",
+        "Martínez"
+      ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
       "emotional_arc": "absurdo",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["guionista", "productor televisivo", "actriz"],
+      "archetypes": [
+        "guionista",
+        "productor televisivo",
+        "actriz"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 5
@@ -217,14 +322,23 @@
     "thumbnail": "https://i.ytimg.com/vi/9tgcm4Hz6ws/hqdefault.jpg",
     "analysis": {
       "summary": "Dos amigos uruguayos sin trabajo ni dinero, tras perder todo en el casino, terminan en una situación inesperada con un desconocido mayor a cambio de cien dólares.",
-      "categories": ["romance", "viaje"],
-      "geography": ["Montevideo", "Uruguay"],
+      "categories": [
+        "romance",
+        "viaje"
+      ],
+      "geography": [
+        "Montevideo",
+        "Uruguay"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "cómico",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["amigo", "anciano"],
+      "archetypes": [
+        "amigo",
+        "anciano"
+      ],
       "has_twist": false,
       "credibility": "alta",
       "intensity": 4
@@ -242,14 +356,23 @@
     "thumbnail": "https://i.ytimg.com/vi/3O2lWFQFCj8/hqdefault.jpg",
     "analysis": {
       "summary": "Un adolescente de Mendoza se enamora por teléfono de una desconocida a quien nunca puede conocer en persona, y la historia acumula giros cada vez más perturbadores hasta revelar una verdad inquietante sobre la identidad real de ella.",
-      "categories": ["romance", "generacional"],
-      "geography": ["Mendoza", "Godoy Cruz"],
+      "categories": [
+        "romance",
+        "generacional"
+      ],
+      "geography": [
+        "Mendoza",
+        "Godoy Cruz"
+      ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
       "emotional_arc": "dramático",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["adolescente", "mujer mayor"],
+      "archetypes": [
+        "adolescente",
+        "mujer mayor"
+      ],
       "has_twist": true,
       "credibility": "media",
       "intensity": 6
@@ -267,20 +390,36 @@
     "thumbnail": "https://i.ytimg.com/vi/FIE5yKxlPX0/hqdefault.jpg",
     "analysis": {
       "summary": "Juan Ignacio, de 13 años en Santa Fe, se despierta de madrugada y ve una entidad negra de dos metros y medio con ojos amarillos en su cuarto; años después descubre que sus padres le habían hecho un exorcismo secreto con mediadores húngaros.",
-      "categories": ["paranormal", "familia", "salud"],
-      "geography": ["Santa Fe"],
+      "categories": [
+        "paranormal",
+        "familia",
+        "salud"
+      ],
+      "geography": [
+        "Santa Fe"
+      ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
       "emotional_arc": "terror",
-      "institutions_involved": ["salud"],
+      "institutions_involved": [
+        "salud"
+      ],
       "historical_events": [],
-      "archetypes": ["adolescente", "madre", "psiquiatra", "curandero"],
+      "archetypes": [
+        "adolescente",
+        "madre",
+        "psiquiatra",
+        "curandero"
+      ],
       "has_twist": true,
       "credibility": "baja",
       "intensity": 7,
       "bonus_track": {
         "summary": "Cuatro amigos acampan en una orilla salvaje del lado uruguayo y a las 3am escuchan un grito desgarrador femenino a metros de la carpa; al amanecer no encuentran ningún rastro ni huella en la arena.",
-        "archetypes": ["amigos", "acampantes"],
+        "archetypes": [
+          "amigos",
+          "acampantes"
+        ],
         "emotional_arc": "terror",
         "intensity": 6
       }
@@ -298,14 +437,26 @@
     "thumbnail": "https://i.ytimg.com/vi/hF8im6CF2UY/hqdefault.jpg",
     "analysis": {
       "summary": "Darío, un adolescente rebelde de 17 años en crisis familiar, intenta suicidarse mezclando drogas, fallece brevemente en el hospital y tiene una experiencia cercana a la muerte donde se reencuentra con su padre fallecido.",
-      "categories": ["drogas", "salud", "familia", "muerte"],
+      "categories": [
+        "drogas",
+        "salud",
+        "familia",
+        "muerte"
+      ],
       "geography": [],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "emotivo",
-      "institutions_involved": ["salud"],
+      "institutions_involved": [
+        "salud"
+      ],
       "historical_events": [],
-      "archetypes": ["adolescente", "padre fallecido", "enfermero", "madre"],
+      "archetypes": [
+        "adolescente",
+        "padre fallecido",
+        "enfermero",
+        "madre"
+      ],
       "has_twist": true,
       "credibility": "media",
       "intensity": 9
@@ -323,14 +474,24 @@
     "thumbnail": "https://i.ytimg.com/vi/UMnGtSNuVqs/hqdefault.jpg",
     "analysis": {
       "summary": "En un pueblito del interior, dos amigos esperan durante dos horas al dealer en una casa descampada y cuando llegan dos policías en moto directamente hacia ellos, están convencidos de que los van a detener.",
-      "categories": ["drogas", "policial", "corrupción"],
+      "categories": [
+        "drogas",
+        "policial",
+        "corrupción"
+      ],
       "geography": [],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "cómico",
-      "institutions_involved": ["policia"],
+      "institutions_involved": [
+        "policia"
+      ],
       "historical_events": [],
-      "archetypes": ["dealer", "policía corrupto", "amigos"],
+      "archetypes": [
+        "dealer",
+        "policía corrupto",
+        "amigos"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 4
@@ -348,14 +509,24 @@
     "thumbnail": "https://i.ytimg.com/vi/MDJitxWi0ko/hqdefault.jpg",
     "analysis": {
       "summary": "Un hincha de Argentina ahoga su tristeza por la derrota ante Francia en el Mundial 2018 en un largo asado familiar, llega a casa en un estado deplorable y se desmaya en la ducha, inundando toda la casa con agua y diarrea.",
-      "categories": ["deporte", "romance", "urbano"],
-      "geography": ["Argentina"],
+      "categories": [
+        "deporte",
+        "romance",
+        "urbano"
+      ],
+      "geography": [
+        "Argentina"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "cómico",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["hincha", "novia", "tíos"],
+      "archetypes": [
+        "hincha",
+        "novia",
+        "tíos"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 3
@@ -373,14 +544,26 @@
     "thumbnail": "https://i.ytimg.com/vi/lKrssX1oXGI/hqdefault.jpg",
     "analysis": {
       "summary": "En los años 70, el padre del narrador debe dar la noticia de muerte del dueño de casa a su hermano que vive en una zona rural de Luján, y en plena tormenta nocturna llega a la estancia para encontrarse con el mismísimo rostro del muerto.",
-      "categories": ["muerte", "familia", "viaje"],
-      "geography": ["Luján", "Buenos Aires"],
+      "categories": [
+        "muerte",
+        "familia",
+        "viaje"
+      ],
+      "geography": [
+        "Luján",
+        "Buenos Aires"
+      ],
       "era": "años 70",
       "protagonist_role": "narrador",
       "emotional_arc": "dramático",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["padre", "anciano", "italiano", "gemelo"],
+      "archetypes": [
+        "padre",
+        "anciano",
+        "italiano",
+        "gemelo"
+      ],
       "has_twist": true,
       "credibility": "muy alta",
       "intensity": 7
@@ -398,14 +581,32 @@
     "thumbnail": "https://i.ytimg.com/vi/f_34qwBD040/hqdefault.jpg",
     "analysis": {
       "summary": "Un ex policía desafectado por actos ilícitos narra cómo cayó en el crack junto a su mejor amigo durante una temporada en la costa, perdiendo todo lo que tenían. La historia termina con el amigo internado en un psiquiátrico, atormentado por una figura oscura que dice ver cada noche.",
-      "categories": ["drogas", "policial", "salud", "urbano"],
-      "geography": ["La Plata", "Buenos Aires", "Costa Atlántica", "Bahía Blanca"],
+      "categories": [
+        "drogas",
+        "policial",
+        "salud",
+        "urbano"
+      ],
+      "geography": [
+        "La Plata",
+        "Buenos Aires",
+        "Costa Atlántica",
+        "Bahía Blanca"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "dramático",
-      "institutions_involved": ["policia", "salud"],
+      "institutions_involved": [
+        "policia",
+        "salud"
+      ],
       "historical_events": [],
-      "archetypes": ["ex policía", "drogadicto", "transa", "casera"],
+      "archetypes": [
+        "ex policía",
+        "drogadicto",
+        "transa",
+        "casera"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 8
@@ -423,14 +624,23 @@
     "thumbnail": "https://i.ytimg.com/vi/5_12beTZa3w/hqdefault.jpg",
     "analysis": {
       "summary": "En una juntada de amigos, el narrador descubre que su novia robó plata y objetos de valor del estudio del padre del dueño de casa. Al ser acorralada, la situación escaló hasta que la chica sacó un cuchillo amenazando con hacerse daño.",
-      "categories": ["robo", "romance"],
-      "geography": ["Argentina"],
+      "categories": [
+        "robo",
+        "romance"
+      ],
+      "geography": [
+        "Argentina"
+      ],
       "era": "contemporánea",
       "protagonist_role": "testigo",
       "emotional_arc": "absurdo",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["novia", "amigo", "padre de familia"],
+      "archetypes": [
+        "novia",
+        "amigo",
+        "padre de familia"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 5
@@ -448,14 +658,25 @@
     "thumbnail": "https://i.ytimg.com/vi/M7gYyo4cUMw/hqdefault.jpg",
     "analysis": {
       "summary": "Un joven soltero conoce a una mujer mayor en una app de citas y tienen un encuentro sexual sin protección. Cuando le hace una broma cruel diciéndole que tenía VIH para testear su reacción, las consecuencias son brutales e inesperadas.",
-      "categories": ["romance", "salud", "urbano"],
-      "geography": ["Buenos Aires"],
+      "categories": [
+        "romance",
+        "salud",
+        "urbano"
+      ],
+      "geography": [
+        "Buenos Aires"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "dramático",
-      "institutions_involved": ["salud"],
+      "institutions_involved": [
+        "salud"
+      ],
       "historical_events": [],
-      "archetypes": ["joven soltero", "mujer madura"],
+      "archetypes": [
+        "joven soltero",
+        "mujer madura"
+      ],
       "has_twist": true,
       "credibility": "media",
       "intensity": 7
@@ -473,14 +694,23 @@
     "thumbnail": "https://i.ytimg.com/vi/qkqrOtd6Xhc/hqdefault.jpg",
     "analysis": {
       "summary": "Uriel, un niño obsesionado con el Calafate, logra predecir con exactitud el horario de la ruptura del glaciar Perito Moreno en 2004. La historia termina con su padrastro Rubén perdiendo un premio de lotería equivalente a una camioneta por anotar mal el número ganador.",
-      "categories": ["familia", "viaje"],
-      "geography": ["El Calafate", "Santa Cruz"],
+      "categories": [
+        "familia",
+        "viaje"
+      ],
+      "geography": [
+        "El Calafate",
+        "Santa Cruz"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "cómico",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["niño", "padrastro"],
+      "archetypes": [
+        "niño",
+        "padrastro"
+      ],
       "has_twist": true,
       "credibility": "muy alta",
       "intensity": 3
@@ -498,14 +728,27 @@
     "thumbnail": "https://i.ytimg.com/vi/4wx8lsRWoaY/hqdefault.jpg",
     "analysis": {
       "summary": "Un policía federal narra en primera persona su experiencia aquella noche del 30 de diciembre de 2004 en Cromañón: cómo ingresó al boliche entre el humo y la multitud empujando hacia la salida, rescatando personas una a una hasta que sus fuerzas no dieron más.",
-      "categories": ["policial", "muerte", "histórico"],
-      "geography": ["Buenos Aires"],
+      "categories": [
+        "policial",
+        "muerte",
+        "histórico"
+      ],
+      "geography": [
+        "Buenos Aires"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "dramático",
-      "institutions_involved": ["policia"],
-      "historical_events": ["Cromañón"],
-      "archetypes": ["policía", "víctima"],
+      "institutions_involved": [
+        "policia"
+      ],
+      "historical_events": [
+        "Cromañón"
+      ],
+      "archetypes": [
+        "policía",
+        "víctima"
+      ],
       "has_twist": false,
       "credibility": "muy alta",
       "intensity": 9
@@ -523,14 +766,26 @@
     "thumbnail": "https://i.ytimg.com/vi/sUmOtD09A7s/hqdefault.jpg",
     "analysis": {
       "summary": "Un venezolano recuerda que a los 12 años, en la casa de campo de sus abuelos, presenció cómo un tío sufrió un episodio inexplicable —convulsiones, fuerza sobrehumana y cambio de voz— que terminó en un exorcismo improvisado con un predicador cristiano.",
-      "categories": ["paranormal", "familia"],
-      "geography": ["Venezuela"],
+      "categories": [
+        "paranormal",
+        "familia"
+      ],
+      "geography": [
+        "Venezuela"
+      ],
       "era": "contemporánea",
       "protagonist_role": "testigo",
       "emotional_arc": "terror",
-      "institutions_involved": ["iglesia"],
+      "institutions_involved": [
+        "iglesia"
+      ],
       "historical_events": [],
-      "archetypes": ["abuelo", "tío", "predicador", "niño"],
+      "archetypes": [
+        "abuelo",
+        "tío",
+        "predicador",
+        "niño"
+      ],
       "has_twist": true,
       "credibility": "media",
       "intensity": 8
@@ -548,14 +803,27 @@
     "thumbnail": "https://i.ytimg.com/vi/FMA4yVljMFo/hqdefault.jpg",
     "analysis": {
       "summary": "Una familia cristiana acepta cuidar una iglesia en Jujuy durante una semana y vive noches de terror con sonidos inexplicables, instrumentos tocándose solos, voces y una figura parada en el pasillo que nadie puede explicar.",
-      "categories": ["paranormal", "familia"],
-      "geography": ["Jujuy", "Salta"],
+      "categories": [
+        "paranormal",
+        "familia"
+      ],
+      "geography": [
+        "Jujuy",
+        "Salta"
+      ],
       "era": "contemporánea",
       "protagonist_role": "testigo",
       "emotional_arc": "terror",
-      "institutions_involved": ["iglesia"],
+      "institutions_involved": [
+        "iglesia"
+      ],
       "historical_events": [],
-      "archetypes": ["padre", "hermana", "familia", "predicador"],
+      "archetypes": [
+        "padre",
+        "hermana",
+        "familia",
+        "predicador"
+      ],
       "has_twist": true,
       "credibility": "media",
       "intensity": 7
@@ -573,14 +841,22 @@
     "thumbnail": "https://i.ytimg.com/vi/qjuNv4RxPIA/hqdefault.jpg",
     "analysis": {
       "summary": "Tres amigos uruguayos salen de noche a su lugar habitual en el campo cuando una tormenta los sorprende y cuatro rayos caen a metros de distancia mientras intentan escapar corriendo a ciegas por el camino.",
-      "categories": ["viaje"],
-      "geography": ["Uruguay", "Canelones"],
+      "categories": [
+        "viaje"
+      ],
+      "geography": [
+        "Uruguay",
+        "Canelones"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "dramático",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["amigo", "joven"],
+      "archetypes": [
+        "amigo",
+        "joven"
+      ],
       "has_twist": false,
       "credibility": "alta",
       "intensity": 6
@@ -598,14 +874,25 @@
     "thumbnail": "https://i.ytimg.com/vi/NCOZ-dR4A20/hqdefault.jpg",
     "analysis": {
       "summary": "Un adolescente de 15 años en Pinamar intenta entrar a un boliche sin documento y logra colarse con la ayuda de un amigo, pero la noche escala hasta que el patova termina siendo hospitalizado y él carga la culpa hasta hoy.",
-      "categories": ["laboral", "urbano", "policial"],
-      "geography": ["Pinamar", "San Miguel"],
+      "categories": [
+        "laboral",
+        "urbano",
+        "policial"
+      ],
+      "geography": [
+        "Pinamar",
+        "San Miguel"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "dramático",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["adolescente", "patova", "amigo"],
+      "archetypes": [
+        "adolescente",
+        "patova",
+        "amigo"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 7
@@ -623,17 +910,208 @@
     "thumbnail": "https://i.ytimg.com/vi/IqwOE-2M2H0/hqdefault.jpg",
     "analysis": {
       "summary": "Un joven porteño acepta un aventón de dos cordobeses borrachos en un cerro de noche y cuando amenazan con hacerle el cuento del culo, decide tirarse del auto en movimiento para escapar y se esconde en los arbustos hasta que ellos lo encuentran.",
-      "categories": ["viaje", "drogas"],
-      "geography": ["Córdoba", "Río Ceballos"],
+      "categories": [
+        "viaje",
+        "drogas"
+      ],
+      "geography": [
+        "Córdoba",
+        "Río Ceballos"
+      ],
       "era": "contemporánea",
       "protagonist_role": "víctima",
       "emotional_arc": "absurdo",
       "institutions_involved": [],
       "historical_events": [],
-      "archetypes": ["joven", "borracho", "cordobés"],
+      "archetypes": [
+        "joven",
+        "borracho",
+        "cordobés"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 7
+    }
+  },
+  {
+    "id": "M4Hp2b8jy3A",
+    "episode_number": 26,
+    "title": "EL Peor MOZO Del MUNDO- Anécdotas #26",
+    "url": "https://youtube.com/watch?v=M4Hp2b8jy3A",
+    "published_date": "2021-02-14",
+    "duration_seconds": 517,
+    "views": 115012,
+    "likes": 5612,
+    "thumbnail": "https://i.ytimg.com/vi/M4Hp2b8jy3A/hqdefault.jpg",
+    "analysis": {
+      "summary": "Un joven mesero novato sirve a una mesa de señoras exigentes unos helados decorativos de yeso que estaban en la heladera de exhibición, sin darse cuenta de que no eran comestibles.",
+      "categories": [
+        "laboral"
+      ],
+      "geography": [
+        "Argentina"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "cómico",
+      "institutions_involved": [],
+      "historical_events": [],
+      "archetypes": [
+        "mesero novato",
+        "clientas exigentes",
+        "encargado"
+      ],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 3
+    }
+  },
+  {
+    "id": "weTnz3J2dQU",
+    "episode_number": 27,
+    "title": "El DÍA Que Me OLVIDÉ Quién ERA- Anécdotas #27",
+    "url": "https://youtube.com/watch?v=weTnz3J2dQU",
+    "published_date": "2021-02-21",
+    "duration_seconds": 926,
+    "views": 143317,
+    "likes": 7264,
+    "thumbnail": "https://i.ytimg.com/vi/weTnz3J2dQU/hqdefault.jpg",
+    "analysis": {
+      "summary": "Tras recibir un pelotazo en la nuca durante un partido de fútbol en el año 2002, un estudiante universitario pierde la memoria por horas y no recuerda quién es, qué año es ni los conflictos que tenía con su madre.",
+      "categories": [
+        "salud",
+        "familia",
+        "deporte"
+      ],
+      "geography": [
+        "Tandil"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "emotivo",
+      "institutions_involved": [
+        "salud"
+      ],
+      "historical_events": [],
+      "archetypes": [
+        "estudiante",
+        "amigos",
+        "madre"
+      ],
+      "has_twist": true,
+      "credibility": "muy alta",
+      "intensity": 5
+    }
+  },
+  {
+    "id": "y-xA5ovUzT8",
+    "episode_number": 28,
+    "title": "BALDAZO De Agua FRÍA- Anécdotas #28",
+    "url": "https://youtube.com/watch?v=y-xA5ovUzT8",
+    "published_date": "2021-02-28",
+    "duration_seconds": 562,
+    "views": 91994,
+    "likes": 4870,
+    "thumbnail": "https://i.ytimg.com/vi/y-xA5ovUzT8/hqdefault.jpg",
+    "analysis": {
+      "summary": "Una chica de 16 años debe enfrentar el intento de suicidio de su novio, que después de una pelea en un boliche se cuelga de un poste de luz con los cordones de sus propias zapatillas.",
+      "categories": [
+        "romance",
+        "salud"
+      ],
+      "geography": [
+        "interior de Argentina"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "testigo",
+      "emotional_arc": "dramático",
+      "institutions_involved": [
+        "salud",
+        "policia"
+      ],
+      "historical_events": [],
+      "archetypes": [
+        "adolescente",
+        "novio",
+        "policía"
+      ],
+      "has_twist": false,
+      "credibility": "alta",
+      "intensity": 8
+    }
+  },
+  {
+    "id": "sIMVjepE1W4",
+    "episode_number": 29,
+    "title": "TRAUMA En La COSTA- Anécdotas #29",
+    "url": "https://youtube.com/watch?v=sIMVjepE1W4",
+    "published_date": "2021-03-07",
+    "duration_seconds": 531,
+    "views": 109940,
+    "likes": 6807,
+    "thumbnail": "https://i.ytimg.com/vi/sIMVjepE1W4/hqdefault.jpg",
+    "analysis": {
+      "summary": "Un adolescente de 14 años pasa la noche solo en una cabaña en San Bernardo durante un corte de luz y una tormenta, convencido de que unos ladrones van a matarlo, hasta que la situación toma un giro inesperado y grotesco.",
+      "categories": [
+        "familia",
+        "viaje"
+      ],
+      "geography": [
+        "San Bernardo"
+      ],
+      "era": "años 90",
+      "protagonist_role": "víctima",
+      "emotional_arc": "absurdo",
+      "institutions_involved": [],
+      "historical_events": [],
+      "archetypes": [
+        "adolescente",
+        "hermana",
+        "galán"
+      ],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 4
+    }
+  },
+  {
+    "id": "qL48BiN9hhE",
+    "episode_number": 30,
+    "title": "BULLYING Termina MAL - Anécdotas #30",
+    "url": "https://youtube.com/watch?v=qL48BiN9hhE",
+    "published_date": "2021-03-15",
+    "duration_seconds": 589,
+    "views": 94635,
+    "likes": 5112,
+    "thumbnail": "https://i.ytimg.com/vi/qL48BiN9hhE/hqdefault.jpg",
+    "analysis": {
+      "summary": "Un joven que entrenó artes marciales en secreto durante cuatro años para dejar de ser víctima de bullying aplica una patada devastadora en defensa propia contra un agresor armado, enviándolo al hospital con el cráneo fracturado.",
+      "categories": [
+        "barrio",
+        "policial",
+        "judicial"
+      ],
+      "geography": [
+        "interior de Argentina"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "víctima",
+      "emotional_arc": "dramático",
+      "institutions_involved": [
+        "policia",
+        "justicia",
+        "salud"
+      ],
+      "historical_events": [],
+      "archetypes": [
+        "joven",
+        "agresor",
+        "vecino",
+        "policía"
+      ],
+      "has_twist": false,
+      "credibility": "alta",
+      "intensity": 8
     }
   }
 ]
