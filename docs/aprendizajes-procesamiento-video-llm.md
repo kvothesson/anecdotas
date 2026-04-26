@@ -101,7 +101,12 @@ Fase paga (API directa)
 
 ---
 
-## El número que lo resume
+## Los números que lo resumen
 
-> Catalogar 228 videos de YouTube con análisis semántico completo — categorías, arquetipos, era, intensidad, giro narrativo — costó **$4.16 y 57 minutos**.  
-> El equivalente en tiempo humano a 5 minutos por episodio sería **19 horas de trabajo**.
+**El proyecto completo** (frontend + pipeline + 271 episodios):
+- Tiempo de reloj: ~10 horas 25 minutos (14:06 del 25/04 al 00:31 del 26/04)
+- Tiempo activo real: ~5-6 horas (descontando 4h 46min de pausa por límite de sesión)
+
+**Solo el procesamiento de los 271 episodios**:
+> Catalogar 271 videos de YouTube con análisis semántico completo — categorías, arquetipos, era, intensidad, giro narrativo — costó **$4.16 y menos de 2 horas** sumando ambas fases.  
+> El equivalente en tiempo humano a 5 minutos por episodio sería **22 horas de trabajo**.
