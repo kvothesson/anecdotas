@@ -11887,17 +11887,76 @@
     "thumbnail": "https://i.ytimg.com/vi/lbQOTkWihko/hqdefault.jpg",
     "analysis": {
       "summary": "Un guardia de cárcel arriesga su vida para rescatar presos de un incendio mientras sus compañeros se niegan a entrar. Semanas después descubre que el fuego fue iniciado intencionalmente por un joven interno para matar al hombre que había abusado de sus hermanas, y el guardia debe decidir si declarar la verdad.",
-      "categories": ["judicial", "policial", "familia", "muerte", "corrupción"],
-      "geography": ["Argentina"],
+      "categories": [
+        "judicial",
+        "policial",
+        "familia",
+        "muerte",
+        "corrupción"
+      ],
+      "geography": [
+        "Argentina"
+      ],
       "era": "contemporánea",
       "protagonist_role": "protagonista",
       "emotional_arc": "dramático",
-      "institutions_involved": ["justicia", "policia"],
+      "institutions_involved": [
+        "justicia",
+        "policia"
+      ],
       "historical_events": [],
-      "archetypes": ["guardia de cárcel", "preso", "abusador", "joven en situación de calle"],
+      "archetypes": [
+        "guardia de cárcel",
+        "preso",
+        "abusador",
+        "joven en situación de calle"
+      ],
       "has_twist": true,
       "credibility": "alta",
       "intensity": 9
+    }
+  },
+  {
+    "id": "yRX1jq-bRq8",
+    "episode_number": 281,
+    "title": "Anécdota #281    - DEMASIADAS SUBTRAMAS",
+    "url": "https://youtube.com/watch?v=yRX1jq-bRq8",
+    "published_date": "2026-05-03",
+    "duration_seconds": 1378,
+    "views": 2623,
+    "likes": 267,
+    "thumbnail": "https://i.ytimg.com/vi/yRX1jq-bRq8/hqdefault.jpg",
+    "analysis": {
+      "summary": "En enero de 2008, un grupo de jóvenes sale de excursión a la cascada del río Noque en el cerro San Javier (Tucumán), pero lo que parecía un paseo turístico se convierte en una odisea con múltiples subtramas simultáneas. Cuando un integrante sufre un grave accidente y los demás quedan perdidos en el monte, el tío responsable del grupo se ve envuelto en situaciones cada vez más absurdas.",
+      "categories": [
+        "viaje",
+        "salud",
+        "familia",
+        "paranormal"
+      ],
+      "geography": [
+        "Tucumán",
+        "Cerro San Javier",
+        "Lules",
+        "Buenos Aires"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "narrador",
+      "emotional_arc": "dramático",
+      "institutions_involved": [
+        "policia",
+        "salud"
+      ],
+      "historical_events": [],
+      "archetypes": [
+        "tío",
+        "guardaparque",
+        "primos",
+        "amante"
+      ],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 8
     }
   }
 ]
