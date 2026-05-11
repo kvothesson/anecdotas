@@ -11958,5 +11958,51 @@
       "credibility": "alta",
       "intensity": 8
     }
+  },
+  {
+    "id": "__642Krpyn4",
+    "episode_number": 282,
+    "title": "Anécdota #282 - CAMGIRL",
+    "url": "https://youtube.com/watch?v=__642Krpyn4",
+    "published_date": "2026-05-10",
+    "duration_seconds": 2391,
+    "views": 37753,
+    "likes": 2334,
+    "thumbnail": "https://i.ytimg.com/vi/__642Krpyn4/hqdefault.jpg",
+    "analysis": {
+      "summary": "Antonia, una argentina de 19 años que llegó sin papeles a Miami, queda en la calle cuando su tía la echa culpándola de los avances del novio. Después de meses sobreviviendo con trabajos degradantes —incluyendo cuidar a un veterano de Vietnam racista y abusador— una noche desesperada la empuja a probar suerte como camgirl.",
+      "categories": [
+        "migración",
+        "laboral",
+        "familia",
+        "judicial",
+        "romance"
+      ],
+      "geography": [
+        "Miami",
+        "Buenos Aires",
+        "Alabama",
+        "Texas"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "emotivo",
+      "institutions_involved": [
+        "migraciones",
+        "salud",
+        "judicial",
+        "militar"
+      ],
+      "historical_events": [],
+      "archetypes": [
+        "inmigrante",
+        "veterano de guerra",
+        "anciano",
+        "preso"
+      ],
+      "has_twist": true,
+      "credibility": "baja",
+      "intensity": 7
+    }
   }
 ]
