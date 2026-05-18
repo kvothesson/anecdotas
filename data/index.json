@@ -12004,5 +12004,56 @@
       "credibility": "baja",
       "intensity": 7
     }
+  },
+  {
+    "id": "blGdb6C8T2A",
+    "episode_number": 283,
+    "title": "Anécdota #283    -  BULLYING al GUERITO",
+    "url": "https://youtube.com/watch?v=blGdb6C8T2A",
+    "published_date": "2026-05-17",
+    "duration_seconds": 1583,
+    "views": 5102,
+    "likes": 655,
+    "thumbnail": "https://i.ytimg.com/vi/blGdb6C8T2A/hqdefault.jpg",
+    "analysis": {
+      "summary": "Un argentino que emigró a los 13 años a Estados Unidos descubre que el único compañero que le hablaba en clase lo estaba insultando en inglés todos los días sin que él lo supiera. Cuando le confirman la verdad, intenta confrontarlo con un discurso preparado con diccionario, pero termina golpeándolo con un libro de historia hasta romperle la cara y acabar detenido en una cárcel de menores.",
+      "categories": [
+        "migración",
+        "judicial",
+        "policial",
+        "familia"
+      ],
+      "geography": [
+        "Estados Unidos",
+        "Mar del Plata",
+        "Costa Rica"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "absurdo",
+      "institutions_involved": [
+        "policia",
+        "justicia"
+      ],
+      "historical_events": [],
+      "archetypes": [
+        "emigrante",
+        "bully",
+        "madre",
+        "policía"
+      ],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 7,
+      "bonus_track": {
+        "summary": "Nico cuenta el origen del apodo Juan Cariño de su padre en el Mercado Central, heredado de un cuñado andaluz que separaba peleas gritando cariño cariño.",
+        "archetypes": [
+          "padre",
+          "comerciante"
+        ],
+        "emotional_arc": "cómico",
+        "intensity": 2
+      }
+    }
   }
 ]
