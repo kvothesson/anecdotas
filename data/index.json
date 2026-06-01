@@ -12107,5 +12107,46 @@
         "intensity": 6
       }
     }
+  },
+  {
+    "id": "FoAg2SDZFQ8",
+    "episode_number": 285,
+    "title": "Anécdota #285    -  POV: SECUESTRO",
+    "url": "https://youtube.com/watch?v=FoAg2SDZFQ8",
+    "published_date": "2026-05-31",
+    "duration_seconds": 1147,
+    "views": 3253,
+    "likes": 351,
+    "thumbnail": "https://i.ytimg.com/vi/FoAg2SDZFQ8/hqdefault.jpg",
+    "analysis": {
+      "summary": "La madre del narrador queda atrapada en una tienda de ropa en Venezuela cuando un asaltante de banco huye y la toma de rehén, usándola como escudo humano mientras el sitio policial escala.",
+      "categories": [
+        "policial",
+        "robo",
+        "corrupción",
+        "muerte",
+        "urbano"
+      ],
+      "geography": [
+        "Tigre, Venezuela"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "narrador",
+      "emotional_arc": "dramático",
+      "institutions_involved": [
+        "policia",
+        "justicia"
+      ],
+      "historical_events": [],
+      "archetypes": [
+        "madre",
+        "secuestrador",
+        "policía corrupto",
+        "empleada de tienda"
+      ],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 9
+    }
   }
 ]
