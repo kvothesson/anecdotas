@@ -12148,5 +12148,107 @@
       "credibility": "alta",
       "intensity": 9
     }
+  },
+  {
+    "id": "6qj-B-ISRs8",
+    "episode_number": 286,
+    "title": "Anécdota #286   - SE me CAYÓ el ESTÓMAGO",
+    "url": "https://youtube.com/watch?v=6qj-B-ISRs8",
+    "published_date": "2026-06-14",
+    "duration_seconds": 1736,
+    "views": 57056,
+    "likes": 2524,
+    "thumbnail": "https://i.ytimg.com/vi/6qj-B-ISRs8/hqdefault.jpg",
+    "analysis": {
+      "summary": "Una viajera argentina sin tarjeta ni dónde dormir queda varada de madrugada en una escala carísima en Australia, y termina pasando la noche en un baño público donde se cruza con desconocidos que no son lo que parecen.",
+      "categories": [
+        "viaje",
+        "drogas",
+        "urbano"
+      ],
+      "geography": [
+        "Gold Coast, Australia",
+        "Nueva Zelanda"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "dramático",
+      "institutions_involved": [
+        "migraciones"
+      ],
+      "historical_events": [],
+      "archetypes": [
+        "mochilera",
+        "drogadicto",
+        "ladrón",
+        "recepcionista de hostel"
+      ],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 6,
+      "bonus_track": {
+        "summary": "Nico cuenta que su tío, hermano de su madre, fue uno de los primeros stripers de Australia en los años 80 y soñaba con escribir un libro o podcast sobre esa historia.",
+        "archetypes": [
+          "tío",
+          "striper",
+          "físicoculturista"
+        ],
+        "emotional_arc": "cómico",
+        "intensity": 2
+      }
+    }
+  },
+  {
+    "id": "aLCzijaqNpQ",
+    "episode_number": 287,
+    "title": "Anécdota #287   - Al que MADRUGA lo CAPTURAN",
+    "url": "https://youtube.com/watch?v=aLCzijaqNpQ",
+    "published_date": "2026-06-21",
+    "duration_seconds": 1403,
+    "views": 31154,
+    "likes": 1756,
+    "thumbnail": "https://i.ytimg.com/vi/aLCzijaqNpQ/hqdefault.jpg",
+    "analysis": {
+      "summary": "En 1979, un joven argentino cruza en moto a un Chile bajo la dictadura de Pinochet y, en plena tensión limítrofe entre ambos países, es detenido por militares mientras paseaba por caminos vecinales y acusado de espionaje.",
+      "categories": [
+        "viaje",
+        "policial",
+        "histórico",
+        "judicial"
+      ],
+      "geography": [
+        "Reñaca, Chile",
+        "Mendoza, Argentina"
+      ],
+      "era": "dictadura",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "dramático",
+      "institutions_involved": [
+        "militar",
+        "policia"
+      ],
+      "historical_events": [
+        "dictadura"
+      ],
+      "archetypes": [
+        "motociclista",
+        "militar",
+        "carabinero",
+        "preso"
+      ],
+      "has_twist": false,
+      "credibility": "muy alta",
+      "intensity": 8,
+      "bonus_track": {
+        "summary": "Caballo y los comediantes son parados varias veces por la policía en la ruta y, entre faso, latitas y pedidos de fotos para flyers, terminan zafando a pura charla y buena onda con los oficiales.",
+        "archetypes": [
+          "comediante",
+          "policía",
+          "gitano"
+        ],
+        "emotional_arc": "cómico",
+        "intensity": 2
+      }
+    }
   }
 ]
