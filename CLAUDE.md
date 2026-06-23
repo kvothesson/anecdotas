@@ -39,7 +39,7 @@ Manual steps:
 YOUTUBE_API_KEY=... python scripts/refresh_stats.py
 ```
 
-Also runs automatically via GitHub Actions daily at 06:00 UTC (`.github/workflows/refresh-stats.yml`), committing any view/like changes back to the repo. Requires `YOUTUBE_API_KEY` as a GitHub secret.
+Runs locally only — needs `YOUTUBE_API_KEY` in the environment. There is no scheduled GitHub Action for this (it was removed because the key is not available in CI). New episodes already get fresh views/likes from yt-dlp at ingest time; existing episodes keep their last-known stats until a manual refresh is run.
 
 ## Frontend
 
