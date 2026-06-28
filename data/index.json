@@ -12250,5 +12250,52 @@
         "intensity": 2
       }
     }
+  },
+  {
+    "id": "97aNzSMnVkU",
+    "episode_number": 288,
+    "title": "Anécdota #288   - ROBERTITO",
+    "url": "https://youtube.com/watch?v=97aNzSMnVkU",
+    "published_date": "2026-06-28",
+    "duration_seconds": 2179,
+    "views": 1156,
+    "likes": 121,
+    "thumbnail": "https://i.ytimg.com/vi/97aNzSMnVkU/hqdefault.jpg",
+    "analysis": {
+      "summary": "Un mecánico germofóbico de una empresa forestal decide animarse a pedirle el \"chiquito\" a su atractiva vecina Patricia, armándose de consejos técnicos de un portero experto y consiguiendo prestada la camioneta-dormitorio de un compañero como nido de amor improvisado.",
+      "categories": [
+        "romance",
+        "laboral",
+        "vecinos",
+        "urbano"
+      ],
+      "geography": [
+        "Córdoba",
+        "Argentina"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "narrador",
+      "emotional_arc": "absurdo",
+      "institutions_involved": [],
+      "historical_events": [],
+      "archetypes": [
+        "mecánico",
+        "vecina",
+        "portero",
+        "camionero"
+      ],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 5,
+      "bonus_track": {
+        "summary": "Un adolescente de Bell Ville le muestra su bajo eléctrico recién comprado al Piti Álvarez afuera de un hotel, y el músico —en un estado alterado— lo lanza al aire varios metros, atrapándolo por milagro antes de que toque el suelo.",
+        "archetypes": [
+          "adolescente",
+          "músico rockero"
+        ],
+        "emotional_arc": "absurdo",
+        "intensity": 4
+      }
+    }
   }
 ]
