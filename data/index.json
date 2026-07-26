@@ -12297,5 +12297,135 @@
         "intensity": 4
       }
     }
+  },
+  {
+    "id": "QlUUevKpNh0",
+    "episode_number": 289,
+    "title": "Anécdota #289  - ESCUCHEN a su CUERPO",
+    "url": "https://youtube.com/watch?v=QlUUevKpNh0",
+    "published_date": "2026-07-05",
+    "duration_seconds": 1137,
+    "views": 60928,
+    "likes": 2667,
+    "thumbnail": "https://i.ytimg.com/vi/QlUUevKpNh0/hqdefault.jpg",
+    "analysis": {
+      "summary": "Un argentino radicado en España viaja a Fez, Marruecos, y al mudarse a un hostel barato que había reservado mirando solo el Wi-Fi, se cruza con un recepcionista que le enciende todas las alarmas internas.",
+      "categories": [
+        "viaje",
+        "urbano",
+        "migración"
+      ],
+      "geography": [
+        "Fez",
+        "Marruecos",
+        "España"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "dramático",
+      "institutions_involved": [],
+      "historical_events": [],
+      "archetypes": [
+        "viajero",
+        "recepcionista",
+        "mochilero",
+        "amigo"
+      ],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 7
+    }
+  },
+  {
+    "id": "KPd9ZneEaBs",
+    "episode_number": 290,
+    "title": "Anécdota #290  - NO La VEAN Si Son IMPRESIONABLES",
+    "url": "https://youtube.com/watch?v=KPd9ZneEaBs",
+    "published_date": "2026-07-19",
+    "duration_seconds": 1194,
+    "views": 56234,
+    "likes": 2933,
+    "thumbnail": "https://i.ytimg.com/vi/KPd9ZneEaBs/hqdefault.jpg",
+    "analysis": {
+      "summary": "Un camionero llega de madrugada a cargar en una planta de conchilla, se aburre esperando y sale a recorrer el predio, donde ve algo moverse en la oscuridad detrás de la fila de silos.",
+      "categories": [
+        "judicial",
+        "laboral",
+        "policial",
+        "animales",
+        "muerte"
+      ],
+      "geography": [
+        "Argentina"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "testigo",
+      "emotional_arc": "dramático",
+      "institutions_involved": [
+        "policia",
+        "justicia"
+      ],
+      "historical_events": [],
+      "archetypes": [
+        "camionero",
+        "sereno",
+        "policía",
+        "abogado"
+      ],
+      "has_twist": true,
+      "credibility": "alta",
+      "intensity": 9
+    }
+  },
+  {
+    "id": "W3QWph1MfBY",
+    "episode_number": 291,
+    "title": "Anécdota #291  - REMISERO por un día",
+    "url": "https://youtube.com/watch?v=W3QWph1MfBY",
+    "published_date": "2026-07-26",
+    "duration_seconds": 1212,
+    "views": 1173,
+    "likes": 128,
+    "thumbnail": "https://i.ytimg.com/vi/W3QWph1MfBY/hqdefault.jpg",
+    "analysis": {
+      "summary": "A los 20 años, sin trabajo, entra de chofer en una remisería del oeste del conurbano y descubre revisando las planillas que el turno noche hace muchísima más plata con muchos menos viajes.",
+      "categories": [
+        "drogas",
+        "laboral",
+        "policial",
+        "urbano",
+        "barrio"
+      ],
+      "geography": [
+        "Buenos Aires",
+        "Liniers",
+        "La Matanza"
+      ],
+      "era": "contemporánea",
+      "protagonist_role": "protagonista",
+      "emotional_arc": "dramático",
+      "institutions_involved": [
+        "policia"
+      ],
+      "historical_events": [],
+      "archetypes": [
+        "remisero",
+        "comisario retirado",
+        "narco",
+        "fisura"
+      ],
+      "has_twist": true,
+      "credibility": "media",
+      "intensity": 7,
+      "bonus_track": {
+        "summary": "En plena cuarentena, Nico le pide una cosita a un contacto que no puede salir, y la encomienda llega en un Uber escondida en el bolsillo de un pantaloncito de bebé para no levantar sospechas.",
+        "archetypes": [
+          "dealer",
+          "chofer de Uber"
+        ],
+        "emotional_arc": "cómico",
+        "intensity": 3
+      }
+    }
   }
 ]

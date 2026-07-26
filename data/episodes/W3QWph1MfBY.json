@@ -1,0 +1,51 @@
+{
+  "id": "W3QWph1MfBY",
+  "episode_number": 291,
+  "title": "Anécdota #291  - REMISERO por un día",
+  "url": "https://youtube.com/watch?v=W3QWph1MfBY",
+  "published_date": "2026-07-26",
+  "duration_seconds": 1212,
+  "views": 1173,
+  "likes": 128,
+  "thumbnail": "https://i.ytimg.com/vi/W3QWph1MfBY/hqdefault.jpg",
+  "analysis": {
+    "summary": "A los 20 años, sin trabajo, entra de chofer en una remisería del oeste del conurbano y descubre revisando las planillas que el turno noche hace muchísima más plata con muchos menos viajes.",
+    "categories": [
+      "drogas",
+      "laboral",
+      "policial",
+      "urbano",
+      "barrio"
+    ],
+    "geography": [
+      "Buenos Aires",
+      "Liniers",
+      "La Matanza"
+    ],
+    "era": "contemporánea",
+    "protagonist_role": "protagonista",
+    "emotional_arc": "dramático",
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [],
+    "archetypes": [
+      "remisero",
+      "comisario retirado",
+      "narco",
+      "fisura"
+    ],
+    "has_twist": true,
+    "credibility": "media",
+    "intensity": 7,
+    "bonus_track": {
+      "summary": "En plena cuarentena, Nico le pide una cosita a un contacto que no puede salir, y la encomienda llega en un Uber escondida en el bolsillo de un pantaloncito de bebé para no levantar sospechas.",
+      "archetypes": [
+        "dealer",
+        "chofer de Uber"
+      ],
+      "emotional_arc": "cómico",
+      "intensity": 3
+    }
+  }
+}
