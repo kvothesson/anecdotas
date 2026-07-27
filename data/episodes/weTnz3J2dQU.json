@@ -5,19 +5,31 @@
   "url": "https://youtube.com/watch?v=weTnz3J2dQU",
   "published_date": "2021-02-21",
   "duration_seconds": 926,
-  "views": 143317,
-  "likes": 7264,
+  "views": 145900,
+  "likes": 7355,
   "thumbnail": "https://i.ytimg.com/vi/weTnz3J2dQU/hqdefault.jpg",
   "analysis": {
     "summary": "Tras recibir un pelotazo en la nuca durante un partido de fútbol en el año 2002, un estudiante universitario pierde la memoria por horas y no recuerda quién es, qué año es ni los conflictos que tenía con su madre.",
-    "categories": ["salud", "familia", "deporte"],
-    "geography": ["Tandil"],
+    "categories": [
+      "salud",
+      "familia",
+      "deporte"
+    ],
+    "geography": [
+      "Tandil"
+    ],
     "era": "contemporánea",
     "protagonist_role": "protagonista",
     "emotional_arc": "emotivo",
-    "institutions_involved": ["salud"],
+    "institutions_involved": [
+      "salud"
+    ],
     "historical_events": [],
-    "archetypes": ["estudiante", "amigos", "madre"],
+    "archetypes": [
+      "estudiante",
+      "amigos",
+      "madre"
+    ],
     "has_twist": true,
     "credibility": "muy alta",
     "intensity": 5

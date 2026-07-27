@@ -5,19 +5,35 @@
   "url": "https://youtube.com/watch?v=lbQOTkWihko",
   "published_date": "2026-04-26",
   "duration_seconds": 1498,
-  "views": 574,
-  "likes": 63,
+  "views": 86420,
+  "likes": 3665,
   "thumbnail": "https://i.ytimg.com/vi/lbQOTkWihko/hqdefault.jpg",
   "analysis": {
     "summary": "Un guardia de cárcel arriesga su vida para rescatar presos de un incendio mientras sus compañeros se niegan a entrar. Semanas después descubre que el fuego fue iniciado intencionalmente por un joven interno para matar al hombre que había abusado de sus hermanas, y el guardia debe decidir si declarar la verdad.",
-    "categories": ["judicial", "policial", "familia", "muerte", "corrupción"],
-    "geography": ["Argentina"],
+    "categories": [
+      "judicial",
+      "policial",
+      "familia",
+      "muerte",
+      "corrupción"
+    ],
+    "geography": [
+      "Argentina"
+    ],
     "era": "contemporánea",
     "protagonist_role": "protagonista",
     "emotional_arc": "dramático",
-    "institutions_involved": ["justicia", "policia"],
+    "institutions_involved": [
+      "justicia",
+      "policia"
+    ],
     "historical_events": [],
-    "archetypes": ["guardia de cárcel", "preso", "abusador", "joven en situación de calle"],
+    "archetypes": [
+      "guardia de cárcel",
+      "preso",
+      "abusador",
+      "joven en situación de calle"
+    ],
     "has_twist": true,
     "credibility": "alta",
     "intensity": 9

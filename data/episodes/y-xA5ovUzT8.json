@@ -5,19 +5,31 @@
   "url": "https://youtube.com/watch?v=y-xA5ovUzT8",
   "published_date": "2021-02-28",
   "duration_seconds": 562,
-  "views": 91994,
-  "likes": 4870,
+  "views": 93589,
+  "likes": 4928,
   "thumbnail": "https://i.ytimg.com/vi/y-xA5ovUzT8/hqdefault.jpg",
   "analysis": {
     "summary": "Una chica de 16 años debe enfrentar el intento de suicidio de su novio, que después de una pelea en un boliche se cuelga de un poste de luz con los cordones de sus propias zapatillas.",
-    "categories": ["romance", "salud"],
-    "geography": ["interior de Argentina"],
+    "categories": [
+      "romance",
+      "salud"
+    ],
+    "geography": [
+      "interior de Argentina"
+    ],
     "era": "contemporánea",
     "protagonist_role": "testigo",
     "emotional_arc": "dramático",
-    "institutions_involved": ["salud", "policia"],
+    "institutions_involved": [
+      "salud",
+      "policia"
+    ],
     "historical_events": [],
-    "archetypes": ["adolescente", "novio", "policía"],
+    "archetypes": [
+      "adolescente",
+      "novio",
+      "policía"
+    ],
     "has_twist": false,
     "credibility": "alta",
     "intensity": 8

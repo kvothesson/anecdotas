@@ -5,19 +5,29 @@
   "url": "https://youtube.com/watch?v=MDJitxWi0ko",
   "published_date": "2020-11-22",
   "duration_seconds": 449,
-  "views": 108042,
-  "likes": 5366,
+  "views": 109812,
+  "likes": 5433,
   "thumbnail": "https://i.ytimg.com/vi/MDJitxWi0ko/hqdefault.jpg",
   "analysis": {
     "summary": "Un hincha de Argentina ahoga su tristeza por la derrota ante Francia en el Mundial 2018 en un largo asado familiar, llega a casa en un estado deplorable y se desmaya en la ducha, inundando toda la casa con agua y diarrea.",
-    "categories": ["deporte", "romance", "urbano"],
-    "geography": ["Argentina"],
+    "categories": [
+      "deporte",
+      "romance",
+      "urbano"
+    ],
+    "geography": [
+      "Argentina"
+    ],
     "era": "contemporánea",
     "protagonist_role": "protagonista",
     "emotional_arc": "cómico",
     "institutions_involved": [],
     "historical_events": [],
-    "archetypes": ["hincha", "novia", "tíos"],
+    "archetypes": [
+      "hincha",
+      "novia",
+      "tíos"
+    ],
     "has_twist": true,
     "credibility": "alta",
     "intensity": 3

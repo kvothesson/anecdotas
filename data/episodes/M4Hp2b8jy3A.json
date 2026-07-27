@@ -5,19 +5,27 @@
   "url": "https://youtube.com/watch?v=M4Hp2b8jy3A",
   "published_date": "2021-02-14",
   "duration_seconds": 517,
-  "views": 115012,
-  "likes": 5612,
+  "views": 117185,
+  "likes": 5690,
   "thumbnail": "https://i.ytimg.com/vi/M4Hp2b8jy3A/hqdefault.jpg",
   "analysis": {
     "summary": "Un joven mesero novato sirve a una mesa de señoras exigentes unos helados decorativos de yeso que estaban en la heladera de exhibición, sin darse cuenta de que no eran comestibles.",
-    "categories": ["laboral"],
-    "geography": ["Argentina"],
+    "categories": [
+      "laboral"
+    ],
+    "geography": [
+      "Argentina"
+    ],
     "era": "contemporánea",
     "protagonist_role": "protagonista",
     "emotional_arc": "cómico",
     "institutions_involved": [],
     "historical_events": [],
-    "archetypes": ["mesero novato", "clientas exigentes", "encargado"],
+    "archetypes": [
+      "mesero novato",
+      "clientas exigentes",
+      "encargado"
+    ],
     "has_twist": true,
     "credibility": "alta",
     "intensity": 3

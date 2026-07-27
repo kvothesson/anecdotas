@@ -5,25 +5,46 @@
   "url": "https://youtube.com/watch?v=LjPUqVN2wFA",
   "published_date": "2026-05-24",
   "duration_seconds": 1598,
-  "views": 31085,
-  "likes": 2961,
+  "views": 85306,
+  "likes": 5744,
   "thumbnail": "https://i.ytimg.com/vi/LjPUqVN2wFA/hqdefault.jpg",
   "analysis": {
     "summary": "Un joven de 21 años descubre que a los 5 años presenció cómo su abuelo asesinó a su propio hermano bajo amenaza de narcos en un pueblo rural de Paraguay, un recuerdo que su mente bloqueó durante 16 años mediante amnesia disociativa.",
-    "categories": ["familia", "muerte", "drogas", "policial", "barrio", "corrupción"],
-    "geography": ["Paraguay", "Buenos Aires"],
+    "categories": [
+      "familia",
+      "muerte",
+      "drogas",
+      "policial",
+      "barrio",
+      "corrupción"
+    ],
+    "geography": [
+      "Paraguay",
+      "Buenos Aires"
+    ],
     "era": "contemporánea",
     "protagonist_role": "testigo",
     "emotional_arc": "dramático",
-    "institutions_involved": ["municipio"],
+    "institutions_involved": [
+      "municipio"
+    ],
     "historical_events": [],
-    "archetypes": ["niño", "abuelo", "narcotraficante"],
+    "archetypes": [
+      "niño",
+      "abuelo",
+      "narcotraficante"
+    ],
     "has_twist": true,
     "credibility": "alta",
     "intensity": 9,
     "bonus_track": {
       "summary": "Un músico de Punta del Este acumula una cadena épicamente injusta de desgracias —detenciones falsas, causas armadas, robos— por culpa de las decisiones de otros, y termina reflexionando sobre el autocontrol desde adentro de la cárcel.",
-      "archetypes": ["músico", "padre", "policía corrupto", "cuñado"],
+      "archetypes": [
+        "músico",
+        "padre",
+        "policía corrupto",
+        "cuñado"
+      ],
       "emotional_arc": "absurdo",
       "intensity": 6
     }

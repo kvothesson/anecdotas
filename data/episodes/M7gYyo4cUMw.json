@@ -5,19 +5,30 @@
   "url": "https://youtube.com/watch?v=M7gYyo4cUMw",
   "published_date": "2020-12-20",
   "duration_seconds": 725,
-  "views": 118877,
-  "likes": 6054,
+  "views": 120918,
+  "likes": 6135,
   "thumbnail": "https://i.ytimg.com/vi/M7gYyo4cUMw/hqdefault.jpg",
   "analysis": {
     "summary": "Un joven soltero conoce a una mujer mayor en una app de citas y tienen un encuentro sexual sin protección. Cuando le hace una broma cruel diciéndole que tenía VIH para testear su reacción, las consecuencias son brutales e inesperadas.",
-    "categories": ["romance", "salud", "urbano"],
-    "geography": ["Buenos Aires"],
+    "categories": [
+      "romance",
+      "salud",
+      "urbano"
+    ],
+    "geography": [
+      "Buenos Aires"
+    ],
     "era": "contemporánea",
     "protagonist_role": "protagonista",
     "emotional_arc": "dramático",
-    "institutions_involved": ["salud"],
+    "institutions_involved": [
+      "salud"
+    ],
     "historical_events": [],
-    "archetypes": ["joven soltero", "mujer madura"],
+    "archetypes": [
+      "joven soltero",
+      "mujer madura"
+    ],
     "has_twist": true,
     "credibility": "media",
     "intensity": 7

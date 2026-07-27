@@ -5,19 +5,37 @@
   "url": "https://youtube.com/watch?v=yRX1jq-bRq8",
   "published_date": "2026-05-03",
   "duration_seconds": 1378,
-  "views": 2623,
-  "likes": 267,
+  "views": 74677,
+  "likes": 3141,
   "thumbnail": "https://i.ytimg.com/vi/yRX1jq-bRq8/hqdefault.jpg",
   "analysis": {
     "summary": "En enero de 2008, un grupo de jóvenes sale de excursión a la cascada del río Noque en el cerro San Javier (Tucumán), pero lo que parecía un paseo turístico se convierte en una odisea con múltiples subtramas simultáneas. Cuando un integrante sufre un grave accidente y los demás quedan perdidos en el monte, el tío responsable del grupo se ve envuelto en situaciones cada vez más absurdas.",
-    "categories": ["viaje", "salud", "familia", "paranormal"],
-    "geography": ["Tucumán", "Cerro San Javier", "Lules", "Buenos Aires"],
+    "categories": [
+      "viaje",
+      "salud",
+      "familia",
+      "paranormal"
+    ],
+    "geography": [
+      "Tucumán",
+      "Cerro San Javier",
+      "Lules",
+      "Buenos Aires"
+    ],
     "era": "contemporánea",
     "protagonist_role": "narrador",
     "emotional_arc": "dramático",
-    "institutions_involved": ["policia", "salud"],
+    "institutions_involved": [
+      "policia",
+      "salud"
+    ],
     "historical_events": [],
-    "archetypes": ["tío", "guardaparque", "primos", "amante"],
+    "archetypes": [
+      "tío",
+      "guardaparque",
+      "primos",
+      "amante"
+    ],
     "has_twist": true,
     "credibility": "alta",
     "intensity": 8

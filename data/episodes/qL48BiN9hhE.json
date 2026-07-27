@@ -5,19 +5,34 @@
   "url": "https://youtube.com/watch?v=qL48BiN9hhE",
   "published_date": "2021-03-15",
   "duration_seconds": 589,
-  "views": 94635,
-  "likes": 5112,
+  "views": 96260,
+  "likes": 5169,
   "thumbnail": "https://i.ytimg.com/vi/qL48BiN9hhE/hqdefault.jpg",
   "analysis": {
     "summary": "Un joven que entrenó artes marciales en secreto durante cuatro años para dejar de ser víctima de bullying aplica una patada devastadora en defensa propia contra un agresor armado, enviándolo al hospital con el cráneo fracturado.",
-    "categories": ["barrio", "policial", "judicial"],
-    "geography": ["interior de Argentina"],
+    "categories": [
+      "barrio",
+      "policial",
+      "judicial"
+    ],
+    "geography": [
+      "interior de Argentina"
+    ],
     "era": "contemporánea",
     "protagonist_role": "víctima",
     "emotional_arc": "dramático",
-    "institutions_involved": ["policia", "justicia", "salud"],
+    "institutions_involved": [
+      "policia",
+      "justicia",
+      "salud"
+    ],
     "historical_events": [],
-    "archetypes": ["joven", "agresor", "vecino", "policía"],
+    "archetypes": [
+      "joven",
+      "agresor",
+      "vecino",
+      "policía"
+    ],
     "has_twist": false,
     "credibility": "alta",
     "intensity": 8

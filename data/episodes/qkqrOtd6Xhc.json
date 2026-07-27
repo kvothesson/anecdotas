@@ -5,19 +5,28 @@
   "url": "https://youtube.com/watch?v=qkqrOtd6Xhc",
   "published_date": "2020-12-27",
   "duration_seconds": 380,
-  "views": 81347,
-  "likes": 4930,
+  "views": 82813,
+  "likes": 4990,
   "thumbnail": "https://i.ytimg.com/vi/qkqrOtd6Xhc/hqdefault.jpg",
   "analysis": {
     "summary": "Uriel, un niño obsesionado con el Calafate, logra predecir con exactitud el horario de la ruptura del glaciar Perito Moreno en 2004. La historia termina con su padrastro Rubén perdiendo un premio de lotería equivalente a una camioneta por anotar mal el número ganador.",
-    "categories": ["familia", "viaje"],
-    "geography": ["El Calafate", "Santa Cruz"],
+    "categories": [
+      "familia",
+      "viaje"
+    ],
+    "geography": [
+      "El Calafate",
+      "Santa Cruz"
+    ],
     "era": "contemporánea",
     "protagonist_role": "protagonista",
     "emotional_arc": "cómico",
     "institutions_involved": [],
     "historical_events": [],
-    "archetypes": ["niño", "padrastro"],
+    "archetypes": [
+      "niño",
+      "padrastro"
+    ],
     "has_twist": true,
     "credibility": "muy alta",
     "intensity": 3

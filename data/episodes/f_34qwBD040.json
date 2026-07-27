@@ -5,19 +5,37 @@
   "url": "https://youtube.com/watch?v=f_34qwBD040",
   "published_date": "2020-12-06",
   "duration_seconds": 605,
-  "views": 118553,
-  "likes": 6190,
+  "views": 120468,
+  "likes": 6259,
   "thumbnail": "https://i.ytimg.com/vi/f_34qwBD040/hqdefault.jpg",
   "analysis": {
     "summary": "Un ex policía desafectado por actos ilícitos narra cómo cayó en el crack junto a su mejor amigo durante una temporada en la costa, perdiendo todo lo que tenían. La historia termina con el amigo internado en un psiquiátrico, atormentado por una figura oscura que dice ver cada noche.",
-    "categories": ["drogas", "policial", "salud", "urbano"],
-    "geography": ["La Plata", "Buenos Aires", "Costa Atlántica", "Bahía Blanca"],
+    "categories": [
+      "drogas",
+      "policial",
+      "salud",
+      "urbano"
+    ],
+    "geography": [
+      "La Plata",
+      "Buenos Aires",
+      "Costa Atlántica",
+      "Bahía Blanca"
+    ],
     "era": "contemporánea",
     "protagonist_role": "protagonista",
     "emotional_arc": "dramático",
-    "institutions_involved": ["policia", "salud"],
+    "institutions_involved": [
+      "policia",
+      "salud"
+    ],
     "historical_events": [],
-    "archetypes": ["ex policía", "drogadicto", "transa", "casera"],
+    "archetypes": [
+      "ex policía",
+      "drogadicto",
+      "transa",
+      "casera"
+    ],
     "has_twist": true,
     "credibility": "alta",
     "intensity": 8

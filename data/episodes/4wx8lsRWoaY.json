@@ -5,19 +5,32 @@
   "url": "https://youtube.com/watch?v=4wx8lsRWoaY",
   "published_date": "2021-01-03",
   "duration_seconds": 474,
-  "views": 231035,
-  "likes": 10030,
+  "views": 232619,
+  "likes": 10092,
   "thumbnail": "https://i.ytimg.com/vi/4wx8lsRWoaY/hqdefault.jpg",
   "analysis": {
     "summary": "Un policía federal narra en primera persona su experiencia aquella noche del 30 de diciembre de 2004 en Cromañón: cómo ingresó al boliche entre el humo y la multitud empujando hacia la salida, rescatando personas una a una hasta que sus fuerzas no dieron más.",
-    "categories": ["policial", "muerte", "histórico"],
-    "geography": ["Buenos Aires"],
+    "categories": [
+      "policial",
+      "muerte",
+      "histórico"
+    ],
+    "geography": [
+      "Buenos Aires"
+    ],
     "era": "contemporánea",
     "protagonist_role": "protagonista",
     "emotional_arc": "dramático",
-    "institutions_involved": ["policia"],
-    "historical_events": ["Cromañón"],
-    "archetypes": ["policía", "víctima"],
+    "institutions_involved": [
+      "policia"
+    ],
+    "historical_events": [
+      "Cromañón"
+    ],
+    "archetypes": [
+      "policía",
+      "víctima"
+    ],
     "has_twist": false,
     "credibility": "muy alta",
     "intensity": 9
