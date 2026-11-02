@@ -1,0 +1,29 @@
+:root {
+  --ground: #04080d;
+  --surface: #0b1219;
+  --surface-raised: #121c25;
+  --line: #16303f;
+  --line-strong: #4a7084;
+  --ink: #d8f3ff;
+  --muted: #7f9fb3;
+  --ice: #5ce1ff;
+  --on-ice: #04080d;
+  --amber: #ffb347;
+  --on-amber: #04080d;
+  --accent: #ffb347;
+  --on-accent: #04080d;
+  --ok: #2fbf71;
+  --danger: #ff5a6e;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 40px;
+  --radius-s: 8px;
+  --radius-m: 14px;
+  --radius-full: 999px;
+  --font-display: "Bricolage Grotesque", "Arial Narrow", system-ui, sans-serif;
+  --font-sans: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, Consolas, monospace;
+  color-scheme: dark;
+}

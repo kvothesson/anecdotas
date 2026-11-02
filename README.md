@@ -1,10 +1,10 @@
 # Anécdotas Explorer
 
-Explorador de episodios del canal [Anécdotas](https://www.youtube.com/@NicodeTracy) de Nico de Tracy.
+Explorador de episodios del canal [Anécdotas](https://www.youtube.com/@nicolasdetracy) de Nico de Tracy.
 
 Permite buscar, filtrar y explorar más de 270 episodios por categoría, geografía, época, arco emocional e intensidad.
 
-**→ [Ver la app](https://kvothesson.github.io/anecdotas/)**
+**→ [Ver la app](https://kvothesson.com/anecdotas/)**
 
 ---
 

@@ -58,3 +58,9 @@ See `skills/anecdotas-ingest/SKILL.md` for the full schema. Key `analysis` field
 - `credibility`: `baja | media | alta | muy alta`
 - `intensity`: 1–10 integer
 - `era`: `contemporánea | años 90 | años 80 | años 70 | dictadura | siglo XX medio | histórico`
+
+## Datos derivados y diseño
+
+Después de ingestar episodios, correr `python scripts/build_explorar.py`. Regenera `data/explorar.json` (lugares y parecidas) y `data/busqueda.json` (qué palabras se dicen en cada episodio). Lee las transcripciones de `*_raw.json`, que no se publican: la salida guarda palabras sueltas, nunca el texto.
+
+Los colores y fuentes salen de `marca.css`, generado por `marca/generar.py` en el repo del taller (temperatura calor, modo noche). No se edita a mano.
